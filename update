@@ -31,7 +31,7 @@ re_start_time = re.compile(r"^(?P<hour>\d+):(?P<minutes>\d\d)\s+(?P<period>AM|PM
 class VueICS:
     PADDING = 15  # minutes
     START = datetime.date.today()
-    DAYS = 5
+    DAYS = 7
     LOCAL_TIMEZONE = pytz.timezone("Europe/London")
 
     def __init__(self):
@@ -108,6 +108,7 @@ class VueICS:
                 if not film["info_runningtime"]:
                     continue
 
+                title = film["title"]
                 runtime = self.parse_runtime(film["info_runningtime"])
 
                 for outer in film["showings"]:
@@ -116,7 +117,7 @@ class VueICS:
 
                         # Overview
                         event.add("uid", showing["session_id"])
-                        event.add("summary", film["title"])
+                        event.add("summary", title)
                         event.add("location", f"Vue {venue['display']}")
 
                         # Calculate times
