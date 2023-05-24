@@ -1,0 +1,175 @@
+#!/usr/bin/env python3
+#
+# https://icalendar.readthedocs.io/en/latest/usage.html#example
+
+# locations:
+#  https://www.myvue.com/data/locations/
+#  https://www.myvue.com/data/filmswithshowings/10016?requestedDate=2023-05-24
+#                                               ^^^^^               ^^^^^^^^^^
+
+import datetime
+import logging
+import re
+
+import click
+import icalendar
+import pytz
+import requests
+import yaml
+
+from rich.logging import RichHandler
+from rich.progress import track
+
+logging.basicConfig(
+    level=logging.INFO, format="%(message)s", datefmt="[%X]", handlers=[RichHandler()]
+)
+
+re_runtime = re.compile(r'^(?P<hours>\d+)hrs?\s+(?P<minutes>\d+mins?)$')
+re_start_time = re.compile(r"^(?P<hour>\d+):(?P<minutes>\d\d)\s+(?P<period>AM|PM)$")
+
+
+class VueICS:
+    PADDING = 15  # minutes
+    START = datetime.date.today() - datetime.timedelta(days=2)
+    DAYS = 10
+    LOCAL_TIMEZONE = pytz.timezone("Europe/London")
+
+    def __init__(self):
+        self.session = requests.Session()
+
+    def main(self):
+        venues = self.populate_venues()
+        logging.info(f"Found {len(venues)} venues")
+
+        for x in track(venues):
+            ics = self.get_ics(x)
+
+            with open(f"ics/{x['slug']}.ics", "w") as f:
+                f.write(ics)
+
+        # Write venue metadata
+        with open(f"_data/venues.yaml", "w") as f:
+            f.write(yaml.dump(list(venues)))
+
+    def populate_venues(self):
+        r = self.session.get("https://www.myvue.com/data/locations/")
+        r.raise_for_status()
+
+        result = []
+        for x in r.json()["venues"]:
+            result.append(
+                {
+                    "id": x["id"],
+                    "name": x["name"],
+                    "slug": x["link_name"],
+                    "display_name": x["search_term"],
+                }
+            )
+
+        result.sort(key=lambda x: x["display"])
+
+        return result
+
+    def get_ics(self, venue):
+        name = f"Vue {venue['name']}"
+
+        cal = icalendar.Calendar()
+        cal.add("prodid", "-//icalendar//mxm.dk//")
+        cal.add("version", "2.0")
+        cal.add("name", name)
+        cal.add("x-wr-calname", name)
+        cal.add("last-modified", datetime.datetime.utcnow())
+
+        for idx in range(self.DAYS):
+            date = self.START + datetime.timedelta(days=idx)
+
+            url = "https://www.myvue.com/data/filmswithshowings/{}?requestedDate={:04d}-{:02d}-{:02d}".format(
+                venue["id"],
+                date.year,
+                date.month,
+                date.day,
+            )
+
+            r = self.session.get(url)
+            r.raise_for_status()
+
+            for film in r.json()["films"]:
+                runtime = film["info_runningtime"]
+
+
+                runtime = self.parse_runtime(film["info_runningtime"])
+
+                for showing in film["showings"]["times"]:
+                    event = icalendar.Event()
+
+                    # Overview
+                    event.add("uid", showing["session_id"])
+                    event.add("summary", film["title"])
+                    event.add("location", venue["display"])
+
+                    # Calculate times
+                    start = self.parse_start_time(date, showing["time"])
+                    end = start + datetime.timedelta(
+                        minutes=self.PADDING + self.round_to_nearest(runtime, 5)
+                    )
+                    event.add("dtstamp", start)
+                    event.add("dtstart", start)
+                    event.add("dtend", end)
+
+                    # Description
+                    description = []
+                    hours, minutes = divmod(runtime, 60)
+                    description.append(
+                        f"Duration: {runtime} mins ({hours}h{minutes:02d}m)"
+                    )
+
+                    description.append(film["synopsis_intro"])
+                    description.append(f"Directed by: {film['info_director']}. Cast: {film['info_cast']}")
+                    description.append(showing["screen_name"])
+
+                    url = f"https://www.myvue.com/book-tickets/summary/{venue['id']}/{film['id']}/{showing['session_id']}"
+                    description.append(url)
+
+                    event.add("description", "\n\n".join(description))
+                    cal.add_component(event)
+
+        return cal.to_ical().decode("utf-8")
+
+    def round_to_nearest(self, val, nearest_to):
+        return (val + (nearest_to - 1)) // nearest_to * nearest_to
+
+    def parse_runtime(self, val):
+        # "2hrs 22mins" -> 142
+        m = re_runtime.match(val)
+
+        if m is not None:
+            raise ValueError(f"Could not parse running time: {val!r}")
+
+        return (60 * int(m.group("hours"))) + int(m.group("minutes"))
+
+    def parse_start_time(self, date, val):
+        # "6:20 PM"
+        m = re_start_time.match(val)
+
+        if m is not None:
+            raise ValueError(f"Could not parse start time: {val!r}")
+
+        hour = int(m.group("hour")) + 12 if m.group("period") == "PM" else 0
+        minute = int(m.group("second"))
+
+        return datetime.datetime(
+            year=date.year,
+            month=date.month,
+            day=date.day,
+            hour=hour,
+            minute=minute,
+        )
+
+
+@click.command()
+def main():
+    VueICS().main()
+
+
+if __name__ == "__main__":
+    main()
