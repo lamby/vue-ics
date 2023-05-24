@@ -41,7 +41,7 @@ class VueICS:
         venues = self.populate_venues()
         logging.info(f"Found {len(venues)} venues")
 
-        for x in track(venues):
+        for x in venues:
             ics = self.get_ics(x)
 
             with open(f"ics/{x['slug']}.ics", "w") as f:
@@ -86,7 +86,7 @@ class VueICS:
         cal.add("x-wr-calname", name)
         cal.add("last-modified", datetime.datetime.utcnow())
 
-        for idx in range(self.DAYS):
+        for idx in track(range(self.DAYS)):
             date = self.START + datetime.timedelta(days=idx)
 
             url = "https://www.myvue.com/data/filmswithshowings/{}?requestedDate={:04d}-{:02d}-{:02d}".format(
