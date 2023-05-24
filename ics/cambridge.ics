@@ -1,7 +1,7 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED;VALUE=DATE-TIME:20230524T185636Z
+LAST-MODIFIED;VALUE=DATE-TIME:20230524T190605Z
 NAME:Vue Cambridge
 X-WR-CALNAME:Vue Cambridge
 BEGIN:VEVENT
@@ -10,10 +10,10 @@ DTSTART;VALUE=DATE-TIME:20230524T211000
 DTEND;VALUE=DATE-TIME:20230524T235000
 DTSTAMP;VALUE=DATE-TIME:20230524T211000Z
 UID:258391
-DESCRIPTION:Duration: 142 mins (2h22m)\n\nThe end of the road begins.\n\nD
- irected by: Louis Leterrier. Cast: Vin Diesel\, Michelle Rodriguez\, Jason
-  Momoa\, Charlize Theron\, Brie Larson\n\nScreen 3\n\nhttps://www.myvue.co
- m/book-tickets/summary/10016/199571/258391
+DESCRIPTION:Duration: 142 mins (2h22m)\n\nScreen 3\n\nSynopsis: The end of
+  the road begins.\n\nDirected by: Louis Leterrier\nCast: Vin Diesel\, Mich
+ elle Rodriguez\, Jason Momoa\, Charlize Theron\, Brie Larson\n\nhttps://ww
+ w.myvue.com/book-tickets/summary/10016/199571/258391
 LOCATION:Vue Cambridge - Grafton Centre
 END:VEVENT
 BEGIN:VEVENT
@@ -22,10 +22,10 @@ DTSTART;VALUE=DATE-TIME:20230524T212500
 DTEND;VALUE=DATE-TIME:20230525T000500
 DTSTAMP;VALUE=DATE-TIME:20230524T212500Z
 UID:258481
-DESCRIPTION:Duration: 142 mins (2h22m)\n\nThe end of the road begins.\n\nD
- irected by: Louis Leterrier. Cast: Vin Diesel\, Michelle Rodriguez\, Jason
-  Momoa\, Charlize Theron\, Brie Larson\n\nScreen 7\n\nhttps://www.myvue.co
- m/book-tickets/summary/10016/199571/258481
+DESCRIPTION:Duration: 142 mins (2h22m)\n\nScreen 7\n\nSynopsis: The end of
+  the road begins.\n\nDirected by: Louis Leterrier\nCast: Vin Diesel\, Mich
+ elle Rodriguez\, Jason Momoa\, Charlize Theron\, Brie Larson\n\nhttps://ww
+ w.myvue.com/book-tickets/summary/10016/199571/258481
 LOCATION:Vue Cambridge - Grafton Centre
 END:VEVENT
 BEGIN:VEVENT
@@ -34,12 +34,12 @@ DTSTART;VALUE=DATE-TIME:20230524T203000
 DTEND;VALUE=DATE-TIME:20230524T231500
 DTSTAMP;VALUE=DATE-TIME:20230524T203000Z
 UID:258297
-DESCRIPTION:Duration: 150 mins (2h30m)\n\nPeter Quill\, still reeling from
-  the loss of Gamora\, must rally his team around him to defend the univers
- e along with protecting one of their own.\n\nDirected by: James Gunn. Cast
- : Chris Pratt\, Dave Bautista\, Zoe Saldana\, Vin Diesel\, Karen Gillan\, 
- Bradley Cooper\n\nScreen 1\n\nhttps://www.myvue.com/book-tickets/summary/1
- 0016/290530/258297
+DESCRIPTION:Duration: 150 mins (2h30m)\n\nScreen 1\n\nSynopsis: Peter Quil
+ l\, still reeling from the loss of Gamora\, must rally his team around him
+  to defend the universe along with protecting one of their own.\n\nDirecte
+ d by: James Gunn\nCast: Chris Pratt\, Dave Bautista\, Zoe Saldana\, Vin Di
+ esel\, Karen Gillan\, Bradley Cooper\n\nhttps://www.myvue.com/book-tickets
+ /summary/10016/290530/258297
 LOCATION:Vue Cambridge - Grafton Centre
 END:VEVENT
 BEGIN:VEVENT
@@ -48,12 +48,12 @@ DTSTART;VALUE=DATE-TIME:20230524T212500
 DTEND;VALUE=DATE-TIME:20230525T001000
 DTSTAMP;VALUE=DATE-TIME:20230524T212500Z
 UID:258423
-DESCRIPTION:Duration: 150 mins (2h30m)\n\nPeter Quill\, still reeling from
-  the loss of Gamora\, must rally his team around him to defend the univers
- e along with protecting one of their own.\n\nDirected by: James Gunn. Cast
- : Chris Pratt\, Dave Bautista\, Zoe Saldana\, Vin Diesel\, Karen Gillan\, 
- Bradley Cooper\n\nScreen 5\n\nhttps://www.myvue.com/book-tickets/summary/1
- 0016/290530/258423
+DESCRIPTION:Duration: 150 mins (2h30m)\n\nScreen 5\n\nSynopsis: Peter Quil
+ l\, still reeling from the loss of Gamora\, must rally his team around him
+  to defend the universe along with protecting one of their own.\n\nDirecte
+ d by: James Gunn\nCast: Chris Pratt\, Dave Bautista\, Zoe Saldana\, Vin Di
+ esel\, Karen Gillan\, Bradley Cooper\n\nhttps://www.myvue.com/book-tickets
+ /summary/10016/290530/258423
 LOCATION:Vue Cambridge - Grafton Centre
 END:VEVENT
 BEGIN:VEVENT
@@ -62,483 +62,12 @@ DTSTART;VALUE=DATE-TIME:20230524T215000
 DTEND;VALUE=DATE-TIME:20230524T234500
 DTSTAMP;VALUE=DATE-TIME:20230524T215000Z
 UID:258328
-DESCRIPTION:Duration: 97 mins (1h37m)\n\nMoving the action out of the wood
- s and into the city\, 'Evil Dead Rise' tells the twisted tale of two estra
- nged sisters whose reunion is cut short by the rise of flesh-possessing de
- mons.\n\nDirected by: Lee Cronin. Cast: Gabrielle Echols\, Lily Sullivan\,
-  Alyssa Sutherland\n\nScreen 2\n\nhttps://www.myvue.com/book-tickets/summa
- ry/10016/370062/258328
-LOCATION:Vue Cambridge - Grafton Centre
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:BFI Presents: Inland
-DTSTART;VALUE=DATE-TIME:20230524T194500
-DTEND;VALUE=DATE-TIME:20230524T212500
-DTSTAMP;VALUE=DATE-TIME:20230524T194500Z
-UID:258327
-DESCRIPTION:Duration: 82 mins (1h22m)\n\nINLAND is a modern fairy tale tha
- t explores the fractured identity of a young man after the mysterious disa
- ppearance of his mother.\n\nDirected by: Fridtjof Ryder. Cast: Mark Rylanc
- e\, Nell Williams\, Alexander Lincoln\, Kathryn Hunter\, Rory Alexander\, 
- Shaun Dingwall\, Eleanor Holliday\n\nScreen 2\n\nhttps://www.myvue.com/boo
- k-tickets/summary/10016/999164/258327
-LOCATION:Vue Cambridge - Grafton Centre
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Little Mermaid
-DTSTART;VALUE=DATE-TIME:20230526T111500
-DTEND;VALUE=DATE-TIME:20230526T134500
-DTSTAMP;VALUE=DATE-TIME:20230526T111500Z
-UID:258853
-DESCRIPTION:Duration: 135 mins (2h15m)\n\n"The Little Mermaid" is the belo
- ved story of Ariel\, a beautiful and spirited young mermaid with a thirst 
- for adventure. The youngest of King Triton's daughters\, and the most defi
- ant\, Ariel longs to find out more about the world beyond the sea.\n\nDire
- cted by: Rob Marshall. Cast: Melissa McCarthy\, Jonah Hauer-King\, Halle B
- ailey\n\nScreen 8\n\nhttps://www.myvue.com/book-tickets/summary/10016/2905
- 19/258853
-LOCATION:Vue Cambridge - Grafton Centre
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Little Mermaid
-DTSTART;VALUE=DATE-TIME:20230526T115500
-DTEND;VALUE=DATE-TIME:20230526T142500
-DTSTAMP;VALUE=DATE-TIME:20230526T115500Z
-UID:258664
-DESCRIPTION:Duration: 135 mins (2h15m)\n\n"The Little Mermaid" is the belo
- ved story of Ariel\, a beautiful and spirited young mermaid with a thirst 
- for adventure. The youngest of King Triton's daughters\, and the most defi
- ant\, Ariel longs to find out more about the world beyond the sea.\n\nDire
- cted by: Rob Marshall. Cast: Melissa McCarthy\, Jonah Hauer-King\, Halle B
- ailey\n\nScreen 1\n\nhttps://www.myvue.com/book-tickets/summary/10016/2905
- 19/258664
-LOCATION:Vue Cambridge - Grafton Centre
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Little Mermaid
-DTSTART;VALUE=DATE-TIME:20230526T124500
-DTEND;VALUE=DATE-TIME:20230526T151500
-DTSTAMP;VALUE=DATE-TIME:20230526T124500Z
-UID:257389
-DESCRIPTION:Duration: 135 mins (2h15m)\n\n"The Little Mermaid" is the belo
- ved story of Ariel\, a beautiful and spirited young mermaid with a thirst 
- for adventure. The youngest of King Triton's daughters\, and the most defi
- ant\, Ariel longs to find out more about the world beyond the sea.\n\nDire
- cted by: Rob Marshall. Cast: Melissa McCarthy\, Jonah Hauer-King\, Halle B
- ailey\n\nScreen 6\n\nhttps://www.myvue.com/book-tickets/summary/10016/2905
- 19/257389
-LOCATION:Vue Cambridge - Grafton Centre
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Little Mermaid
-DTSTART;VALUE=DATE-TIME:20230526T133000
-DTEND;VALUE=DATE-TIME:20230526T160000
-DTSTAMP;VALUE=DATE-TIME:20230526T133000Z
-UID:258832
-DESCRIPTION:Duration: 135 mins (2h15m)\n\n"The Little Mermaid" is the belo
- ved story of Ariel\, a beautiful and spirited young mermaid with a thirst 
- for adventure. The youngest of King Triton's daughters\, and the most defi
- ant\, Ariel longs to find out more about the world beyond the sea.\n\nDire
- cted by: Rob Marshall. Cast: Melissa McCarthy\, Jonah Hauer-King\, Halle B
- ailey\n\nScreen 7\n\nhttps://www.myvue.com/book-tickets/summary/10016/2905
- 19/258832
-LOCATION:Vue Cambridge - Grafton Centre
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Little Mermaid
-DTSTART;VALUE=DATE-TIME:20230526T141500
-DTEND;VALUE=DATE-TIME:20230526T164500
-DTSTAMP;VALUE=DATE-TIME:20230526T141500Z
-UID:257423
-DESCRIPTION:Duration: 135 mins (2h15m)\n\n"The Little Mermaid" is the belo
- ved story of Ariel\, a beautiful and spirited young mermaid with a thirst 
- for adventure. The youngest of King Triton's daughters\, and the most defi
- ant\, Ariel longs to find out more about the world beyond the sea.\n\nDire
- cted by: Rob Marshall. Cast: Melissa McCarthy\, Jonah Hauer-King\, Halle B
- ailey\n\nScreen 8\n\nhttps://www.myvue.com/book-tickets/summary/10016/2905
- 19/257423
-LOCATION:Vue Cambridge - Grafton Centre
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Little Mermaid
-DTSTART;VALUE=DATE-TIME:20230526T150000
-DTEND;VALUE=DATE-TIME:20230526T173000
-DTSTAMP;VALUE=DATE-TIME:20230526T150000Z
-UID:258724
-DESCRIPTION:Duration: 135 mins (2h15m)\n\n"The Little Mermaid" is the belo
- ved story of Ariel\, a beautiful and spirited young mermaid with a thirst 
- for adventure. The youngest of King Triton's daughters\, and the most defi
- ant\, Ariel longs to find out more about the world beyond the sea.\n\nDire
- cted by: Rob Marshall. Cast: Melissa McCarthy\, Jonah Hauer-King\, Halle B
- ailey\n\nScreen 3\n\nhttps://www.myvue.com/book-tickets/summary/10016/2905
- 19/258724
-LOCATION:Vue Cambridge - Grafton Centre
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Little Mermaid
-DTSTART;VALUE=DATE-TIME:20230526T160000
-DTEND;VALUE=DATE-TIME:20230526T183000
-DTSTAMP;VALUE=DATE-TIME:20230526T160000Z
-UID:258556
-DESCRIPTION:Duration: 135 mins (2h15m)\n\n"The Little Mermaid" is the belo
- ved story of Ariel\, a beautiful and spirited young mermaid with a thirst 
- for adventure. The youngest of King Triton's daughters\, and the most defi
- ant\, Ariel longs to find out more about the world beyond the sea.\n\nDire
- cted by: Rob Marshall. Cast: Melissa McCarthy\, Jonah Hauer-King\, Halle B
- ailey\n\nScreen 6\n\nhttps://www.myvue.com/book-tickets/summary/10016/2905
- 19/258556
-LOCATION:Vue Cambridge - Grafton Centre
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Little Mermaid
-DTSTART;VALUE=DATE-TIME:20230526T163500
-DTEND;VALUE=DATE-TIME:20230526T190500
-DTSTAMP;VALUE=DATE-TIME:20230526T163500Z
-UID:258789
-DESCRIPTION:Duration: 135 mins (2h15m)\n\n"The Little Mermaid" is the belo
- ved story of Ariel\, a beautiful and spirited young mermaid with a thirst 
- for adventure. The youngest of King Triton's daughters\, and the most defi
- ant\, Ariel longs to find out more about the world beyond the sea.\n\nDire
- cted by: Rob Marshall. Cast: Melissa McCarthy\, Jonah Hauer-King\, Halle B
- ailey\n\nScreen 5\n\nhttps://www.myvue.com/book-tickets/summary/10016/2905
- 19/258789
-LOCATION:Vue Cambridge - Grafton Centre
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Little Mermaid
-DTSTART;VALUE=DATE-TIME:20230526T170000
-DTEND;VALUE=DATE-TIME:20230526T193000
-DTSTAMP;VALUE=DATE-TIME:20230526T170000Z
-UID:257407
-DESCRIPTION:Duration: 135 mins (2h15m)\n\n"The Little Mermaid" is the belo
- ved story of Ariel\, a beautiful and spirited young mermaid with a thirst 
- for adventure. The youngest of King Triton's daughters\, and the most defi
- ant\, Ariel longs to find out more about the world beyond the sea.\n\nDire
- cted by: Rob Marshall. Cast: Melissa McCarthy\, Jonah Hauer-King\, Halle B
- ailey\n\nScreen 7\n\nhttps://www.myvue.com/book-tickets/summary/10016/2905
- 19/257407
-LOCATION:Vue Cambridge - Grafton Centre
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Little Mermaid
-DTSTART;VALUE=DATE-TIME:20230526T173000
-DTEND;VALUE=DATE-TIME:20230526T200000
-DTSTAMP;VALUE=DATE-TIME:20230526T173000Z
-UID:257424
-DESCRIPTION:Duration: 135 mins (2h15m)\n\n"The Little Mermaid" is the belo
- ved story of Ariel\, a beautiful and spirited young mermaid with a thirst 
- for adventure. The youngest of King Triton's daughters\, and the most defi
- ant\, Ariel longs to find out more about the world beyond the sea.\n\nDire
- cted by: Rob Marshall. Cast: Melissa McCarthy\, Jonah Hauer-King\, Halle B
- ailey\n\nScreen 8\n\nhttps://www.myvue.com/book-tickets/summary/10016/2905
- 19/257424
-LOCATION:Vue Cambridge - Grafton Centre
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Little Mermaid
-DTSTART;VALUE=DATE-TIME:20230526T182000
-DTEND;VALUE=DATE-TIME:20230526T205000
-DTSTAMP;VALUE=DATE-TIME:20230526T182000Z
-UID:257371
-DESCRIPTION:Duration: 135 mins (2h15m)\n\n"The Little Mermaid" is the belo
- ved story of Ariel\, a beautiful and spirited young mermaid with a thirst 
- for adventure. The youngest of King Triton's daughters\, and the most defi
- ant\, Ariel longs to find out more about the world beyond the sea.\n\nDire
- cted by: Rob Marshall. Cast: Melissa McCarthy\, Jonah Hauer-King\, Halle B
- ailey\n\nScreen 3\n\nhttps://www.myvue.com/book-tickets/summary/10016/2905
- 19/257371
-LOCATION:Vue Cambridge - Grafton Centre
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Little Mermaid
-DTSTART;VALUE=DATE-TIME:20230526T192000
-DTEND;VALUE=DATE-TIME:20230526T215000
-DTSTAMP;VALUE=DATE-TIME:20230526T192000Z
-UID:257849
-DESCRIPTION:Duration: 135 mins (2h15m)\n\n"The Little Mermaid" is the belo
- ved story of Ariel\, a beautiful and spirited young mermaid with a thirst 
- for adventure. The youngest of King Triton's daughters\, and the most defi
- ant\, Ariel longs to find out more about the world beyond the sea.\n\nDire
- cted by: Rob Marshall. Cast: Melissa McCarthy\, Jonah Hauer-King\, Halle B
- ailey\n\nScreen 6\n\nhttps://www.myvue.com/book-tickets/summary/10016/2905
- 19/257849
-LOCATION:Vue Cambridge - Grafton Centre
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Little Mermaid
-DTSTART;VALUE=DATE-TIME:20230526T200000
-DTEND;VALUE=DATE-TIME:20230526T223000
-DTSTAMP;VALUE=DATE-TIME:20230526T200000Z
-UID:258756
-DESCRIPTION:Duration: 135 mins (2h15m)\n\n"The Little Mermaid" is the belo
- ved story of Ariel\, a beautiful and spirited young mermaid with a thirst 
- for adventure. The youngest of King Triton's daughters\, and the most defi
- ant\, Ariel longs to find out more about the world beyond the sea.\n\nDire
- cted by: Rob Marshall. Cast: Melissa McCarthy\, Jonah Hauer-King\, Halle B
- ailey\n\nScreen 4\n\nhttps://www.myvue.com/book-tickets/summary/10016/2905
- 19/258756
-LOCATION:Vue Cambridge - Grafton Centre
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Little Mermaid
-DTSTART;VALUE=DATE-TIME:20230526T202000
-DTEND;VALUE=DATE-TIME:20230526T225000
-DTSTAMP;VALUE=DATE-TIME:20230526T202000Z
-UID:257408
-DESCRIPTION:Duration: 135 mins (2h15m)\n\n"The Little Mermaid" is the belo
- ved story of Ariel\, a beautiful and spirited young mermaid with a thirst 
- for adventure. The youngest of King Triton's daughters\, and the most defi
- ant\, Ariel longs to find out more about the world beyond the sea.\n\nDire
- cted by: Rob Marshall. Cast: Melissa McCarthy\, Jonah Hauer-King\, Halle B
- ailey\n\nScreen 7\n\nhttps://www.myvue.com/book-tickets/summary/10016/2905
- 19/257408
-LOCATION:Vue Cambridge - Grafton Centre
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Little Mermaid
-DTSTART;VALUE=DATE-TIME:20230526T205000
-DTEND;VALUE=DATE-TIME:20230526T232000
-DTSTAMP;VALUE=DATE-TIME:20230526T205000Z
-UID:258667
-DESCRIPTION:Duration: 135 mins (2h15m)\n\n"The Little Mermaid" is the belo
- ved story of Ariel\, a beautiful and spirited young mermaid with a thirst 
- for adventure. The youngest of King Triton's daughters\, and the most defi
- ant\, Ariel longs to find out more about the world beyond the sea.\n\nDire
- cted by: Rob Marshall. Cast: Melissa McCarthy\, Jonah Hauer-King\, Halle B
- ailey\n\nScreen 1\n\nhttps://www.myvue.com/book-tickets/summary/10016/2905
- 19/258667
-LOCATION:Vue Cambridge - Grafton Centre
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Little Mermaid
-DTSTART;VALUE=DATE-TIME:20230526T230000
-DTEND;VALUE=DATE-TIME:20230527T013000
-DTSTAMP;VALUE=DATE-TIME:20230526T230000Z
-UID:258757
-DESCRIPTION:Duration: 135 mins (2h15m)\n\n"The Little Mermaid" is the belo
- ved story of Ariel\, a beautiful and spirited young mermaid with a thirst 
- for adventure. The youngest of King Triton's daughters\, and the most defi
- ant\, Ariel longs to find out more about the world beyond the sea.\n\nDire
- cted by: Rob Marshall. Cast: Melissa McCarthy\, Jonah Hauer-King\, Halle B
- ailey\n\nScreen 4\n\nhttps://www.myvue.com/book-tickets/summary/10016/2905
- 19/258757
-LOCATION:Vue Cambridge - Grafton Centre
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Fast X
-DTSTART;VALUE=DATE-TIME:20230526T114000
-DTEND;VALUE=DATE-TIME:20230526T142000
-DTSTAMP;VALUE=DATE-TIME:20230526T114000Z
-UID:258698
-DESCRIPTION:Duration: 142 mins (2h22m)\n\nThe end of the road begins.\n\nD
- irected by: Louis Leterrier. Cast: Vin Diesel\, Michelle Rodriguez\, Jason
-  Momoa\, Charlize Theron\, Brie Larson\n\nScreen 2\n\nhttps://www.myvue.co
- m/book-tickets/summary/10016/199571/258698
-LOCATION:Vue Cambridge - Grafton Centre
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Fast X
-DTSTART;VALUE=DATE-TIME:20230526T134000
-DTEND;VALUE=DATE-TIME:20230526T162000
-DTSTAMP;VALUE=DATE-TIME:20230526T134000Z
-UID:258754
-DESCRIPTION:Duration: 142 mins (2h22m)\n\nThe end of the road begins.\n\nD
- irected by: Louis Leterrier. Cast: Vin Diesel\, Michelle Rodriguez\, Jason
-  Momoa\, Charlize Theron\, Brie Larson\n\nScreen 4\n\nhttps://www.myvue.co
- m/book-tickets/summary/10016/199571/258754
-LOCATION:Vue Cambridge - Grafton Centre
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Fast X
-DTSTART;VALUE=DATE-TIME:20230526T153000
-DTEND;VALUE=DATE-TIME:20230526T181000
-DTSTAMP;VALUE=DATE-TIME:20230526T153000Z
-UID:258665
-DESCRIPTION:Duration: 142 mins (2h22m)\n\nThe end of the road begins.\n\nD
- irected by: Louis Leterrier. Cast: Vin Diesel\, Michelle Rodriguez\, Jason
-  Momoa\, Charlize Theron\, Brie Larson\n\nScreen 1\n\nhttps://www.myvue.co
- m/book-tickets/summary/10016/199571/258665
-LOCATION:Vue Cambridge - Grafton Centre
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Fast X
-DTSTART;VALUE=DATE-TIME:20230526T171000
-DTEND;VALUE=DATE-TIME:20230526T195000
-DTSTAMP;VALUE=DATE-TIME:20230526T171000Z
-UID:258700
-DESCRIPTION:Duration: 142 mins (2h22m)\n\nThe end of the road begins.\n\nD
- irected by: Louis Leterrier. Cast: Vin Diesel\, Michelle Rodriguez\, Jason
-  Momoa\, Charlize Theron\, Brie Larson\n\nScreen 2\n\nhttps://www.myvue.co
- m/book-tickets/summary/10016/199571/258700
-LOCATION:Vue Cambridge - Grafton Centre
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Fast X
-DTSTART;VALUE=DATE-TIME:20230526T193500
-DTEND;VALUE=DATE-TIME:20230526T221500
-DTSTAMP;VALUE=DATE-TIME:20230526T193500Z
-UID:258790
-DESCRIPTION:Duration: 142 mins (2h22m)\n\nThe end of the road begins.\n\nD
- irected by: Louis Leterrier. Cast: Vin Diesel\, Michelle Rodriguez\, Jason
-  Momoa\, Charlize Theron\, Brie Larson\n\nScreen 5\n\nhttps://www.myvue.co
- m/book-tickets/summary/10016/199571/258790
-LOCATION:Vue Cambridge - Grafton Centre
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Fast X
-DTSTART;VALUE=DATE-TIME:20230526T203500
-DTEND;VALUE=DATE-TIME:20230526T231500
-DTSTAMP;VALUE=DATE-TIME:20230526T203500Z
-UID:258854
-DESCRIPTION:Duration: 142 mins (2h22m)\n\nThe end of the road begins.\n\nD
- irected by: Louis Leterrier. Cast: Vin Diesel\, Michelle Rodriguez\, Jason
-  Momoa\, Charlize Theron\, Brie Larson\n\nScreen 8\n\nhttps://www.myvue.co
- m/book-tickets/summary/10016/199571/258854
-LOCATION:Vue Cambridge - Grafton Centre
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Fast X
-DTSTART;VALUE=DATE-TIME:20230526T212000
-DTEND;VALUE=DATE-TIME:20230527T000000
-DTSTAMP;VALUE=DATE-TIME:20230526T212000Z
-UID:258725
-DESCRIPTION:Duration: 142 mins (2h22m)\n\nThe end of the road begins.\n\nD
- irected by: Louis Leterrier. Cast: Vin Diesel\, Michelle Rodriguez\, Jason
-  Momoa\, Charlize Theron\, Brie Larson\n\nScreen 3\n\nhttps://www.myvue.co
- m/book-tickets/summary/10016/199571/258725
-LOCATION:Vue Cambridge - Grafton Centre
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Fast X
-DTSTART;VALUE=DATE-TIME:20230526T222000
-DTEND;VALUE=DATE-TIME:20230527T010000
-DTSTAMP;VALUE=DATE-TIME:20230526T222000Z
-UID:258810
-DESCRIPTION:Duration: 142 mins (2h22m)\n\nThe end of the road begins.\n\nD
- irected by: Louis Leterrier. Cast: Vin Diesel\, Michelle Rodriguez\, Jason
-  Momoa\, Charlize Theron\, Brie Larson\n\nScreen 6\n\nhttps://www.myvue.co
- m/book-tickets/summary/10016/199571/258810
-LOCATION:Vue Cambridge - Grafton Centre
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Guardians of the Galaxy Vol. 3
-DTSTART;VALUE=DATE-TIME:20230526T132000
-DTEND;VALUE=DATE-TIME:20230526T160500
-DTSTAMP;VALUE=DATE-TIME:20230526T132000Z
-UID:258788
-DESCRIPTION:Duration: 150 mins (2h30m)\n\nPeter Quill\, still reeling from
-  the loss of Gamora\, must rally his team around him to defend the univers
- e along with protecting one of their own.\n\nDirected by: James Gunn. Cast
- : Chris Pratt\, Dave Bautista\, Zoe Saldana\, Vin Diesel\, Karen Gillan\, 
- Bradley Cooper\n\nScreen 5\n\nhttps://www.myvue.com/book-tickets/summary/1
- 0016/290530/258788
-LOCATION:Vue Cambridge - Grafton Centre
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Guardians of the Galaxy Vol. 3
-DTSTART;VALUE=DATE-TIME:20230526T164500
-DTEND;VALUE=DATE-TIME:20230526T193000
-DTSTAMP;VALUE=DATE-TIME:20230526T164500Z
-UID:258755
-DESCRIPTION:Duration: 150 mins (2h30m)\n\nPeter Quill\, still reeling from
-  the loss of Gamora\, must rally his team around him to defend the univers
- e along with protecting one of their own.\n\nDirected by: James Gunn. Cast
- : Chris Pratt\, Dave Bautista\, Zoe Saldana\, Vin Diesel\, Karen Gillan\, 
- Bradley Cooper\n\nScreen 4\n\nhttps://www.myvue.com/book-tickets/summary/1
- 0016/290530/258755
-LOCATION:Vue Cambridge - Grafton Centre
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Guardians of the Galaxy Vol. 3
-DTSTART;VALUE=DATE-TIME:20230526T201500
-DTEND;VALUE=DATE-TIME:20230526T230000
-DTSTAMP;VALUE=DATE-TIME:20230526T201500Z
-UID:258701
-DESCRIPTION:Duration: 150 mins (2h30m)\n\nPeter Quill\, still reeling from
-  the loss of Gamora\, must rally his team around him to defend the univers
- e along with protecting one of their own.\n\nDirected by: James Gunn. Cast
- : Chris Pratt\, Dave Bautista\, Zoe Saldana\, Vin Diesel\, Karen Gillan\, 
- Bradley Cooper\n\nScreen 2\n\nhttps://www.myvue.com/book-tickets/summary/1
- 0016/290530/258701
-LOCATION:Vue Cambridge - Grafton Centre
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Guardians of the Galaxy Vol. 3
-DTSTART;VALUE=DATE-TIME:20230526T224000
-DTEND;VALUE=DATE-TIME:20230527T012500
-DTSTAMP;VALUE=DATE-TIME:20230526T224000Z
-UID:258791
-DESCRIPTION:Duration: 150 mins (2h30m)\n\nPeter Quill\, still reeling from
-  the loss of Gamora\, must rally his team around him to defend the univers
- e along with protecting one of their own.\n\nDirected by: James Gunn. Cast
- : Chris Pratt\, Dave Bautista\, Zoe Saldana\, Vin Diesel\, Karen Gillan\, 
- Bradley Cooper\n\nScreen 5\n\nhttps://www.myvue.com/book-tickets/summary/1
- 0016/290530/258791
-LOCATION:Vue Cambridge - Grafton Centre
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Super Mario Bros. Movie
-DTSTART;VALUE=DATE-TIME:20230526T110000
-DTEND;VALUE=DATE-TIME:20230526T125000
-DTSTAMP;VALUE=DATE-TIME:20230526T110000Z
-UID:258831
-DESCRIPTION:Duration: 92 mins (1h32m)\n\nA plumber named Mario travels thr
- ough an underground labyrinth with his brother\, Luigi\, trying to save a 
- captured princess.\n\nDirected by: Matthew Fogel. Cast: Chris Pratt\, Anya
-  Taylor-Joy\, Charlie Day\, Jack Black\, Seth Rogen\n\nScreen 7\n\nhttps:/
- /www.myvue.com/book-tickets/summary/10016/223992/258831
-LOCATION:Vue Cambridge - Grafton Centre
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Super Mario Bros. Movie
-DTSTART;VALUE=DATE-TIME:20230526T144500
-DTEND;VALUE=DATE-TIME:20230526T163500
-DTSTAMP;VALUE=DATE-TIME:20230526T144500Z
-UID:258699
-DESCRIPTION:Duration: 92 mins (1h32m)\n\nA plumber named Mario travels thr
- ough an underground labyrinth with his brother\, Luigi\, trying to save a 
- captured princess.\n\nDirected by: Matthew Fogel. Cast: Chris Pratt\, Anya
-  Taylor-Joy\, Charlie Day\, Jack Black\, Seth Rogen\n\nScreen 2\n\nhttps:/
- /www.myvue.com/book-tickets/summary/10016/223992/258699
-LOCATION:Vue Cambridge - Grafton Centre
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Super Mario Bros. Movie
-DTSTART;VALUE=DATE-TIME:20230526T183500
-DTEND;VALUE=DATE-TIME:20230526T202500
-DTSTAMP;VALUE=DATE-TIME:20230526T183500Z
-UID:258666
-DESCRIPTION:Duration: 92 mins (1h32m)\n\nA plumber named Mario travels thr
- ough an underground labyrinth with his brother\, Luigi\, trying to save a 
- captured princess.\n\nDirected by: Matthew Fogel. Cast: Chris Pratt\, Anya
-  Taylor-Joy\, Charlie Day\, Jack Black\, Seth Rogen\n\nScreen 1\n\nhttps:/
- /www.myvue.com/book-tickets/summary/10016/223992/258666
-LOCATION:Vue Cambridge - Grafton Centre
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Evil Dead Rise
-DTSTART;VALUE=DATE-TIME:20230526T233000
-DTEND;VALUE=DATE-TIME:20230527T012500
-DTSTAMP;VALUE=DATE-TIME:20230526T233000Z
-UID:258702
-DESCRIPTION:Duration: 97 mins (1h37m)\n\nMoving the action out of the wood
- s and into the city\, 'Evil Dead Rise' tells the twisted tale of two estra
- nged sisters whose reunion is cut short by the rise of flesh-possessing de
- mons.\n\nDirected by: Lee Cronin. Cast: Gabrielle Echols\, Lily Sullivan\,
-  Alyssa Sutherland\n\nScreen 2\n\nhttps://www.myvue.com/book-tickets/summa
- ry/10016/370062/258702
-LOCATION:Vue Cambridge - Grafton Centre
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Hey Duggee At The Cinema! 2
-DTSTART;VALUE=DATE-TIME:20230526T130500
-DTEND;VALUE=DATE-TIME:20230526T142000
-DTSTAMP;VALUE=DATE-TIME:20230526T130500Z
-UID:258723
-DESCRIPTION:Duration: 60 mins (1h00m)\n\nJoin Duggee and his friends for a
-  60 minute special made up of your favorite episodes.\n\nDirected by: Gran
- t Orchard\, Sander Jones. Cast: Duggee\, Norrie\, Roly\, Tag\, Betty\n\nSc
- reen 3\n\nhttps://www.myvue.com/book-tickets/summary/10016/389694/258723
+DESCRIPTION:Duration: 97 mins (1h37m)\n\nScreen 2\n\nSynopsis: Moving the 
+ action out of the woods and into the city\, 'Evil Dead Rise' tells the twi
+ sted tale of two estranged sisters whose reunion is cut short by the rise 
+ of flesh-possessing demons.\n\nDirected by: Lee Cronin\nCast: Gabrielle Ec
+ hols\, Lily Sullivan\, Alyssa Sutherland\n\nhttps://www.myvue.com/book-tic
+ kets/summary/10016/370062/258328
 LOCATION:Vue Cambridge - Grafton Centre
 END:VEVENT
 BEGIN:VEVENT
@@ -547,13 +76,13 @@ DTSTART;VALUE=DATE-TIME:20230527T101500
 DTEND;VALUE=DATE-TIME:20230527T124500
 DTSTAMP;VALUE=DATE-TIME:20230527T101500Z
 UID:258694
-DESCRIPTION:Duration: 135 mins (2h15m)\n\n"The Little Mermaid" is the belo
- ved story of Ariel\, a beautiful and spirited young mermaid with a thirst 
- for adventure. The youngest of King Triton's daughters\, and the most defi
- ant\, Ariel longs to find out more about the world beyond the sea.\n\nDire
- cted by: Rob Marshall. Cast: Melissa McCarthy\, Jonah Hauer-King\, Halle B
- ailey\n\nScreen 2\n\nhttps://www.myvue.com/book-tickets/summary/10016/2905
- 19/258694
+DESCRIPTION:Duration: 135 mins (2h15m)\n\nScreen 2\n\nSynopsis: "The Littl
+ e Mermaid" is the beloved story of Ariel\, a beautiful and spirited young 
+ mermaid with a thirst for adventure. The youngest of King Triton's daughte
+ rs\, and the most defiant\, Ariel longs to find out more about the world b
+ eyond the sea.\n\nDirected by: Rob Marshall\nCast: Melissa McCarthy\, Jona
+ h Hauer-King\, Halle Bailey\n\nhttps://www.myvue.com/book-tickets/summary/
+ 10016/290519/258694
 LOCATION:Vue Cambridge - Grafton Centre
 END:VEVENT
 BEGIN:VEVENT
@@ -562,13 +91,13 @@ DTSTART;VALUE=DATE-TIME:20230527T110000
 DTEND;VALUE=DATE-TIME:20230527T133000
 DTSTAMP;VALUE=DATE-TIME:20230527T110000Z
 UID:257420
-DESCRIPTION:Duration: 135 mins (2h15m)\n\n"The Little Mermaid" is the belo
- ved story of Ariel\, a beautiful and spirited young mermaid with a thirst 
- for adventure. The youngest of King Triton's daughters\, and the most defi
- ant\, Ariel longs to find out more about the world beyond the sea.\n\nDire
- cted by: Rob Marshall. Cast: Melissa McCarthy\, Jonah Hauer-King\, Halle B
- ailey\n\nScreen 8\n\nhttps://www.myvue.com/book-tickets/summary/10016/2905
- 19/257420
+DESCRIPTION:Duration: 135 mins (2h15m)\n\nScreen 8\n\nSynopsis: "The Littl
+ e Mermaid" is the beloved story of Ariel\, a beautiful and spirited young 
+ mermaid with a thirst for adventure. The youngest of King Triton's daughte
+ rs\, and the most defiant\, Ariel longs to find out more about the world b
+ eyond the sea.\n\nDirected by: Rob Marshall\nCast: Melissa McCarthy\, Jona
+ h Hauer-King\, Halle Bailey\n\nhttps://www.myvue.com/book-tickets/summary/
+ 10016/290519/257420
 LOCATION:Vue Cambridge - Grafton Centre
 END:VEVENT
 BEGIN:VEVENT
@@ -577,13 +106,13 @@ DTSTART;VALUE=DATE-TIME:20230527T114500
 DTEND;VALUE=DATE-TIME:20230527T141500
 DTSTAMP;VALUE=DATE-TIME:20230527T114500Z
 UID:258543
-DESCRIPTION:Duration: 135 mins (2h15m)\n\n"The Little Mermaid" is the belo
- ved story of Ariel\, a beautiful and spirited young mermaid with a thirst 
- for adventure. The youngest of King Triton's daughters\, and the most defi
- ant\, Ariel longs to find out more about the world beyond the sea.\n\nDire
- cted by: Rob Marshall. Cast: Melissa McCarthy\, Jonah Hauer-King\, Halle B
- ailey\n\nScreen 3\n\nhttps://www.myvue.com/book-tickets/summary/10016/2905
- 19/258543
+DESCRIPTION:Duration: 135 mins (2h15m)\n\nScreen 3\n\nSynopsis: "The Littl
+ e Mermaid" is the beloved story of Ariel\, a beautiful and spirited young 
+ mermaid with a thirst for adventure. The youngest of King Triton's daughte
+ rs\, and the most defiant\, Ariel longs to find out more about the world b
+ eyond the sea.\n\nDirected by: Rob Marshall\nCast: Melissa McCarthy\, Jona
+ h Hauer-King\, Halle Bailey\n\nhttps://www.myvue.com/book-tickets/summary/
+ 10016/290519/258543
 LOCATION:Vue Cambridge - Grafton Centre
 END:VEVENT
 BEGIN:VEVENT
@@ -592,13 +121,13 @@ DTSTART;VALUE=DATE-TIME:20230527T124500
 DTEND;VALUE=DATE-TIME:20230527T151500
 DTSTAMP;VALUE=DATE-TIME:20230527T124500Z
 UID:257386
-DESCRIPTION:Duration: 135 mins (2h15m)\n\n"The Little Mermaid" is the belo
- ved story of Ariel\, a beautiful and spirited young mermaid with a thirst 
- for adventure. The youngest of King Triton's daughters\, and the most defi
- ant\, Ariel longs to find out more about the world beyond the sea.\n\nDire
- cted by: Rob Marshall. Cast: Melissa McCarthy\, Jonah Hauer-King\, Halle B
- ailey\n\nScreen 6\n\nhttps://www.myvue.com/book-tickets/summary/10016/2905
- 19/257386
+DESCRIPTION:Duration: 135 mins (2h15m)\n\nScreen 6\n\nSynopsis: "The Littl
+ e Mermaid" is the beloved story of Ariel\, a beautiful and spirited young 
+ mermaid with a thirst for adventure. The youngest of King Triton's daughte
+ rs\, and the most defiant\, Ariel longs to find out more about the world b
+ eyond the sea.\n\nDirected by: Rob Marshall\nCast: Melissa McCarthy\, Jona
+ h Hauer-King\, Halle Bailey\n\nhttps://www.myvue.com/book-tickets/summary/
+ 10016/290519/257386
 LOCATION:Vue Cambridge - Grafton Centre
 END:VEVENT
 BEGIN:VEVENT
@@ -607,13 +136,13 @@ DTSTART;VALUE=DATE-TIME:20230527T133000
 DTEND;VALUE=DATE-TIME:20230527T160000
 DTSTAMP;VALUE=DATE-TIME:20230527T133000Z
 UID:257403
-DESCRIPTION:Duration: 135 mins (2h15m)\n\n"The Little Mermaid" is the belo
- ved story of Ariel\, a beautiful and spirited young mermaid with a thirst 
- for adventure. The youngest of King Triton's daughters\, and the most defi
- ant\, Ariel longs to find out more about the world beyond the sea.\n\nDire
- cted by: Rob Marshall. Cast: Melissa McCarthy\, Jonah Hauer-King\, Halle B
- ailey\n\nScreen 7\n\nhttps://www.myvue.com/book-tickets/summary/10016/2905
- 19/257403
+DESCRIPTION:Duration: 135 mins (2h15m)\n\nScreen 7\n\nSynopsis: "The Littl
+ e Mermaid" is the beloved story of Ariel\, a beautiful and spirited young 
+ mermaid with a thirst for adventure. The youngest of King Triton's daughte
+ rs\, and the most defiant\, Ariel longs to find out more about the world b
+ eyond the sea.\n\nDirected by: Rob Marshall\nCast: Melissa McCarthy\, Jona
+ h Hauer-King\, Halle Bailey\n\nhttps://www.myvue.com/book-tickets/summary/
+ 10016/290519/257403
 LOCATION:Vue Cambridge - Grafton Centre
 END:VEVENT
 BEGIN:VEVENT
@@ -622,13 +151,13 @@ DTSTART;VALUE=DATE-TIME:20230527T141500
 DTEND;VALUE=DATE-TIME:20230527T164500
 DTSTAMP;VALUE=DATE-TIME:20230527T141500Z
 UID:257421
-DESCRIPTION:Duration: 135 mins (2h15m)\n\n"The Little Mermaid" is the belo
- ved story of Ariel\, a beautiful and spirited young mermaid with a thirst 
- for adventure. The youngest of King Triton's daughters\, and the most defi
- ant\, Ariel longs to find out more about the world beyond the sea.\n\nDire
- cted by: Rob Marshall. Cast: Melissa McCarthy\, Jonah Hauer-King\, Halle B
- ailey\n\nScreen 8\n\nhttps://www.myvue.com/book-tickets/summary/10016/2905
- 19/257421
+DESCRIPTION:Duration: 135 mins (2h15m)\n\nScreen 8\n\nSynopsis: "The Littl
+ e Mermaid" is the beloved story of Ariel\, a beautiful and spirited young 
+ mermaid with a thirst for adventure. The youngest of King Triton's daughte
+ rs\, and the most defiant\, Ariel longs to find out more about the world b
+ eyond the sea.\n\nDirected by: Rob Marshall\nCast: Melissa McCarthy\, Jona
+ h Hauer-King\, Halle Bailey\n\nhttps://www.myvue.com/book-tickets/summary/
+ 10016/290519/257421
 LOCATION:Vue Cambridge - Grafton Centre
 END:VEVENT
 BEGIN:VEVENT
@@ -637,13 +166,13 @@ DTSTART;VALUE=DATE-TIME:20230527T150000
 DTEND;VALUE=DATE-TIME:20230527T173000
 DTSTAMP;VALUE=DATE-TIME:20230527T150000Z
 UID:258254
-DESCRIPTION:Duration: 135 mins (2h15m)\n\n"The Little Mermaid" is the belo
- ved story of Ariel\, a beautiful and spirited young mermaid with a thirst 
- for adventure. The youngest of King Triton's daughters\, and the most defi
- ant\, Ariel longs to find out more about the world beyond the sea.\n\nDire
- cted by: Rob Marshall. Cast: Melissa McCarthy\, Jonah Hauer-King\, Halle B
- ailey\n\nScreen 3\n\nhttps://www.myvue.com/book-tickets/summary/10016/2905
- 19/258254
+DESCRIPTION:Duration: 135 mins (2h15m)\n\nScreen 3\n\nSynopsis: "The Littl
+ e Mermaid" is the beloved story of Ariel\, a beautiful and spirited young 
+ mermaid with a thirst for adventure. The youngest of King Triton's daughte
+ rs\, and the most defiant\, Ariel longs to find out more about the world b
+ eyond the sea.\n\nDirected by: Rob Marshall\nCast: Melissa McCarthy\, Jona
+ h Hauer-King\, Halle Bailey\n\nhttps://www.myvue.com/book-tickets/summary/
+ 10016/290519/258254
 LOCATION:Vue Cambridge - Grafton Centre
 END:VEVENT
 BEGIN:VEVENT
@@ -652,13 +181,13 @@ DTSTART;VALUE=DATE-TIME:20230527T160000
 DTEND;VALUE=DATE-TIME:20230527T183000
 DTSTAMP;VALUE=DATE-TIME:20230527T160000Z
 UID:257387
-DESCRIPTION:Duration: 135 mins (2h15m)\n\n"The Little Mermaid" is the belo
- ved story of Ariel\, a beautiful and spirited young mermaid with a thirst 
- for adventure. The youngest of King Triton's daughters\, and the most defi
- ant\, Ariel longs to find out more about the world beyond the sea.\n\nDire
- cted by: Rob Marshall. Cast: Melissa McCarthy\, Jonah Hauer-King\, Halle B
- ailey\n\nScreen 6\n\nhttps://www.myvue.com/book-tickets/summary/10016/2905
- 19/257387
+DESCRIPTION:Duration: 135 mins (2h15m)\n\nScreen 6\n\nSynopsis: "The Littl
+ e Mermaid" is the beloved story of Ariel\, a beautiful and spirited young 
+ mermaid with a thirst for adventure. The youngest of King Triton's daughte
+ rs\, and the most defiant\, Ariel longs to find out more about the world b
+ eyond the sea.\n\nDirected by: Rob Marshall\nCast: Melissa McCarthy\, Jona
+ h Hauer-King\, Halle Bailey\n\nhttps://www.myvue.com/book-tickets/summary/
+ 10016/290519/257387
 LOCATION:Vue Cambridge - Grafton Centre
 END:VEVENT
 BEGIN:VEVENT
@@ -667,13 +196,13 @@ DTSTART;VALUE=DATE-TIME:20230527T170000
 DTEND;VALUE=DATE-TIME:20230527T193000
 DTSTAMP;VALUE=DATE-TIME:20230527T170000Z
 UID:257404
-DESCRIPTION:Duration: 135 mins (2h15m)\n\n"The Little Mermaid" is the belo
- ved story of Ariel\, a beautiful and spirited young mermaid with a thirst 
- for adventure. The youngest of King Triton's daughters\, and the most defi
- ant\, Ariel longs to find out more about the world beyond the sea.\n\nDire
- cted by: Rob Marshall. Cast: Melissa McCarthy\, Jonah Hauer-King\, Halle B
- ailey\n\nScreen 7\n\nhttps://www.myvue.com/book-tickets/summary/10016/2905
- 19/257404
+DESCRIPTION:Duration: 135 mins (2h15m)\n\nScreen 7\n\nSynopsis: "The Littl
+ e Mermaid" is the beloved story of Ariel\, a beautiful and spirited young 
+ mermaid with a thirst for adventure. The youngest of King Triton's daughte
+ rs\, and the most defiant\, Ariel longs to find out more about the world b
+ eyond the sea.\n\nDirected by: Rob Marshall\nCast: Melissa McCarthy\, Jona
+ h Hauer-King\, Halle Bailey\n\nhttps://www.myvue.com/book-tickets/summary/
+ 10016/290519/257404
 LOCATION:Vue Cambridge - Grafton Centre
 END:VEVENT
 BEGIN:VEVENT
@@ -682,13 +211,13 @@ DTSTART;VALUE=DATE-TIME:20230527T173000
 DTEND;VALUE=DATE-TIME:20230527T200000
 DTSTAMP;VALUE=DATE-TIME:20230527T173000Z
 UID:257869
-DESCRIPTION:Duration: 135 mins (2h15m)\n\n"The Little Mermaid" is the belo
- ved story of Ariel\, a beautiful and spirited young mermaid with a thirst 
- for adventure. The youngest of King Triton's daughters\, and the most defi
- ant\, Ariel longs to find out more about the world beyond the sea.\n\nDire
- cted by: Rob Marshall. Cast: Melissa McCarthy\, Jonah Hauer-King\, Halle B
- ailey\n\nScreen 8\n\nhttps://www.myvue.com/book-tickets/summary/10016/2905
- 19/257869
+DESCRIPTION:Duration: 135 mins (2h15m)\n\nScreen 8\n\nSynopsis: "The Littl
+ e Mermaid" is the beloved story of Ariel\, a beautiful and spirited young 
+ mermaid with a thirst for adventure. The youngest of King Triton's daughte
+ rs\, and the most defiant\, Ariel longs to find out more about the world b
+ eyond the sea.\n\nDirected by: Rob Marshall\nCast: Melissa McCarthy\, Jona
+ h Hauer-King\, Halle Bailey\n\nhttps://www.myvue.com/book-tickets/summary/
+ 10016/290519/257869
 LOCATION:Vue Cambridge - Grafton Centre
 END:VEVENT
 BEGIN:VEVENT
@@ -697,13 +226,13 @@ DTSTART;VALUE=DATE-TIME:20230527T182000
 DTEND;VALUE=DATE-TIME:20230527T205000
 DTSTAMP;VALUE=DATE-TIME:20230527T182000Z
 UID:257369
-DESCRIPTION:Duration: 135 mins (2h15m)\n\n"The Little Mermaid" is the belo
- ved story of Ariel\, a beautiful and spirited young mermaid with a thirst 
- for adventure. The youngest of King Triton's daughters\, and the most defi
- ant\, Ariel longs to find out more about the world beyond the sea.\n\nDire
- cted by: Rob Marshall. Cast: Melissa McCarthy\, Jonah Hauer-King\, Halle B
- ailey\n\nScreen 3\n\nhttps://www.myvue.com/book-tickets/summary/10016/2905
- 19/257369
+DESCRIPTION:Duration: 135 mins (2h15m)\n\nScreen 3\n\nSynopsis: "The Littl
+ e Mermaid" is the beloved story of Ariel\, a beautiful and spirited young 
+ mermaid with a thirst for adventure. The youngest of King Triton's daughte
+ rs\, and the most defiant\, Ariel longs to find out more about the world b
+ eyond the sea.\n\nDirected by: Rob Marshall\nCast: Melissa McCarthy\, Jona
+ h Hauer-King\, Halle Bailey\n\nhttps://www.myvue.com/book-tickets/summary/
+ 10016/290519/257369
 LOCATION:Vue Cambridge - Grafton Centre
 END:VEVENT
 BEGIN:VEVENT
@@ -712,13 +241,13 @@ DTSTART;VALUE=DATE-TIME:20230527T192000
 DTEND;VALUE=DATE-TIME:20230527T215000
 DTSTAMP;VALUE=DATE-TIME:20230527T192000Z
 UID:257388
-DESCRIPTION:Duration: 135 mins (2h15m)\n\n"The Little Mermaid" is the belo
- ved story of Ariel\, a beautiful and spirited young mermaid with a thirst 
- for adventure. The youngest of King Triton's daughters\, and the most defi
- ant\, Ariel longs to find out more about the world beyond the sea.\n\nDire
- cted by: Rob Marshall. Cast: Melissa McCarthy\, Jonah Hauer-King\, Halle B
- ailey\n\nScreen 6\n\nhttps://www.myvue.com/book-tickets/summary/10016/2905
- 19/257388
+DESCRIPTION:Duration: 135 mins (2h15m)\n\nScreen 6\n\nSynopsis: "The Littl
+ e Mermaid" is the beloved story of Ariel\, a beautiful and spirited young 
+ mermaid with a thirst for adventure. The youngest of King Triton's daughte
+ rs\, and the most defiant\, Ariel longs to find out more about the world b
+ eyond the sea.\n\nDirected by: Rob Marshall\nCast: Melissa McCarthy\, Jona
+ h Hauer-King\, Halle Bailey\n\nhttps://www.myvue.com/book-tickets/summary/
+ 10016/290519/257388
 LOCATION:Vue Cambridge - Grafton Centre
 END:VEVENT
 BEGIN:VEVENT
@@ -727,13 +256,13 @@ DTSTART;VALUE=DATE-TIME:20230527T202000
 DTEND;VALUE=DATE-TIME:20230527T225000
 DTSTAMP;VALUE=DATE-TIME:20230527T202000Z
 UID:258264
-DESCRIPTION:Duration: 135 mins (2h15m)\n\n"The Little Mermaid" is the belo
- ved story of Ariel\, a beautiful and spirited young mermaid with a thirst 
- for adventure. The youngest of King Triton's daughters\, and the most defi
- ant\, Ariel longs to find out more about the world beyond the sea.\n\nDire
- cted by: Rob Marshall. Cast: Melissa McCarthy\, Jonah Hauer-King\, Halle B
- ailey\n\nScreen 7\n\nhttps://www.myvue.com/book-tickets/summary/10016/2905
- 19/258264
+DESCRIPTION:Duration: 135 mins (2h15m)\n\nScreen 7\n\nSynopsis: "The Littl
+ e Mermaid" is the beloved story of Ariel\, a beautiful and spirited young 
+ mermaid with a thirst for adventure. The youngest of King Triton's daughte
+ rs\, and the most defiant\, Ariel longs to find out more about the world b
+ eyond the sea.\n\nDirected by: Rob Marshall\nCast: Melissa McCarthy\, Jona
+ h Hauer-King\, Halle Bailey\n\nhttps://www.myvue.com/book-tickets/summary/
+ 10016/290519/258264
 LOCATION:Vue Cambridge - Grafton Centre
 END:VEVENT
 BEGIN:VEVENT
@@ -742,13 +271,13 @@ DTSTART;VALUE=DATE-TIME:20230527T205500
 DTEND;VALUE=DATE-TIME:20230527T232500
 DTSTAMP;VALUE=DATE-TIME:20230527T205500Z
 UID:258785
-DESCRIPTION:Duration: 135 mins (2h15m)\n\n"The Little Mermaid" is the belo
- ved story of Ariel\, a beautiful and spirited young mermaid with a thirst 
- for adventure. The youngest of King Triton's daughters\, and the most defi
- ant\, Ariel longs to find out more about the world beyond the sea.\n\nDire
- cted by: Rob Marshall. Cast: Melissa McCarthy\, Jonah Hauer-King\, Halle B
- ailey\n\nScreen 5\n\nhttps://www.myvue.com/book-tickets/summary/10016/2905
- 19/258785
+DESCRIPTION:Duration: 135 mins (2h15m)\n\nScreen 5\n\nSynopsis: "The Littl
+ e Mermaid" is the beloved story of Ariel\, a beautiful and spirited young 
+ mermaid with a thirst for adventure. The youngest of King Triton's daughte
+ rs\, and the most defiant\, Ariel longs to find out more about the world b
+ eyond the sea.\n\nDirected by: Rob Marshall\nCast: Melissa McCarthy\, Jona
+ h Hauer-King\, Halle Bailey\n\nhttps://www.myvue.com/book-tickets/summary/
+ 10016/290519/258785
 LOCATION:Vue Cambridge - Grafton Centre
 END:VEVENT
 BEGIN:VEVENT
@@ -757,10 +286,10 @@ DTSTART;VALUE=DATE-TIME:20230527T131500
 DTEND;VALUE=DATE-TIME:20230527T155500
 DTSTAMP;VALUE=DATE-TIME:20230527T131500Z
 UID:258695
-DESCRIPTION:Duration: 142 mins (2h22m)\n\nThe end of the road begins.\n\nD
- irected by: Louis Leterrier. Cast: Vin Diesel\, Michelle Rodriguez\, Jason
-  Momoa\, Charlize Theron\, Brie Larson\n\nScreen 2\n\nhttps://www.myvue.co
- m/book-tickets/summary/10016/199571/258695
+DESCRIPTION:Duration: 142 mins (2h22m)\n\nScreen 2\n\nSynopsis: The end of
+  the road begins.\n\nDirected by: Louis Leterrier\nCast: Vin Diesel\, Mich
+ elle Rodriguez\, Jason Momoa\, Charlize Theron\, Brie Larson\n\nhttps://ww
+ w.myvue.com/book-tickets/summary/10016/199571/258695
 LOCATION:Vue Cambridge - Grafton Centre
 END:VEVENT
 BEGIN:VEVENT
@@ -769,10 +298,10 @@ DTSTART;VALUE=DATE-TIME:20230527T144500
 DTEND;VALUE=DATE-TIME:20230527T172500
 DTSTAMP;VALUE=DATE-TIME:20230527T144500Z
 UID:258783
-DESCRIPTION:Duration: 142 mins (2h22m)\n\nThe end of the road begins.\n\nD
- irected by: Louis Leterrier. Cast: Vin Diesel\, Michelle Rodriguez\, Jason
-  Momoa\, Charlize Theron\, Brie Larson\n\nScreen 5\n\nhttps://www.myvue.co
- m/book-tickets/summary/10016/199571/258783
+DESCRIPTION:Duration: 142 mins (2h22m)\n\nScreen 5\n\nSynopsis: The end of
+  the road begins.\n\nDirected by: Louis Leterrier\nCast: Vin Diesel\, Mich
+ elle Rodriguez\, Jason Momoa\, Charlize Theron\, Brie Larson\n\nhttps://ww
+ w.myvue.com/book-tickets/summary/10016/199571/258783
 LOCATION:Vue Cambridge - Grafton Centre
 END:VEVENT
 BEGIN:VEVENT
@@ -781,10 +310,10 @@ DTSTART;VALUE=DATE-TIME:20230527T164500
 DTEND;VALUE=DATE-TIME:20230527T192500
 DTSTAMP;VALUE=DATE-TIME:20230527T164500Z
 UID:258750
-DESCRIPTION:Duration: 142 mins (2h22m)\n\nThe end of the road begins.\n\nD
- irected by: Louis Leterrier. Cast: Vin Diesel\, Michelle Rodriguez\, Jason
-  Momoa\, Charlize Theron\, Brie Larson\n\nScreen 4\n\nhttps://www.myvue.co
- m/book-tickets/summary/10016/199571/258750
+DESCRIPTION:Duration: 142 mins (2h22m)\n\nScreen 4\n\nSynopsis: The end of
+  the road begins.\n\nDirected by: Louis Leterrier\nCast: Vin Diesel\, Mich
+ elle Rodriguez\, Jason Momoa\, Charlize Theron\, Brie Larson\n\nhttps://ww
+ w.myvue.com/book-tickets/summary/10016/199571/258750
 LOCATION:Vue Cambridge - Grafton Centre
 END:VEVENT
 BEGIN:VEVENT
@@ -793,10 +322,10 @@ DTSTART;VALUE=DATE-TIME:20230527T175000
 DTEND;VALUE=DATE-TIME:20230527T203000
 DTSTAMP;VALUE=DATE-TIME:20230527T175000Z
 UID:258784
-DESCRIPTION:Duration: 142 mins (2h22m)\n\nThe end of the road begins.\n\nD
- irected by: Louis Leterrier. Cast: Vin Diesel\, Michelle Rodriguez\, Jason
-  Momoa\, Charlize Theron\, Brie Larson\n\nScreen 5\n\nhttps://www.myvue.co
- m/book-tickets/summary/10016/199571/258784
+DESCRIPTION:Duration: 142 mins (2h22m)\n\nScreen 5\n\nSynopsis: The end of
+  the road begins.\n\nDirected by: Louis Leterrier\nCast: Vin Diesel\, Mich
+ elle Rodriguez\, Jason Momoa\, Charlize Theron\, Brie Larson\n\nhttps://ww
+ w.myvue.com/book-tickets/summary/10016/199571/258784
 LOCATION:Vue Cambridge - Grafton Centre
 END:VEVENT
 BEGIN:VEVENT
@@ -805,10 +334,10 @@ DTSTART;VALUE=DATE-TIME:20230527T203500
 DTEND;VALUE=DATE-TIME:20230527T231500
 DTSTAMP;VALUE=DATE-TIME:20230527T203500Z
 UID:258851
-DESCRIPTION:Duration: 142 mins (2h22m)\n\nThe end of the road begins.\n\nD
- irected by: Louis Leterrier. Cast: Vin Diesel\, Michelle Rodriguez\, Jason
-  Momoa\, Charlize Theron\, Brie Larson\n\nScreen 8\n\nhttps://www.myvue.co
- m/book-tickets/summary/10016/199571/258851
+DESCRIPTION:Duration: 142 mins (2h22m)\n\nScreen 8\n\nSynopsis: The end of
+  the road begins.\n\nDirected by: Louis Leterrier\nCast: Vin Diesel\, Mich
+ elle Rodriguez\, Jason Momoa\, Charlize Theron\, Brie Larson\n\nhttps://ww
+ w.myvue.com/book-tickets/summary/10016/199571/258851
 LOCATION:Vue Cambridge - Grafton Centre
 END:VEVENT
 BEGIN:VEVENT
@@ -817,10 +346,10 @@ DTSTART;VALUE=DATE-TIME:20230527T222000
 DTEND;VALUE=DATE-TIME:20230528T010000
 DTSTAMP;VALUE=DATE-TIME:20230527T222000Z
 UID:258808
-DESCRIPTION:Duration: 142 mins (2h22m)\n\nThe end of the road begins.\n\nD
- irected by: Louis Leterrier. Cast: Vin Diesel\, Michelle Rodriguez\, Jason
-  Momoa\, Charlize Theron\, Brie Larson\n\nScreen 6\n\nhttps://www.myvue.co
- m/book-tickets/summary/10016/199571/258808
+DESCRIPTION:Duration: 142 mins (2h22m)\n\nScreen 6\n\nSynopsis: The end of
+  the road begins.\n\nDirected by: Louis Leterrier\nCast: Vin Diesel\, Mich
+ elle Rodriguez\, Jason Momoa\, Charlize Theron\, Brie Larson\n\nhttps://ww
+ w.myvue.com/book-tickets/summary/10016/199571/258808
 LOCATION:Vue Cambridge - Grafton Centre
 END:VEVENT
 BEGIN:VEVENT
@@ -829,12 +358,12 @@ DTSTART;VALUE=DATE-TIME:20230527T135500
 DTEND;VALUE=DATE-TIME:20230527T164000
 DTSTAMP;VALUE=DATE-TIME:20230527T135500Z
 UID:258660
-DESCRIPTION:Duration: 150 mins (2h30m)\n\nPeter Quill\, still reeling from
-  the loss of Gamora\, must rally his team around him to defend the univers
- e along with protecting one of their own.\n\nDirected by: James Gunn. Cast
- : Chris Pratt\, Dave Bautista\, Zoe Saldana\, Vin Diesel\, Karen Gillan\, 
- Bradley Cooper\n\nScreen 1\n\nhttps://www.myvue.com/book-tickets/summary/1
- 0016/290530/258660
+DESCRIPTION:Duration: 150 mins (2h30m)\n\nScreen 1\n\nSynopsis: Peter Quil
+ l\, still reeling from the loss of Gamora\, must rally his team around him
+  to defend the universe along with protecting one of their own.\n\nDirecte
+ d by: James Gunn\nCast: Chris Pratt\, Dave Bautista\, Zoe Saldana\, Vin Di
+ esel\, Karen Gillan\, Bradley Cooper\n\nhttps://www.myvue.com/book-tickets
+ /summary/10016/290530/258660
 LOCATION:Vue Cambridge - Grafton Centre
 END:VEVENT
 BEGIN:VEVENT
@@ -843,12 +372,12 @@ DTSTART;VALUE=DATE-TIME:20230527T162000
 DTEND;VALUE=DATE-TIME:20230527T190500
 DTSTAMP;VALUE=DATE-TIME:20230527T162000Z
 UID:258696
-DESCRIPTION:Duration: 150 mins (2h30m)\n\nPeter Quill\, still reeling from
-  the loss of Gamora\, must rally his team around him to defend the univers
- e along with protecting one of their own.\n\nDirected by: James Gunn. Cast
- : Chris Pratt\, Dave Bautista\, Zoe Saldana\, Vin Diesel\, Karen Gillan\, 
- Bradley Cooper\n\nScreen 2\n\nhttps://www.myvue.com/book-tickets/summary/1
- 0016/290530/258696
+DESCRIPTION:Duration: 150 mins (2h30m)\n\nScreen 2\n\nSynopsis: Peter Quil
+ l\, still reeling from the loss of Gamora\, must rally his team around him
+  to defend the universe along with protecting one of their own.\n\nDirecte
+ d by: James Gunn\nCast: Chris Pratt\, Dave Bautista\, Zoe Saldana\, Vin Di
+ esel\, Karen Gillan\, Bradley Cooper\n\nhttps://www.myvue.com/book-tickets
+ /summary/10016/290530/258696
 LOCATION:Vue Cambridge - Grafton Centre
 END:VEVENT
 BEGIN:VEVENT
@@ -857,12 +386,12 @@ DTSTART;VALUE=DATE-TIME:20230527T195000
 DTEND;VALUE=DATE-TIME:20230527T223500
 DTSTAMP;VALUE=DATE-TIME:20230527T195000Z
 UID:258751
-DESCRIPTION:Duration: 150 mins (2h30m)\n\nPeter Quill\, still reeling from
-  the loss of Gamora\, must rally his team around him to defend the univers
- e along with protecting one of their own.\n\nDirected by: James Gunn. Cast
- : Chris Pratt\, Dave Bautista\, Zoe Saldana\, Vin Diesel\, Karen Gillan\, 
- Bradley Cooper\n\nScreen 4\n\nhttps://www.myvue.com/book-tickets/summary/1
- 0016/290530/258751
+DESCRIPTION:Duration: 150 mins (2h30m)\n\nScreen 4\n\nSynopsis: Peter Quil
+ l\, still reeling from the loss of Gamora\, must rally his team around him
+  to defend the universe along with protecting one of their own.\n\nDirecte
+ d by: James Gunn\nCast: Chris Pratt\, Dave Bautista\, Zoe Saldana\, Vin Di
+ esel\, Karen Gillan\, Bradley Cooper\n\nhttps://www.myvue.com/book-tickets
+ /summary/10016/290530/258751
 LOCATION:Vue Cambridge - Grafton Centre
 END:VEVENT
 BEGIN:VEVENT
@@ -871,11 +400,11 @@ DTSTART;VALUE=DATE-TIME:20230527T101500
 DTEND;VALUE=DATE-TIME:20230527T120500
 DTSTAMP;VALUE=DATE-TIME:20230527T101500Z
 UID:258807
-DESCRIPTION:Duration: 92 mins (1h32m)\n\nA plumber named Mario travels thr
- ough an underground labyrinth with his brother\, Luigi\, trying to save a 
- captured princess.\n\nDirected by: Matthew Fogel. Cast: Chris Pratt\, Anya
-  Taylor-Joy\, Charlie Day\, Jack Black\, Seth Rogen\n\nScreen 6\n\nhttps:/
- /www.myvue.com/book-tickets/summary/10016/223992/258807
+DESCRIPTION:Duration: 92 mins (1h32m)\n\nScreen 6\n\nSynopsis: A plumber n
+ amed Mario travels through an underground labyrinth with his brother\, Lui
+ gi\, trying to save a captured princess.\n\nDirected by: Matthew Fogel\nCa
+ st: Chris Pratt\, Anya Taylor-Joy\, Charlie Day\, Jack Black\, Seth Rogen\
+ n\nhttps://www.myvue.com/book-tickets/summary/10016/223992/258807
 LOCATION:Vue Cambridge - Grafton Centre
 END:VEVENT
 BEGIN:VEVENT
@@ -884,11 +413,11 @@ DTSTART;VALUE=DATE-TIME:20230527T121500
 DTEND;VALUE=DATE-TIME:20230527T140500
 DTSTAMP;VALUE=DATE-TIME:20230527T121500Z
 UID:258748
-DESCRIPTION:Duration: 92 mins (1h32m)\n\nA plumber named Mario travels thr
- ough an underground labyrinth with his brother\, Luigi\, trying to save a 
- captured princess.\n\nDirected by: Matthew Fogel. Cast: Chris Pratt\, Anya
-  Taylor-Joy\, Charlie Day\, Jack Black\, Seth Rogen\n\nScreen 4\n\nhttps:/
- /www.myvue.com/book-tickets/summary/10016/223992/258748
+DESCRIPTION:Duration: 92 mins (1h32m)\n\nScreen 4\n\nSynopsis: A plumber n
+ amed Mario travels through an underground labyrinth with his brother\, Lui
+ gi\, trying to save a captured princess.\n\nDirected by: Matthew Fogel\nCa
+ st: Chris Pratt\, Anya Taylor-Joy\, Charlie Day\, Jack Black\, Seth Rogen\
+ n\nhttps://www.myvue.com/book-tickets/summary/10016/223992/258748
 LOCATION:Vue Cambridge - Grafton Centre
 END:VEVENT
 BEGIN:VEVENT
@@ -897,11 +426,11 @@ DTSTART;VALUE=DATE-TIME:20230527T143000
 DTEND;VALUE=DATE-TIME:20230527T162000
 DTSTAMP;VALUE=DATE-TIME:20230527T143000Z
 UID:258749
-DESCRIPTION:Duration: 92 mins (1h32m)\n\nA plumber named Mario travels thr
- ough an underground labyrinth with his brother\, Luigi\, trying to save a 
- captured princess.\n\nDirected by: Matthew Fogel. Cast: Chris Pratt\, Anya
-  Taylor-Joy\, Charlie Day\, Jack Black\, Seth Rogen\n\nScreen 4\n\nhttps:/
- /www.myvue.com/book-tickets/summary/10016/223992/258749
+DESCRIPTION:Duration: 92 mins (1h32m)\n\nScreen 4\n\nSynopsis: A plumber n
+ amed Mario travels through an underground labyrinth with his brother\, Lui
+ gi\, trying to save a captured princess.\n\nDirected by: Matthew Fogel\nCa
+ st: Chris Pratt\, Anya Taylor-Joy\, Charlie Day\, Jack Black\, Seth Rogen\
+ n\nhttps://www.myvue.com/book-tickets/summary/10016/223992/258749
 LOCATION:Vue Cambridge - Grafton Centre
 END:VEVENT
 BEGIN:VEVENT
@@ -910,11 +439,11 @@ DTSTART;VALUE=DATE-TIME:20230527T171500
 DTEND;VALUE=DATE-TIME:20230527T190500
 DTSTAMP;VALUE=DATE-TIME:20230527T171500Z
 UID:258661
-DESCRIPTION:Duration: 92 mins (1h32m)\n\nA plumber named Mario travels thr
- ough an underground labyrinth with his brother\, Luigi\, trying to save a 
- captured princess.\n\nDirected by: Matthew Fogel. Cast: Chris Pratt\, Anya
-  Taylor-Joy\, Charlie Day\, Jack Black\, Seth Rogen\n\nScreen 1\n\nhttps:/
- /www.myvue.com/book-tickets/summary/10016/223992/258661
+DESCRIPTION:Duration: 92 mins (1h32m)\n\nScreen 1\n\nSynopsis: A plumber n
+ amed Mario travels through an underground labyrinth with his brother\, Lui
+ gi\, trying to save a captured princess.\n\nDirected by: Matthew Fogel\nCa
+ st: Chris Pratt\, Anya Taylor-Joy\, Charlie Day\, Jack Black\, Seth Rogen\
+ n\nhttps://www.myvue.com/book-tickets/summary/10016/223992/258661
 LOCATION:Vue Cambridge - Grafton Centre
 END:VEVENT
 BEGIN:VEVENT
@@ -923,12 +452,12 @@ DTSTART;VALUE=DATE-TIME:20230527T200500
 DTEND;VALUE=DATE-TIME:20230527T220000
 DTSTAMP;VALUE=DATE-TIME:20230527T200500Z
 UID:258662
-DESCRIPTION:Duration: 97 mins (1h37m)\n\nMoving the action out of the wood
- s and into the city\, 'Evil Dead Rise' tells the twisted tale of two estra
- nged sisters whose reunion is cut short by the rise of flesh-possessing de
- mons.\n\nDirected by: Lee Cronin. Cast: Gabrielle Echols\, Lily Sullivan\,
-  Alyssa Sutherland\n\nScreen 1\n\nhttps://www.myvue.com/book-tickets/summa
- ry/10016/370062/258662
+DESCRIPTION:Duration: 97 mins (1h37m)\n\nScreen 1\n\nSynopsis: Moving the 
+ action out of the woods and into the city\, 'Evil Dead Rise' tells the twi
+ sted tale of two estranged sisters whose reunion is cut short by the rise 
+ of flesh-possessing demons.\n\nDirected by: Lee Cronin\nCast: Gabrielle Ec
+ hols\, Lily Sullivan\, Alyssa Sutherland\n\nhttps://www.myvue.com/book-tic
+ kets/summary/10016/370062/258662
 LOCATION:Vue Cambridge - Grafton Centre
 END:VEVENT
 BEGIN:VEVENT
@@ -937,12 +466,12 @@ DTSTART;VALUE=DATE-TIME:20230527T223500
 DTEND;VALUE=DATE-TIME:20230528T003000
 DTSTAMP;VALUE=DATE-TIME:20230527T223500Z
 UID:258663
-DESCRIPTION:Duration: 97 mins (1h37m)\n\nMoving the action out of the wood
- s and into the city\, 'Evil Dead Rise' tells the twisted tale of two estra
- nged sisters whose reunion is cut short by the rise of flesh-possessing de
- mons.\n\nDirected by: Lee Cronin. Cast: Gabrielle Echols\, Lily Sullivan\,
-  Alyssa Sutherland\n\nScreen 1\n\nhttps://www.myvue.com/book-tickets/summa
- ry/10016/370062/258663
+DESCRIPTION:Duration: 97 mins (1h37m)\n\nScreen 1\n\nSynopsis: Moving the 
+ action out of the woods and into the city\, 'Evil Dead Rise' tells the twi
+ sted tale of two estranged sisters whose reunion is cut short by the rise 
+ of flesh-possessing demons.\n\nDirected by: Lee Cronin\nCast: Gabrielle Ec
+ hols\, Lily Sullivan\, Alyssa Sutherland\n\nhttps://www.myvue.com/book-tic
+ kets/summary/10016/370062/258663
 LOCATION:Vue Cambridge - Grafton Centre
 END:VEVENT
 BEGIN:VEVENT
@@ -951,12 +480,12 @@ DTSTART;VALUE=DATE-TIME:20230527T212000
 DTEND;VALUE=DATE-TIME:20230527T232500
 DTSTAMP;VALUE=DATE-TIME:20230527T212000Z
 UID:258720
-DESCRIPTION:Duration: 106 mins (1h46m)\n\n11-year-old Margaret (Abby Ryder
-  Fortson) is uprooted from her life in New York City for the suburbs of Ne
- w Jersey\, going through the messy and tumultuous throes of puberty with n
- ew friends in a new school.\n\nDirected by: Kelly Fremon Craig. Cast: Rach
- el McAdams\, Elle Graham\, Abby Ryder Fortson\, Kathy Bates\n\nScreen 3\n\
- nhttps://www.myvue.com/book-tickets/summary/10016/342236/258720
+DESCRIPTION:Duration: 106 mins (1h46m)\n\nScreen 3\n\nSynopsis: 11-year-ol
+ d Margaret (Abby Ryder Fortson) is uprooted from her life in New York City
+  for the suburbs of New Jersey\, going through the messy and tumultuous th
+ roes of puberty with new friends in a new school.\n\nDirected by: Kelly Fr
+ emon Craig\nCast: Rachel McAdams\, Elle Graham\, Abby Ryder Fortson\, Kath
+ y Bates\n\nhttps://www.myvue.com/book-tickets/summary/10016/342236/258720
 LOCATION:Vue Cambridge - Grafton Centre
 END:VEVENT
 BEGIN:VEVENT
@@ -965,10 +494,11 @@ DTSTART;VALUE=DATE-TIME:20230527T103000
 DTEND;VALUE=DATE-TIME:20230527T114500
 DTSTAMP;VALUE=DATE-TIME:20230527T103000Z
 UID:258781
-DESCRIPTION:Duration: 60 mins (1h00m)\n\nJoin Duggee and his friends for a
-  60 minute special made up of your favorite episodes.\n\nDirected by: Gran
- t Orchard\, Sander Jones. Cast: Duggee\, Norrie\, Roly\, Tag\, Betty\n\nSc
- reen 5\n\nhttps://www.myvue.com/book-tickets/summary/10016/389694/258781
+DESCRIPTION:Duration: 60 mins (1h00m)\n\nScreen 5\n\nSynopsis: Join Duggee
+  and his friends for a 60 minute special made up of your favorite episodes
+ .\n\nDirected by: Grant Orchard\, Sander Jones\nCast: Duggee\, Norrie\, Ro
+ ly\, Tag\, Betty\n\nhttps://www.myvue.com/book-tickets/summary/10016/38969
+ 4/258781
 LOCATION:Vue Cambridge - Grafton Centre
 END:VEVENT
 BEGIN:VEVENT
@@ -977,10 +507,11 @@ DTSTART;VALUE=DATE-TIME:20230527T130000
 DTEND;VALUE=DATE-TIME:20230527T141500
 DTSTAMP;VALUE=DATE-TIME:20230527T130000Z
 UID:258782
-DESCRIPTION:Duration: 60 mins (1h00m)\n\nJoin Duggee and his friends for a
-  60 minute special made up of your favorite episodes.\n\nDirected by: Gran
- t Orchard\, Sander Jones. Cast: Duggee\, Norrie\, Roly\, Tag\, Betty\n\nSc
- reen 5\n\nhttps://www.myvue.com/book-tickets/summary/10016/389694/258782
+DESCRIPTION:Duration: 60 mins (1h00m)\n\nScreen 5\n\nSynopsis: Join Duggee
+  and his friends for a 60 minute special made up of your favorite episodes
+ .\n\nDirected by: Grant Orchard\, Sander Jones\nCast: Duggee\, Norrie\, Ro
+ ly\, Tag\, Betty\n\nhttps://www.myvue.com/book-tickets/summary/10016/38969
+ 4/258782
 LOCATION:Vue Cambridge - Grafton Centre
 END:VEVENT
 BEGIN:VEVENT
@@ -989,12 +520,13 @@ DTSTART;VALUE=DATE-TIME:20230527T230500
 DTEND;VALUE=DATE-TIME:20230528T010500
 DTSTAMP;VALUE=DATE-TIME:20230527T230500Z
 UID:258752
-DESCRIPTION:Duration: 104 mins (1h44m)\n\nWhat if a random text message le
- d to the love of your life? In this romantic comedy\, dealing with the los
- s of her fiance\, Mira Ray sends a series of romantic texts to his old cel
- l phone number... not realizing the number was reassigned.\n\nDirected by:
-  Jim Strouse. Cast: Celine Dion\,Sam Heughan\,Priyanka Chopra\n\nScreen 4\
- n\nhttps://www.myvue.com/book-tickets/summary/10016/360591/258752
+DESCRIPTION:Duration: 104 mins (1h44m)\n\nScreen 4\n\nSynopsis: What if a 
+ random text message led to the love of your life? In this romantic comedy\
+ , dealing with the loss of her fiance\, Mira Ray sends a series of romanti
+ c texts to his old cell phone number... not realizing the number was reass
+ igned.\n\nDirected by: Jim Strouse\nCast: Celine Dion\,Sam Heughan\,Priyan
+ ka Chopra\n\nhttps://www.myvue.com/book-tickets/summary/10016/360591/25875
+ 2
 LOCATION:Vue Cambridge - Grafton Centre
 END:VEVENT
 BEGIN:VEVENT
@@ -1003,12 +535,12 @@ DTSTART;VALUE=DATE-TIME:20230527T100000
 DTEND;VALUE=DATE-TIME:20230527T115000
 DTSTAMP;VALUE=DATE-TIME:20230527T100000Z
 UID:258659
-DESCRIPTION:Duration: 95 mins (1h35m)\n\n'Epic Tails' tells the story of s
- uper smart mouse Pattie and her feline friend Sam\, as they embark upon an
-  exciting adventure of paw-some proportions through Ancient Greece.\n\nDir
- ected by: David Alaux. Cast: Rob Beckett\, Giovanna Fletcher\, Josh Widdic
- ombe\n\nScreen 1\n\nhttps://www.myvue.com/book-tickets/summary/10016/35302
- 3/258659
+DESCRIPTION:Duration: 95 mins (1h35m)\n\nScreen 1\n\nSynopsis: 'Epic Tails
+ ' tells the story of super smart mouse Pattie and her feline friend Sam\, 
+ as they embark upon an exciting adventure of paw-some proportions through 
+ Ancient Greece.\n\nDirected by: David Alaux\nCast: Rob Beckett\, Giovanna 
+ Fletcher\, Josh Widdicombe\n\nhttps://www.myvue.com/book-tickets/summary/1
+ 0016/353023/258659
 LOCATION:Vue Cambridge - Grafton Centre
 END:VEVENT
 BEGIN:VEVENT
@@ -1017,12 +549,12 @@ DTSTART;VALUE=DATE-TIME:20230527T100000
 DTEND;VALUE=DATE-TIME:20230527T113500
 DTSTAMP;VALUE=DATE-TIME:20230527T100000Z
 UID:258747
-DESCRIPTION:Duration: 80 mins (1h20m)\n\nWhen Violetta catastrophically fa
- ils her tooth fairy exam\, this mischievous fairy won't accept the result 
- and sneaks into the world of humans\, straight into the bedroom of 12-year
- -old Maxie.\n\nDirected by: Caroline Origer. Cast: Jella Haase\, Lisa-Mari
- e Koroll\, Alex Avenell\n\nScreen 4\n\nhttps://www.myvue.com/book-tickets/
- summary/10016/361120/258747
+DESCRIPTION:Duration: 80 mins (1h20m)\n\nScreen 4\n\nSynopsis: When Violet
+ ta catastrophically fails her tooth fairy exam\, this mischievous fairy wo
+ n't accept the result and sneaks into the world of humans\, straight into 
+ the bedroom of 12-year-old Maxie.\n\nDirected by: Caroline Origer\nCast: J
+ ella Haase\, Lisa-Marie Koroll\, Alex Avenell\n\nhttps://www.myvue.com/boo
+ k-tickets/summary/10016/361120/258747
 LOCATION:Vue Cambridge - Grafton Centre
 END:VEVENT
 BEGIN:VEVENT
@@ -1031,12 +563,471 @@ DTSTART;VALUE=DATE-TIME:20230527T104500
 DTEND;VALUE=DATE-TIME:20230527T130500
 DTSTAMP;VALUE=DATE-TIME:20230527T104500Z
 UID:258829
-DESCRIPTION:Duration: 122 mins (2h02m)\n\nOn the other side of the door\, 
- was time in its entirety...\n\nAs the skies turn red and the earth tremble
- s\, Japan stands on the brink of disaster. But one determined teenager\, S
- uzume\, sets out on a mission to save her country.\n\nDirected by: Makoto 
- Shinkai. Cast: Eri Fukatsu\, Hokuto Matsumura\, Nanoka Hara\n\nScreen 7\n\
- nhttps://www.myvue.com/book-tickets/summary/10016/378627/258829
+DESCRIPTION:Duration: 122 mins (2h02m)\n\nScreen 7\n\nSynopsis: On the oth
+ er side of the door\, was time in its entirety...\n\nAs the skies turn red
+  and the earth trembles\, Japan stands on the brink of disaster. But one d
+ etermined teenager\, Suzume\, sets out on a mission to save her country.\n
+ \nDirected by: Makoto Shinkai\nCast: Eri Fukatsu\, Hokuto Matsumura\, Nano
+ ka Hara\n\nhttps://www.myvue.com/book-tickets/summary/10016/378627/258829
+LOCATION:Vue Cambridge - Grafton Centre
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Little Mermaid
+DTSTART;VALUE=DATE-TIME:20230528T110000
+DTEND;VALUE=DATE-TIME:20230528T133000
+DTSTAMP;VALUE=DATE-TIME:20230528T110000Z
+UID:257417
+DESCRIPTION:Duration: 135 mins (2h15m)\n\nScreen 8\n\nSynopsis: "The Littl
+ e Mermaid" is the beloved story of Ariel\, a beautiful and spirited young 
+ mermaid with a thirst for adventure. The youngest of King Triton's daughte
+ rs\, and the most defiant\, Ariel longs to find out more about the world b
+ eyond the sea.\n\nDirected by: Rob Marshall\nCast: Melissa McCarthy\, Jona
+ h Hauer-King\, Halle Bailey\n\nhttps://www.myvue.com/book-tickets/summary/
+ 10016/290519/257417
+LOCATION:Vue Cambridge - Grafton Centre
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Little Mermaid
+DTSTART;VALUE=DATE-TIME:20230528T114500
+DTEND;VALUE=DATE-TIME:20230528T141500
+DTSTAMP;VALUE=DATE-TIME:20230528T114500Z
+UID:257364
+DESCRIPTION:Duration: 135 mins (2h15m)\n\nScreen 3\n\nSynopsis: "The Littl
+ e Mermaid" is the beloved story of Ariel\, a beautiful and spirited young 
+ mermaid with a thirst for adventure. The youngest of King Triton's daughte
+ rs\, and the most defiant\, Ariel longs to find out more about the world b
+ eyond the sea.\n\nDirected by: Rob Marshall\nCast: Melissa McCarthy\, Jona
+ h Hauer-King\, Halle Bailey\n\nhttps://www.myvue.com/book-tickets/summary/
+ 10016/290519/257364
+LOCATION:Vue Cambridge - Grafton Centre
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Little Mermaid
+DTSTART;VALUE=DATE-TIME:20230528T124500
+DTEND;VALUE=DATE-TIME:20230528T151500
+DTSTAMP;VALUE=DATE-TIME:20230528T124500Z
+UID:258554
+DESCRIPTION:Duration: 135 mins (2h15m)\n\nScreen 6\n\nSynopsis: "The Littl
+ e Mermaid" is the beloved story of Ariel\, a beautiful and spirited young 
+ mermaid with a thirst for adventure. The youngest of King Triton's daughte
+ rs\, and the most defiant\, Ariel longs to find out more about the world b
+ eyond the sea.\n\nDirected by: Rob Marshall\nCast: Melissa McCarthy\, Jona
+ h Hauer-King\, Halle Bailey\n\nhttps://www.myvue.com/book-tickets/summary/
+ 10016/290519/258554
+LOCATION:Vue Cambridge - Grafton Centre
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Little Mermaid
+DTSTART;VALUE=DATE-TIME:20230528T133000
+DTEND;VALUE=DATE-TIME:20230528T160000
+DTSTAMP;VALUE=DATE-TIME:20230528T133000Z
+UID:258261
+DESCRIPTION:Duration: 135 mins (2h15m)\n\nScreen 7\n\nSynopsis: "The Littl
+ e Mermaid" is the beloved story of Ariel\, a beautiful and spirited young 
+ mermaid with a thirst for adventure. The youngest of King Triton's daughte
+ rs\, and the most defiant\, Ariel longs to find out more about the world b
+ eyond the sea.\n\nDirected by: Rob Marshall\nCast: Melissa McCarthy\, Jona
+ h Hauer-King\, Halle Bailey\n\nhttps://www.myvue.com/book-tickets/summary/
+ 10016/290519/258261
+LOCATION:Vue Cambridge - Grafton Centre
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Little Mermaid
+DTSTART;VALUE=DATE-TIME:20230528T141500
+DTEND;VALUE=DATE-TIME:20230528T164500
+DTSTAMP;VALUE=DATE-TIME:20230528T141500Z
+UID:257418
+DESCRIPTION:Duration: 135 mins (2h15m)\n\nScreen 8\n\nSynopsis: "The Littl
+ e Mermaid" is the beloved story of Ariel\, a beautiful and spirited young 
+ mermaid with a thirst for adventure. The youngest of King Triton's daughte
+ rs\, and the most defiant\, Ariel longs to find out more about the world b
+ eyond the sea.\n\nDirected by: Rob Marshall\nCast: Melissa McCarthy\, Jona
+ h Hauer-King\, Halle Bailey\n\nhttps://www.myvue.com/book-tickets/summary/
+ 10016/290519/257418
+LOCATION:Vue Cambridge - Grafton Centre
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Little Mermaid
+DTSTART;VALUE=DATE-TIME:20230528T150000
+DTEND;VALUE=DATE-TIME:20230528T173000
+DTSTAMP;VALUE=DATE-TIME:20230528T150000Z
+UID:257365
+DESCRIPTION:Duration: 135 mins (2h15m)\n\nScreen 3\n\nSynopsis: "The Littl
+ e Mermaid" is the beloved story of Ariel\, a beautiful and spirited young 
+ mermaid with a thirst for adventure. The youngest of King Triton's daughte
+ rs\, and the most defiant\, Ariel longs to find out more about the world b
+ eyond the sea.\n\nDirected by: Rob Marshall\nCast: Melissa McCarthy\, Jona
+ h Hauer-King\, Halle Bailey\n\nhttps://www.myvue.com/book-tickets/summary/
+ 10016/290519/257365
+LOCATION:Vue Cambridge - Grafton Centre
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Little Mermaid
+DTSTART;VALUE=DATE-TIME:20230528T160000
+DTEND;VALUE=DATE-TIME:20230528T183000
+DTSTAMP;VALUE=DATE-TIME:20230528T160000Z
+UID:257384
+DESCRIPTION:Duration: 135 mins (2h15m)\n\nScreen 6\n\nSynopsis: "The Littl
+ e Mermaid" is the beloved story of Ariel\, a beautiful and spirited young 
+ mermaid with a thirst for adventure. The youngest of King Triton's daughte
+ rs\, and the most defiant\, Ariel longs to find out more about the world b
+ eyond the sea.\n\nDirected by: Rob Marshall\nCast: Melissa McCarthy\, Jona
+ h Hauer-King\, Halle Bailey\n\nhttps://www.myvue.com/book-tickets/summary/
+ 10016/290519/257384
+LOCATION:Vue Cambridge - Grafton Centre
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Little Mermaid
+DTSTART;VALUE=DATE-TIME:20230528T170000
+DTEND;VALUE=DATE-TIME:20230528T193000
+DTSTAMP;VALUE=DATE-TIME:20230528T170000Z
+UID:258561
+DESCRIPTION:Duration: 135 mins (2h15m)\n\nScreen 7\n\nSynopsis: "The Littl
+ e Mermaid" is the beloved story of Ariel\, a beautiful and spirited young 
+ mermaid with a thirst for adventure. The youngest of King Triton's daughte
+ rs\, and the most defiant\, Ariel longs to find out more about the world b
+ eyond the sea.\n\nDirected by: Rob Marshall\nCast: Melissa McCarthy\, Jona
+ h Hauer-King\, Halle Bailey\n\nhttps://www.myvue.com/book-tickets/summary/
+ 10016/290519/258561
+LOCATION:Vue Cambridge - Grafton Centre
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Little Mermaid
+DTSTART;VALUE=DATE-TIME:20230528T173000
+DTEND;VALUE=DATE-TIME:20230528T200000
+DTSTAMP;VALUE=DATE-TIME:20230528T173000Z
+UID:258247
+DESCRIPTION:Duration: 135 mins (2h15m)\n\nScreen 8\n\nSynopsis: "The Littl
+ e Mermaid" is the beloved story of Ariel\, a beautiful and spirited young 
+ mermaid with a thirst for adventure. The youngest of King Triton's daughte
+ rs\, and the most defiant\, Ariel longs to find out more about the world b
+ eyond the sea.\n\nDirected by: Rob Marshall\nCast: Melissa McCarthy\, Jona
+ h Hauer-King\, Halle Bailey\n\nhttps://www.myvue.com/book-tickets/summary/
+ 10016/290519/258247
+LOCATION:Vue Cambridge - Grafton Centre
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Little Mermaid
+DTSTART;VALUE=DATE-TIME:20230528T182000
+DTEND;VALUE=DATE-TIME:20230528T205000
+DTSTAMP;VALUE=DATE-TIME:20230528T182000Z
+UID:258542
+DESCRIPTION:Duration: 135 mins (2h15m)\n\nScreen 3\n\nSynopsis: "The Littl
+ e Mermaid" is the beloved story of Ariel\, a beautiful and spirited young 
+ mermaid with a thirst for adventure. The youngest of King Triton's daughte
+ rs\, and the most defiant\, Ariel longs to find out more about the world b
+ eyond the sea.\n\nDirected by: Rob Marshall\nCast: Melissa McCarthy\, Jona
+ h Hauer-King\, Halle Bailey\n\nhttps://www.myvue.com/book-tickets/summary/
+ 10016/290519/258542
+LOCATION:Vue Cambridge - Grafton Centre
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Little Mermaid
+DTSTART;VALUE=DATE-TIME:20230528T192000
+DTEND;VALUE=DATE-TIME:20230528T215000
+DTSTAMP;VALUE=DATE-TIME:20230528T192000Z
+UID:258555
+DESCRIPTION:Duration: 135 mins (2h15m)\n\nScreen 6\n\nSynopsis: "The Littl
+ e Mermaid" is the beloved story of Ariel\, a beautiful and spirited young 
+ mermaid with a thirst for adventure. The youngest of King Triton's daughte
+ rs\, and the most defiant\, Ariel longs to find out more about the world b
+ eyond the sea.\n\nDirected by: Rob Marshall\nCast: Melissa McCarthy\, Jona
+ h Hauer-King\, Halle Bailey\n\nhttps://www.myvue.com/book-tickets/summary/
+ 10016/290519/258555
+LOCATION:Vue Cambridge - Grafton Centre
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Little Mermaid
+DTSTART;VALUE=DATE-TIME:20230528T202000
+DTEND;VALUE=DATE-TIME:20230528T225000
+DTSTAMP;VALUE=DATE-TIME:20230528T202000Z
+UID:258828
+DESCRIPTION:Duration: 135 mins (2h15m)\n\nScreen 7\n\nSynopsis: "The Littl
+ e Mermaid" is the beloved story of Ariel\, a beautiful and spirited young 
+ mermaid with a thirst for adventure. The youngest of King Triton's daughte
+ rs\, and the most defiant\, Ariel longs to find out more about the world b
+ eyond the sea.\n\nDirected by: Rob Marshall\nCast: Melissa McCarthy\, Jona
+ h Hauer-King\, Halle Bailey\n\nhttps://www.myvue.com/book-tickets/summary/
+ 10016/290519/258828
+LOCATION:Vue Cambridge - Grafton Centre
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Little Mermaid
+DTSTART;VALUE=DATE-TIME:20230528T210500
+DTEND;VALUE=DATE-TIME:20230528T233500
+DTSTAMP;VALUE=DATE-TIME:20230528T210500Z
+UID:258780
+DESCRIPTION:Duration: 135 mins (2h15m)\n\nScreen 5\n\nSynopsis: "The Littl
+ e Mermaid" is the beloved story of Ariel\, a beautiful and spirited young 
+ mermaid with a thirst for adventure. The youngest of King Triton's daughte
+ rs\, and the most defiant\, Ariel longs to find out more about the world b
+ eyond the sea.\n\nDirected by: Rob Marshall\nCast: Melissa McCarthy\, Jona
+ h Hauer-King\, Halle Bailey\n\nhttps://www.myvue.com/book-tickets/summary/
+ 10016/290519/258780
+LOCATION:Vue Cambridge - Grafton Centre
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Fast X
+DTSTART;VALUE=DATE-TIME:20230528T131500
+DTEND;VALUE=DATE-TIME:20230528T155500
+DTSTAMP;VALUE=DATE-TIME:20230528T131500Z
+UID:258690
+DESCRIPTION:Duration: 142 mins (2h22m)\n\nScreen 2\n\nSynopsis: The end of
+  the road begins.\n\nDirected by: Louis Leterrier\nCast: Vin Diesel\, Mich
+ elle Rodriguez\, Jason Momoa\, Charlize Theron\, Brie Larson\n\nhttps://ww
+ w.myvue.com/book-tickets/summary/10016/199571/258690
+LOCATION:Vue Cambridge - Grafton Centre
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Fast X
+DTSTART;VALUE=DATE-TIME:20230528T153500
+DTEND;VALUE=DATE-TIME:20230528T181500
+DTSTAMP;VALUE=DATE-TIME:20230528T153500Z
+UID:258746
+DESCRIPTION:Duration: 142 mins (2h22m)\n\nScreen 4\n\nSynopsis: The end of
+  the road begins.\n\nDirected by: Louis Leterrier\nCast: Vin Diesel\, Mich
+ elle Rodriguez\, Jason Momoa\, Charlize Theron\, Brie Larson\n\nhttps://ww
+ w.myvue.com/book-tickets/summary/10016/199571/258746
+LOCATION:Vue Cambridge - Grafton Centre
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Fast X
+DTSTART;VALUE=DATE-TIME:20230528T180000
+DTEND;VALUE=DATE-TIME:20230528T204000
+DTSTAMP;VALUE=DATE-TIME:20230528T180000Z
+UID:258779
+DESCRIPTION:Duration: 142 mins (2h22m)\n\nScreen 5\n\nSynopsis: The end of
+  the road begins.\n\nDirected by: Louis Leterrier\nCast: Vin Diesel\, Mich
+ elle Rodriguez\, Jason Momoa\, Charlize Theron\, Brie Larson\n\nhttps://ww
+ w.myvue.com/book-tickets/summary/10016/199571/258779
+LOCATION:Vue Cambridge - Grafton Centre
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Fast X
+DTSTART;VALUE=DATE-TIME:20230528T185500
+DTEND;VALUE=DATE-TIME:20230528T213500
+DTSTAMP;VALUE=DATE-TIME:20230528T185500Z
+UID:258692
+DESCRIPTION:Duration: 142 mins (2h22m)\n\nScreen 2\n\nSynopsis: The end of
+  the road begins.\n\nDirected by: Louis Leterrier\nCast: Vin Diesel\, Mich
+ elle Rodriguez\, Jason Momoa\, Charlize Theron\, Brie Larson\n\nhttps://ww
+ w.myvue.com/book-tickets/summary/10016/199571/258692
+LOCATION:Vue Cambridge - Grafton Centre
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Fast X
+DTSTART;VALUE=DATE-TIME:20230528T203500
+DTEND;VALUE=DATE-TIME:20230528T231500
+DTSTAMP;VALUE=DATE-TIME:20230528T203500Z
+UID:258850
+DESCRIPTION:Duration: 142 mins (2h22m)\n\nScreen 8\n\nSynopsis: The end of
+  the road begins.\n\nDirected by: Louis Leterrier\nCast: Vin Diesel\, Mich
+ elle Rodriguez\, Jason Momoa\, Charlize Theron\, Brie Larson\n\nhttps://ww
+ w.myvue.com/book-tickets/summary/10016/199571/258850
+LOCATION:Vue Cambridge - Grafton Centre
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Guardians of the Galaxy Vol. 3
+DTSTART;VALUE=DATE-TIME:20230528T122000
+DTEND;VALUE=DATE-TIME:20230528T150500
+DTSTAMP;VALUE=DATE-TIME:20230528T122000Z
+UID:258745
+DESCRIPTION:Duration: 150 mins (2h30m)\n\nScreen 4\n\nSynopsis: Peter Quil
+ l\, still reeling from the loss of Gamora\, must rally his team around him
+  to defend the universe along with protecting one of their own.\n\nDirecte
+ d by: James Gunn\nCast: Chris Pratt\, Dave Bautista\, Zoe Saldana\, Vin Di
+ esel\, Karen Gillan\, Bradley Cooper\n\nhttps://www.myvue.com/book-tickets
+ /summary/10016/290530/258745
+LOCATION:Vue Cambridge - Grafton Centre
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Guardians of the Galaxy Vol. 3
+DTSTART;VALUE=DATE-TIME:20230528T144500
+DTEND;VALUE=DATE-TIME:20230528T173000
+DTSTAMP;VALUE=DATE-TIME:20230528T144500Z
+UID:258778
+DESCRIPTION:Duration: 150 mins (2h30m)\n\nScreen 5\n\nSynopsis: Peter Quil
+ l\, still reeling from the loss of Gamora\, must rally his team around him
+  to defend the universe along with protecting one of their own.\n\nDirecte
+ d by: James Gunn\nCast: Chris Pratt\, Dave Bautista\, Zoe Saldana\, Vin Di
+ esel\, Karen Gillan\, Bradley Cooper\n\nhttps://www.myvue.com/book-tickets
+ /summary/10016/290530/258778
+LOCATION:Vue Cambridge - Grafton Centre
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Guardians of the Galaxy Vol. 3
+DTSTART;VALUE=DATE-TIME:20230528T171500
+DTEND;VALUE=DATE-TIME:20230528T200000
+DTSTAMP;VALUE=DATE-TIME:20230528T171500Z
+UID:258657
+DESCRIPTION:Duration: 150 mins (2h30m)\n\nScreen 1\n\nSynopsis: Peter Quil
+ l\, still reeling from the loss of Gamora\, must rally his team around him
+  to defend the universe along with protecting one of their own.\n\nDirecte
+ d by: James Gunn\nCast: Chris Pratt\, Dave Bautista\, Zoe Saldana\, Vin Di
+ esel\, Karen Gillan\, Bradley Cooper\n\nhttps://www.myvue.com/book-tickets
+ /summary/10016/290530/258657
+LOCATION:Vue Cambridge - Grafton Centre
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Guardians of the Galaxy Vol. 3
+DTSTART;VALUE=DATE-TIME:20230528T212000
+DTEND;VALUE=DATE-TIME:20230529T000500
+DTSTAMP;VALUE=DATE-TIME:20230528T212000Z
+UID:258719
+DESCRIPTION:Duration: 150 mins (2h30m)\n\nScreen 3\n\nSynopsis: Peter Quil
+ l\, still reeling from the loss of Gamora\, must rally his team around him
+  to defend the universe along with protecting one of their own.\n\nDirecte
+ d by: James Gunn\nCast: Chris Pratt\, Dave Bautista\, Zoe Saldana\, Vin Di
+ esel\, Karen Gillan\, Bradley Cooper\n\nhttps://www.myvue.com/book-tickets
+ /summary/10016/290530/258719
+LOCATION:Vue Cambridge - Grafton Centre
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Super Mario Bros. Movie
+DTSTART;VALUE=DATE-TIME:20230528T101500
+DTEND;VALUE=DATE-TIME:20230528T120500
+DTSTAMP;VALUE=DATE-TIME:20230528T101500Z
+UID:258805
+DESCRIPTION:Duration: 92 mins (1h32m)\n\nScreen 6\n\nSynopsis: A plumber n
+ amed Mario travels through an underground labyrinth with his brother\, Lui
+ gi\, trying to save a captured princess.\n\nDirected by: Matthew Fogel\nCa
+ st: Chris Pratt\, Anya Taylor-Joy\, Charlie Day\, Jack Black\, Seth Rogen\
+ n\nhttps://www.myvue.com/book-tickets/summary/10016/223992/258805
+LOCATION:Vue Cambridge - Grafton Centre
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Super Mario Bros. Movie
+DTSTART;VALUE=DATE-TIME:20230528T123000
+DTEND;VALUE=DATE-TIME:20230528T142000
+DTSTAMP;VALUE=DATE-TIME:20230528T123000Z
+UID:258777
+DESCRIPTION:Duration: 92 mins (1h32m)\n\nScreen 5\n\nSynopsis: A plumber n
+ amed Mario travels through an underground labyrinth with his brother\, Lui
+ gi\, trying to save a captured princess.\n\nDirected by: Matthew Fogel\nCa
+ st: Chris Pratt\, Anya Taylor-Joy\, Charlie Day\, Jack Black\, Seth Rogen\
+ n\nhttps://www.myvue.com/book-tickets/summary/10016/223992/258777
+LOCATION:Vue Cambridge - Grafton Centre
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Super Mario Bros. Movie
+DTSTART;VALUE=DATE-TIME:20230528T143000
+DTEND;VALUE=DATE-TIME:20230528T162000
+DTSTAMP;VALUE=DATE-TIME:20230528T143000Z
+UID:258656
+DESCRIPTION:Duration: 92 mins (1h32m)\n\nScreen 1\n\nSynopsis: A plumber n
+ amed Mario travels through an underground labyrinth with his brother\, Lui
+ gi\, trying to save a captured princess.\n\nDirected by: Matthew Fogel\nCa
+ st: Chris Pratt\, Anya Taylor-Joy\, Charlie Day\, Jack Black\, Seth Rogen\
+ n\nhttps://www.myvue.com/book-tickets/summary/10016/223992/258656
+LOCATION:Vue Cambridge - Grafton Centre
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Are You There God? It's Me\, Margaret
+DTSTART;VALUE=DATE-TIME:20230528T162500
+DTEND;VALUE=DATE-TIME:20230528T183000
+DTSTAMP;VALUE=DATE-TIME:20230528T162500Z
+UID:258691
+DESCRIPTION:Duration: 106 mins (1h46m)\n\nScreen 2\n\nSynopsis: 11-year-ol
+ d Margaret (Abby Ryder Fortson) is uprooted from her life in New York City
+  for the suburbs of New Jersey\, going through the messy and tumultuous th
+ roes of puberty with new friends in a new school.\n\nDirected by: Kelly Fr
+ emon Craig\nCast: Rachel McAdams\, Elle Graham\, Abby Ryder Fortson\, Kath
+ y Bates\n\nhttps://www.myvue.com/book-tickets/summary/10016/342236/258691
+LOCATION:Vue Cambridge - Grafton Centre
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:TOMORROW X TOGETHER WORLD TOUR
+DTSTART;VALUE=DATE-TIME:20230528T190000
+DTEND;VALUE=DATE-TIME:20230528T224500
+DTSTAMP;VALUE=DATE-TIME:20230528T190000Z
+UID:257470
+DESCRIPTION:Duration: 210 mins (3h30m)\n\nScreen 4\n\nSynopsis: One more w
+ ay to enjoy TOMORROW X TOGETHER's second world tour! Don’t miss out on T
+ OMORROW X TOGETHER WORLD TOUR <ACT: SWEET MIRAGE> IN LA: LIVE VIEWING.\n\n
+ Directed by: None\nCast: Tomorrow X Together\n\nhttps://www.myvue.com/book
+ -tickets/summary/10016/999163/257470
+LOCATION:Vue Cambridge - Grafton Centre
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hey Duggee At The Cinema! 2
+DTSTART;VALUE=DATE-TIME:20230528T103000
+DTEND;VALUE=DATE-TIME:20230528T114500
+DTSTAMP;VALUE=DATE-TIME:20230528T103000Z
+UID:258776
+DESCRIPTION:Duration: 60 mins (1h00m)\n\nScreen 5\n\nSynopsis: Join Duggee
+  and his friends for a 60 minute special made up of your favorite episodes
+ .\n\nDirected by: Grant Orchard\, Sander Jones\nCast: Duggee\, Norrie\, Ro
+ ly\, Tag\, Betty\n\nhttps://www.myvue.com/book-tickets/summary/10016/38969
+ 4/258776
+LOCATION:Vue Cambridge - Grafton Centre
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hey Duggee At The Cinema! 2
+DTSTART;VALUE=DATE-TIME:20230528T123500
+DTEND;VALUE=DATE-TIME:20230528T135000
+DTSTAMP;VALUE=DATE-TIME:20230528T123500Z
+UID:258655
+DESCRIPTION:Duration: 60 mins (1h00m)\n\nScreen 1\n\nSynopsis: Join Duggee
+  and his friends for a 60 minute special made up of your favorite episodes
+ .\n\nDirected by: Grant Orchard\, Sander Jones\nCast: Duggee\, Norrie\, Ro
+ ly\, Tag\, Betty\n\nhttps://www.myvue.com/book-tickets/summary/10016/38969
+ 4/258655
+LOCATION:Vue Cambridge - Grafton Centre
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:John Wick: Chapter 4
+DTSTART;VALUE=DATE-TIME:20230528T205000
+DTEND;VALUE=DATE-TIME:20230528T235500
+DTSTAMP;VALUE=DATE-TIME:20230528T205000Z
+UID:258658
+DESCRIPTION:Duration: 169 mins (2h49m)\n\nScreen 1\n\nSynopsis: John Wick 
+ (Keanu Reeves) uncovers a path to defeating The High Table. But before he 
+ can earn his freedom\, Wick must face off against a new enemy with powerfu
+ l alliances across the globe and forces that turn old friends into foes.\n
+ \nDirected by: Chad Stahelski\nCast: Keanu Reeves\, Donnie Yen\, Bill Skar
+ sgård\n\nhttps://www.myvue.com/book-tickets/summary/10016/279194/258658
+LOCATION:Vue Cambridge - Grafton Centre
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Epic Tails | Mini Mornings
+DTSTART;VALUE=DATE-TIME:20230528T100000
+DTEND;VALUE=DATE-TIME:20230528T115000
+DTSTAMP;VALUE=DATE-TIME:20230528T100000Z
+UID:258654
+DESCRIPTION:Duration: 95 mins (1h35m)\n\nScreen 1\n\nSynopsis: 'Epic Tails
+ ' tells the story of super smart mouse Pattie and her feline friend Sam\, 
+ as they embark upon an exciting adventure of paw-some proportions through 
+ Ancient Greece.\n\nDirected by: David Alaux\nCast: Rob Beckett\, Giovanna 
+ Fletcher\, Josh Widdicombe\n\nhttps://www.myvue.com/book-tickets/summary/1
+ 0016/353023/258654
+LOCATION:Vue Cambridge - Grafton Centre
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Epic Tails | Mini Mornings
+DTSTART;VALUE=DATE-TIME:20230528T103000
+DTEND;VALUE=DATE-TIME:20230528T122000
+DTSTAMP;VALUE=DATE-TIME:20230528T103000Z
+UID:258689
+DESCRIPTION:Duration: 95 mins (1h35m)\n\nScreen 2\n\nSynopsis: 'Epic Tails
+ ' tells the story of super smart mouse Pattie and her feline friend Sam\, 
+ as they embark upon an exciting adventure of paw-some proportions through 
+ Ancient Greece.\n\nDirected by: David Alaux\nCast: Rob Beckett\, Giovanna 
+ Fletcher\, Josh Widdicombe\n\nhttps://www.myvue.com/book-tickets/summary/1
+ 0016/353023/258689
+LOCATION:Vue Cambridge - Grafton Centre
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Suzume (Subtitled)
+DTSTART;VALUE=DATE-TIME:20230528T104500
+DTEND;VALUE=DATE-TIME:20230528T130500
+DTSTAMP;VALUE=DATE-TIME:20230528T104500Z
+UID:258827
+DESCRIPTION:Duration: 122 mins (2h02m)\n\nScreen 7\n\nSynopsis: On the oth
+ er side of the door\, was time in its entirety...\n\nAs the skies turn red
+  and the earth trembles\, Japan stands on the brink of disaster. But one d
+ etermined teenager\, Suzume\, sets out on a mission to save her country.\n
+ \nDirected by: Makoto Shinkai\nCast: Eri Fukatsu\, Hokuto Matsumura\, Nano
+ ka Hara\n\nhttps://www.myvue.com/book-tickets/summary/10016/378627/258827
 LOCATION:Vue Cambridge - Grafton Centre
 END:VEVENT
 END:VCALENDAR
