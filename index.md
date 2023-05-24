@@ -36,7 +36,7 @@ layout: default
 </p>
 
 <p>
-  Copy-paste an ICS link from above (eg. <em>All events</em>), and import using <em>From URL</em> within Google Calendar.
+  Copy-paste an ICS link from above and import using <em>From URL</em> within Google Calendar.
 </p>
 
 <p><a href="{{ site.github.repository_url }}/commit/{{ site.github.build_revision }}">Last update</a></p>
