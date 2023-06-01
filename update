@@ -10,6 +10,7 @@
 import datetime
 import logging
 import re
+import sys
 
 import click
 import icalendar
@@ -55,8 +56,14 @@ class VueICS:
         r = self.session.get("https://www.myvue.com/data/locations/")
         r.raise_for_status()
 
+        try:
+            data = r.json()
+        except requests.exceptions.JSONDecodeError:
+            logging.error(f"Did not receive valid JSON. (Blocked?)")
+            sys.exit(1)
+
         result = []
-        for outer in r.json()["venues"]:
+        for outer in data["venues"]:
             for x in outer["cinemas"]:
                 if x["name"] != "Cambridge":
                     continue
