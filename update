@@ -22,7 +22,7 @@ from rich.logging import RichHandler
 from rich.progress import track
 
 logging.basicConfig(
-    level=logging.INFO, format="%(message)s", datefmt="[%X]", handlers=[RichHandler()]
+    level=logging.DEBUG, format="%(message)s", datefmt="[%X]", handlers=[RichHandler()]
 )
 
 re_runtime = re.compile(r'^(?P<hours>\d+)\s*hrs?\s+(?P<minutes>\d+)mins?$')
@@ -82,7 +82,7 @@ class VueICS:
         return result
 
     def get_ics(self, venue):
-        logging.info(f"Generating for Vue {venue['name']}")
+        logging.info(f"Generating ICS for Vue {venue['name']}")
 
         name = f"Vue {venue['name']}"
 
@@ -95,6 +95,7 @@ class VueICS:
 
         for idx in track(range(self.DAYS)):
             date = self.START + datetime.timedelta(days=idx)
+            logging.debug(f"Generating ICS for Vue {venue['name']} on {date}")
 
             url = "https://www.myvue.com/data/filmswithshowings/{}?requestedDate={:04d}-{:02d}-{:02d}".format(
                 venue["id"],
@@ -109,7 +110,10 @@ class VueICS:
             try:
                 data = r.json()
             except:
+                logging.warning(f"Got invalid JSON for Vue {venue['name']} on {date}")
                 continue
+
+            num_events = 0
 
             for film in data["films"]:
                 if not film["info_runningtime"]:
@@ -152,6 +156,10 @@ class VueICS:
 
                         event.add("description", "\n\n".join(description))
                         cal.add_component(event)
+
+                        num_events += 1
+
+            logging.debug(f"Found {num_events} total events for Vue {venue['name']} on {date}")
 
         return cal.to_ical().decode("utf-8")
 
