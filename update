@@ -149,7 +149,9 @@ class VueICS:
                         description.append(showing["screen_name"])
 
                         description.append(film["synopsis_intro"])
-                        description.append(f"Directed by: {film['info_director']}\nCast: {film['info_cast']}")
+
+                        cast = film['info_cast'].strip()
+                        description.append(f"Directed by: {film['info_director']}\nCast: {cast}")
 
                         url = f"https://www.myvue.com/book-tickets/summary/{venue['id']}/{film['id']}/{showing['session_id']}"
                         description.append(url)
