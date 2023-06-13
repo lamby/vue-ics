@@ -196,6 +196,7 @@ class VueICS:
             day=date.day,
             hour=hour,
             minute=minute,
+            tzinfo=self.LOCAL_TIMEZONE,
         )
 
 
