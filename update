@@ -25,7 +25,7 @@ logging.basicConfig(
     level=logging.DEBUG, format="%(message)s", datefmt="[%X]", handlers=[RichHandler()]
 )
 
-re_runtime = re.compile(r'^(?P<hours>\d+)\s*hrs?\s+(?P<minutes>\d+)mins?$')
+re_runtime = re.compile(r"^(?P<hours>\d+)\s*hrs?\s+(?P<minutes>\d+)mins?$")
 re_start_time = re.compile(r"^(?P<hour>\d+):(?P<minutes>\d\d)\s+(?P<period>AM|PM)$")
 
 
@@ -147,21 +147,28 @@ class VueICS:
                             f"Duration: {runtime} mins ({hours}h{minutes:02d}m)"
                         )
                         description.append(showing["screen_name"])
+                        description.append("\n")
 
                         description.append(film["synopsis_intro"])
+                        description.append("\n")
 
-                        cast = film['info_cast'].strip()
-                        description.append(f"Directed by: {film['info_director']}\nCast: {cast}")
+                        description.append(f"Directed by {film['info_director']}")
+                        cast = film["info_cast"].strip()
+                        description.append(f"Cast: {cast}")
+                        description.append("\n")
 
-                        url = f"https://www.myvue.com/book-tickets/summary/{venue['id']}/{film['id']}/{showing['session_id']}"
-                        description.append(url)
+                        description.append(
+                            f"https://www.myvue.com/book-tickets/summary/{venue['id']}/{film['id']}/{showing['session_id']}"
+                        )
 
-                        event.add("description", "\n\n".join(description))
+                        event.add("description", "\n".join(description))
                         cal.add_component(event)
 
                         num_events += 1
 
-            logging.debug(f"Found {num_events} total events for Vue {venue['name']} on {date}")
+            logging.debug(
+                f"Found {num_events} total events for Vue {venue['name']} on {date}"
+            )
 
         return cal.to_ical().decode("utf-8")
 
