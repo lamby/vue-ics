@@ -30,7 +30,7 @@ re_start_time = re.compile(r"^(?P<hour>\d+):(?P<minutes>\d\d)\s+(?P<period>AM|PM
 
 
 class VueICS:
-    PADDING = 15  # minutes
+    PADDING = 20  # minutes
     START = datetime.date.today()
     DAYS = 7
     LOCAL_TIMEZONE = pytz.timezone("Europe/London")
