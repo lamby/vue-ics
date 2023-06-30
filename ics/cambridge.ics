@@ -1,9 +1,237 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED;VALUE=DATE-TIME:20230629T150700Z
+LAST-MODIFIED;VALUE=DATE-TIME:20230630T165721Z
 NAME:Vue Cambridge
 X-WR-CALNAME:Vue Cambridge
+BEGIN:VEVENT
+SUMMARY:Indiana Jones and the Dial of Destiny
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230630T182000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230630T211500
+DTSTAMP;VALUE=DATE-TIME:20230630T182100Z
+UID:259816
+DESCRIPTION:Duration: 154 mins (2h34m)\nScreen 7\n\nDaredevil archaeologis
+ t Indiana Jones races against time to retrieve a legendary dial that can c
+ hange the course of history. Accompanied by his goddaughter\, he soon find
+ s himself squaring off against Jürgen Voller\, a former Nazi who works fo
+ r NASA.\n\nDirected by James Mangold\nCast: Harrison Ford\, Mads Mikkelsen
+ \, Phoebe Waller-Bridge\, Antonio Banderas\, Shaunette Renez Wilson\n\nhtt
+ ps://www.myvue.com/book-tickets/summary/10016/202084/259816
+LOCATION:Vue Cambridge - Grafton Centre
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Indiana Jones and the Dial of Destiny
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230630T194000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230630T223500
+DTSTAMP;VALUE=DATE-TIME:20230630T194100Z
+UID:259472
+DESCRIPTION:Duration: 154 mins (2h34m)\nScreen 8\n\nDaredevil archaeologis
+ t Indiana Jones races against time to retrieve a legendary dial that can c
+ hange the course of history. Accompanied by his goddaughter\, he soon find
+ s himself squaring off against Jürgen Voller\, a former Nazi who works fo
+ r NASA.\n\nDirected by James Mangold\nCast: Harrison Ford\, Mads Mikkelsen
+ \, Phoebe Waller-Bridge\, Antonio Banderas\, Shaunette Renez Wilson\n\nhtt
+ ps://www.myvue.com/book-tickets/summary/10016/202084/259472
+LOCATION:Vue Cambridge - Grafton Centre
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Indiana Jones and the Dial of Destiny
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230630T202000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230630T231500
+DTSTAMP;VALUE=DATE-TIME:20230630T202100Z
+UID:259446
+DESCRIPTION:Duration: 154 mins (2h34m)\nScreen 6\n\nDaredevil archaeologis
+ t Indiana Jones races against time to retrieve a legendary dial that can c
+ hange the course of history. Accompanied by his goddaughter\, he soon find
+ s himself squaring off against Jürgen Voller\, a former Nazi who works fo
+ r NASA.\n\nDirected by James Mangold\nCast: Harrison Ford\, Mads Mikkelsen
+ \, Phoebe Waller-Bridge\, Antonio Banderas\, Shaunette Renez Wilson\n\nhtt
+ ps://www.myvue.com/book-tickets/summary/10016/202084/259446
+LOCATION:Vue Cambridge - Grafton Centre
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Indiana Jones and the Dial of Destiny
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230630T214000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230701T003500
+DTSTAMP;VALUE=DATE-TIME:20230630T214100Z
+UID:260579
+DESCRIPTION:Duration: 154 mins (2h34m)\nScreen 7\n\nDaredevil archaeologis
+ t Indiana Jones races against time to retrieve a legendary dial that can c
+ hange the course of history. Accompanied by his goddaughter\, he soon find
+ s himself squaring off against Jürgen Voller\, a former Nazi who works fo
+ r NASA.\n\nDirected by James Mangold\nCast: Harrison Ford\, Mads Mikkelsen
+ \, Phoebe Waller-Bridge\, Antonio Banderas\, Shaunette Renez Wilson\n\nhtt
+ ps://www.myvue.com/book-tickets/summary/10016/202084/260579
+LOCATION:Vue Cambridge - Grafton Centre
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Spider-Man: Across The Spider-Verse
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230630T180500
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230630T204500
+DTSTAMP;VALUE=DATE-TIME:20230630T180600Z
+UID:260389
+DESCRIPTION:Duration: 139 mins (2h19m)\nScreen 1\n\nAfter reuniting with G
+ wen Stacy\, Brooklyn's full-time\, friendly neighbourhood Spider-Man is ca
+ tapulted across the Multiverse\, where he encounters a team of Spider-Peop
+ le charged with protecting its very existence.\n\nDirected by Justin K. Th
+ ompson\nCast: Oscar Isaac\, Shameik Moore\, Hailee Steinfeld\n\nhttps://ww
+ w.myvue.com/book-tickets/summary/10016/289430/260389
+LOCATION:Vue Cambridge - Grafton Centre
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Spider-Man: Across The Spider-Verse
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230630T191000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230630T215000
+DTSTAMP;VALUE=DATE-TIME:20230630T191100Z
+UID:260491
+DESCRIPTION:Duration: 139 mins (2h19m)\nScreen 4\n\nAfter reuniting with G
+ wen Stacy\, Brooklyn's full-time\, friendly neighbourhood Spider-Man is ca
+ tapulted across the Multiverse\, where he encounters a team of Spider-Peop
+ le charged with protecting its very existence.\n\nDirected by Justin K. Th
+ ompson\nCast: Oscar Isaac\, Shameik Moore\, Hailee Steinfeld\n\nhttps://ww
+ w.myvue.com/book-tickets/summary/10016/289430/260491
+LOCATION:Vue Cambridge - Grafton Centre
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Spider-Man: Across The Spider-Verse
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230630T200500
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230630T224500
+DTSTAMP;VALUE=DATE-TIME:20230630T200600Z
+UID:260458
+DESCRIPTION:Duration: 139 mins (2h19m)\nScreen 3\n\nAfter reuniting with G
+ wen Stacy\, Brooklyn's full-time\, friendly neighbourhood Spider-Man is ca
+ tapulted across the Multiverse\, where he encounters a team of Spider-Peop
+ le charged with protecting its very existence.\n\nDirected by Justin K. Th
+ ompson\nCast: Oscar Isaac\, Shameik Moore\, Hailee Steinfeld\n\nhttps://ww
+ w.myvue.com/book-tickets/summary/10016/289430/260458
+LOCATION:Vue Cambridge - Grafton Centre
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Spider-Man: Across The Spider-Verse
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230630T230500
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230701T014500
+DTSTAMP;VALUE=DATE-TIME:20230630T230600Z
+UID:260595
+DESCRIPTION:Duration: 139 mins (2h19m)\nScreen 8\n\nAfter reuniting with G
+ wen Stacy\, Brooklyn's full-time\, friendly neighbourhood Spider-Man is ca
+ tapulted across the Multiverse\, where he encounters a team of Spider-Peop
+ le charged with protecting its very existence.\n\nDirected by Justin K. Th
+ ompson\nCast: Oscar Isaac\, Shameik Moore\, Hailee Steinfeld\n\nhttps://ww
+ w.myvue.com/book-tickets/summary/10016/289430/260595
+LOCATION:Vue Cambridge - Grafton Centre
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:No Hard Feelings
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230630T203500
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230630T224000
+DTSTAMP;VALUE=DATE-TIME:20230630T203600Z
+UID:260423
+DESCRIPTION:Duration: 103 mins (1h43m)\nScreen 2\n\nJennifer Lawrence prod
+ uces and stars in No Hard Feelings\, a laugh-out-loud\, edgy comedy from d
+ irector Gene Stupnitsky (Good Boys) and the co-writer of Bad Teacher.\n\nD
+ irected by Gene Stupnitsky\nCast: Jennifer Lawrence\, Matthew Broderick\, 
+ Laura Benanti\, Andrew Barth Feldman\, Natalie Morales\n\nhttps://www.myvu
+ e.com/book-tickets/summary/10016/367197/260423
+LOCATION:Vue Cambridge - Grafton Centre
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Little Mermaid
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230630T230000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230701T013500
+DTSTAMP;VALUE=DATE-TIME:20230630T230100Z
+UID:260555
+DESCRIPTION:Duration: 135 mins (2h15m)\nScreen 2\n\n"The Little Mermaid" i
+ s the beloved story of Ariel\, a beautiful and spirited young mermaid with
+  a thirst for adventure. The youngest of King Triton's daughters\, and the
+  most defiant\, Ariel longs to find out more about the world beyond the se
+ a.\n\nDirected by Rob Marshall\nCast: Melissa McCarthy\, Jonah Hauer-King\
+ , Halle Bailey\n\nhttps://www.myvue.com/book-tickets/summary/10016/290519/
+ 260555
+LOCATION:Vue Cambridge - Grafton Centre
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Asteroid City
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230630T192500
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230630T213000
+DTSTAMP;VALUE=DATE-TIME:20230630T192600Z
+UID:260522
+DESCRIPTION:Duration: 105 mins (1h45m)\nScreen 5\n\nThe itinerary of a Jun
+ ior Stargazer/Space Cadet convention (organized to bring together students
+  and parents from across the country for fellowship and scholarly competit
+ ion) is spectacularly disrupted by world-changing events.\n\nDirected by W
+ es Anderson\nCast: Tom Hanks\, Scarlett Johansson\, Jason Schwartzman\n\nh
+ ttps://www.myvue.com/book-tickets/summary/10016/378728/260522
+LOCATION:Vue Cambridge - Grafton Centre
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Flash
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230630T210500
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230630T235000
+DTSTAMP;VALUE=DATE-TIME:20230630T210600Z
+UID:260390
+DESCRIPTION:Duration: 144 mins (2h24m)\nScreen 1\n\nWorlds collide in "The
+  Flash" when Barry uses his superpowers to travel back in time in order to
+  change the events of the past.\n\nDirected by Andy Muschietti\nCast: Ezra
+  Miller\, Sasha Calle\, Ben Affleck\, Michael Keaton\, Kieresey Clemons\, 
+ Saoirse-Monica Jackson\n\nhttps://www.myvue.com/book-tickets/summary/10016
+ /292206/260390
+LOCATION:Vue Cambridge - Grafton Centre
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Flash
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230630T220000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230701T004500
+DTSTAMP;VALUE=DATE-TIME:20230630T220100Z
+UID:260523
+DESCRIPTION:Duration: 144 mins (2h24m)\nScreen 5\n\nWorlds collide in "The
+  Flash" when Barry uses his superpowers to travel back in time in order to
+  change the events of the past.\n\nDirected by Andy Muschietti\nCast: Ezra
+  Miller\, Sasha Calle\, Ben Affleck\, Michael Keaton\, Kieresey Clemons\, 
+ Saoirse-Monica Jackson\n\nhttps://www.myvue.com/book-tickets/summary/10016
+ /292206/260523
+LOCATION:Vue Cambridge - Grafton Centre
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Boogeyman
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230630T221500
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230701T001500
+DTSTAMP;VALUE=DATE-TIME:20230630T221600Z
+UID:260492
+DESCRIPTION:Duration: 99 mins (1h39m)\nScreen 4\n\nHigh school student Sad
+ ie Harper and her younger sister Sawyer are reeling from the recent death 
+ of their mother and aren't getting much support from their father\, Will\,
+  a therapist who is dealing with his own pain.\n\nDirected by Rob Savage\n
+ Cast: Vivien Lyra Blair\, Sophie Thatcher\, Chris Messina\n\nhttps://www.m
+ yvue.com/book-tickets/summary/10016/381416/260492
+LOCATION:Vue Cambridge - Grafton Centre
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Fast X
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230630T230500
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230701T015000
+DTSTAMP;VALUE=DATE-TIME:20230630T230600Z
+UID:260459
+DESCRIPTION:Duration: 142 mins (2h22m)\nScreen 3\n\nThe end of the road be
+ gins.\n\nDirected by Louis Leterrier\nCast: Vin Diesel\, Michelle Rodrigue
+ z\, Jason Momoa\, Charlize Theron\, Brie Larson\n\nhttps://www.myvue.com/b
+ ook-tickets/summary/10016/199571/260459
+LOCATION:Vue Cambridge - Grafton Centre
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Chevalier
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230630T232500
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230701T013500
+DTSTAMP;VALUE=DATE-TIME:20230630T232600Z
+UID:260424
+DESCRIPTION:Duration: 108 mins (1h48m)\nScreen 6\n\nThe illegitimate son o
+ f an African slave and a French plantation owner\, Bologne (Kelvin Harriso
+ n Jr. in a tour de force performance) rises to improbable heights in Frenc
+ h society as a celebrated violinist-composer and fencer.\n\nDirected by St
+ ephen Williams\nCast: Lucy Boynton\,Kelvin Harrison Jr.\, Minnie Driver\, 
+ Samara Weaving\n\nhttps://www.myvue.com/book-tickets/summary/10016/374058/
+ 260424
+LOCATION:Vue Cambridge - Grafton Centre
+END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Indiana Jones and the Dial of Destiny
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230701T100000
@@ -533,526 +761,1562 @@ LOCATION:Vue Cambridge - Grafton Centre
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Indiana Jones and the Dial of Destiny
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230705T110000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230705T135500
-DTSTAMP;VALUE=DATE-TIME:20230705T110100Z
-UID:260584
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230702T104000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230702T133500
+DTSTAMP;VALUE=DATE-TIME:20230702T104100Z
+UID:259464
 DESCRIPTION:Duration: 154 mins (2h34m)\nScreen 7\n\nDaredevil archaeologis
  t Indiana Jones races against time to retrieve a legendary dial that can c
  hange the course of history. Accompanied by his goddaughter\, he soon find
  s himself squaring off against Jürgen Voller\, a former Nazi who works fo
  r NASA.\n\nDirected by James Mangold\nCast: Harrison Ford\, Mads Mikkelsen
  \, Phoebe Waller-Bridge\, Antonio Banderas\, Shaunette Renez Wilson\n\nhtt
- ps://www.myvue.com/book-tickets/summary/10016/202084/260584
+ ps://www.myvue.com/book-tickets/summary/10016/202084/259464
 LOCATION:Vue Cambridge - Grafton Centre
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Indiana Jones and the Dial of Destiny
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230705T132500
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230705T162000
-DTSTAMP;VALUE=DATE-TIME:20230705T132600Z
-UID:260430
-DESCRIPTION:Duration: 154 mins (2h34m)\nScreen 2\n\nDaredevil archaeologis
- t Indiana Jones races against time to retrieve a legendary dial that can c
- hange the course of history. Accompanied by his goddaughter\, he soon find
- s himself squaring off against Jürgen Voller\, a former Nazi who works fo
- r NASA.\n\nDirected by James Mangold\nCast: Harrison Ford\, Mads Mikkelsen
- \, Phoebe Waller-Bridge\, Antonio Banderas\, Shaunette Renez Wilson\n\nhtt
- ps://www.myvue.com/book-tickets/summary/10016/202084/260430
-LOCATION:Vue Cambridge - Grafton Centre
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Indiana Jones and the Dial of Destiny
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230705T142000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230705T171500
-DTSTAMP;VALUE=DATE-TIME:20230705T142100Z
-UID:259819
-DESCRIPTION:Duration: 154 mins (2h34m)\nScreen 7\n\nDaredevil archaeologis
- t Indiana Jones races against time to retrieve a legendary dial that can c
- hange the course of history. Accompanied by his goddaughter\, he soon find
- s himself squaring off against Jürgen Voller\, a former Nazi who works fo
- r NASA.\n\nDirected by James Mangold\nCast: Harrison Ford\, Mads Mikkelsen
- \, Phoebe Waller-Bridge\, Antonio Banderas\, Shaunette Renez Wilson\n\nhtt
- ps://www.myvue.com/book-tickets/summary/10016/202084/259819
-LOCATION:Vue Cambridge - Grafton Centre
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Indiana Jones and the Dial of Destiny
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230705T154000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230705T183500
-DTSTAMP;VALUE=DATE-TIME:20230705T154100Z
-UID:260601
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230702T120000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230702T145500
+DTSTAMP;VALUE=DATE-TIME:20230702T120100Z
+UID:259836
 DESCRIPTION:Duration: 154 mins (2h34m)\nScreen 8\n\nDaredevil archaeologis
  t Indiana Jones races against time to retrieve a legendary dial that can c
  hange the course of history. Accompanied by his goddaughter\, he soon find
  s himself squaring off against Jürgen Voller\, a former Nazi who works fo
  r NASA.\n\nDirected by James Mangold\nCast: Harrison Ford\, Mads Mikkelsen
  \, Phoebe Waller-Bridge\, Antonio Banderas\, Shaunette Renez Wilson\n\nhtt
- ps://www.myvue.com/book-tickets/summary/10016/202084/260601
+ ps://www.myvue.com/book-tickets/summary/10016/202084/259836
 LOCATION:Vue Cambridge - Grafton Centre
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Indiana Jones and the Dial of Destiny
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230705T180000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230705T205500
-DTSTAMP;VALUE=DATE-TIME:20230705T180100Z
-UID:260585
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230702T142000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230702T171500
+DTSTAMP;VALUE=DATE-TIME:20230702T142100Z
+UID:259556
 DESCRIPTION:Duration: 154 mins (2h34m)\nScreen 7\n\nDaredevil archaeologis
  t Indiana Jones races against time to retrieve a legendary dial that can c
  hange the course of history. Accompanied by his goddaughter\, he soon find
  s himself squaring off against Jürgen Voller\, a former Nazi who works fo
  r NASA.\n\nDirected by James Mangold\nCast: Harrison Ford\, Mads Mikkelsen
  \, Phoebe Waller-Bridge\, Antonio Banderas\, Shaunette Renez Wilson\n\nhtt
- ps://www.myvue.com/book-tickets/summary/10016/202084/260585
+ ps://www.myvue.com/book-tickets/summary/10016/202084/259556
 LOCATION:Vue Cambridge - Grafton Centre
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Indiana Jones and the Dial of Destiny
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230705T192000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230705T221500
-DTSTAMP;VALUE=DATE-TIME:20230705T192100Z
-UID:260602
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230702T154000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230702T183500
+DTSTAMP;VALUE=DATE-TIME:20230702T154100Z
+UID:259569
 DESCRIPTION:Duration: 154 mins (2h34m)\nScreen 8\n\nDaredevil archaeologis
  t Indiana Jones races against time to retrieve a legendary dial that can c
  hange the course of history. Accompanied by his goddaughter\, he soon find
  s himself squaring off against Jürgen Voller\, a former Nazi who works fo
  r NASA.\n\nDirected by James Mangold\nCast: Harrison Ford\, Mads Mikkelsen
  \, Phoebe Waller-Bridge\, Antonio Banderas\, Shaunette Renez Wilson\n\nhtt
- ps://www.myvue.com/book-tickets/summary/10016/202084/260602
+ ps://www.myvue.com/book-tickets/summary/10016/202084/259569
 LOCATION:Vue Cambridge - Grafton Centre
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Indiana Jones and the Dial of Destiny
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230705T200000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230705T225500
-DTSTAMP;VALUE=DATE-TIME:20230705T200100Z
-UID:260563
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230702T180000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230702T205500
+DTSTAMP;VALUE=DATE-TIME:20230702T180100Z
+UID:259825
+DESCRIPTION:Duration: 154 mins (2h34m)\nScreen 7\n\nDaredevil archaeologis
+ t Indiana Jones races against time to retrieve a legendary dial that can c
+ hange the course of history. Accompanied by his goddaughter\, he soon find
+ s himself squaring off against Jürgen Voller\, a former Nazi who works fo
+ r NASA.\n\nDirected by James Mangold\nCast: Harrison Ford\, Mads Mikkelsen
+ \, Phoebe Waller-Bridge\, Antonio Banderas\, Shaunette Renez Wilson\n\nhtt
+ ps://www.myvue.com/book-tickets/summary/10016/202084/259825
+LOCATION:Vue Cambridge - Grafton Centre
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Indiana Jones and the Dial of Destiny
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230702T192000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230702T221500
+DTSTAMP;VALUE=DATE-TIME:20230702T192100Z
+UID:260612
+DESCRIPTION:Duration: 154 mins (2h34m)\nScreen 8\n\nDaredevil archaeologis
+ t Indiana Jones races against time to retrieve a legendary dial that can c
+ hange the course of history. Accompanied by his goddaughter\, he soon find
+ s himself squaring off against Jürgen Voller\, a former Nazi who works fo
+ r NASA.\n\nDirected by James Mangold\nCast: Harrison Ford\, Mads Mikkelsen
+ \, Phoebe Waller-Bridge\, Antonio Banderas\, Shaunette Renez Wilson\n\nhtt
+ ps://www.myvue.com/book-tickets/summary/10016/202084/260612
+LOCATION:Vue Cambridge - Grafton Centre
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Indiana Jones and the Dial of Destiny
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230702T200000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230702T225500
+DTSTAMP;VALUE=DATE-TIME:20230702T200100Z
+UID:259843
 DESCRIPTION:Duration: 154 mins (2h34m)\nScreen 6\n\nDaredevil archaeologis
  t Indiana Jones races against time to retrieve a legendary dial that can c
  hange the course of history. Accompanied by his goddaughter\, he soon find
  s himself squaring off against Jürgen Voller\, a former Nazi who works fo
  r NASA.\n\nDirected by James Mangold\nCast: Harrison Ford\, Mads Mikkelsen
  \, Phoebe Waller-Bridge\, Antonio Banderas\, Shaunette Renez Wilson\n\nhtt
- ps://www.myvue.com/book-tickets/summary/10016/202084/260563
-LOCATION:Vue Cambridge - Grafton Centre
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Indiana Jones and the Dial of Destiny
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230705T220000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230706T005500
-DTSTAMP;VALUE=DATE-TIME:20230705T220100Z
-UID:260469
-DESCRIPTION:Duration: 154 mins (2h34m)\nScreen 3\n\nDaredevil archaeologis
- t Indiana Jones races against time to retrieve a legendary dial that can c
- hange the course of history. Accompanied by his goddaughter\, he soon find
- s himself squaring off against Jürgen Voller\, a former Nazi who works fo
- r NASA.\n\nDirected by James Mangold\nCast: Harrison Ford\, Mads Mikkelsen
- \, Phoebe Waller-Bridge\, Antonio Banderas\, Shaunette Renez Wilson\n\nhtt
- ps://www.myvue.com/book-tickets/summary/10016/202084/260469
+ ps://www.myvue.com/book-tickets/summary/10016/202084/259843
 LOCATION:Vue Cambridge - Grafton Centre
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Spider-Man: Across The Spider-Verse
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230705T113000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230705T141000
-DTSTAMP;VALUE=DATE-TIME:20230705T113100Z
-UID:260560
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230702T103000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230702T131000
+DTSTAMP;VALUE=DATE-TIME:20230702T103100Z
+UID:260542
+DESCRIPTION:Duration: 139 mins (2h19m)\nScreen 5\n\nAfter reuniting with G
+ wen Stacy\, Brooklyn's full-time\, friendly neighbourhood Spider-Man is ca
+ tapulted across the Multiverse\, where he encounters a team of Spider-Peop
+ le charged with protecting its very existence.\n\nDirected by Justin K. Th
+ ompson\nCast: Oscar Isaac\, Shameik Moore\, Hailee Steinfeld\n\nhttps://ww
+ w.myvue.com/book-tickets/summary/10016/289430/260542
+LOCATION:Vue Cambridge - Grafton Centre
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Spider-Man: Across The Spider-Verse
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230702T113000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230702T141000
+DTSTAMP;VALUE=DATE-TIME:20230702T113100Z
+UID:260572
 DESCRIPTION:Duration: 139 mins (2h19m)\nScreen 6\n\nAfter reuniting with G
  wen Stacy\, Brooklyn's full-time\, friendly neighbourhood Spider-Man is ca
  tapulted across the Multiverse\, where he encounters a team of Spider-Peop
  le charged with protecting its very existence.\n\nDirected by Justin K. Th
  ompson\nCast: Oscar Isaac\, Shameik Moore\, Hailee Steinfeld\n\nhttps://ww
- w.myvue.com/book-tickets/summary/10016/289430/260560
+ w.myvue.com/book-tickets/summary/10016/289430/260572
 LOCATION:Vue Cambridge - Grafton Centre
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Spider-Man: Across The Spider-Verse
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230705T134000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230705T162000
-DTSTAMP;VALUE=DATE-TIME:20230705T134100Z
-UID:260498
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230702T121500
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230702T145500
+DTSTAMP;VALUE=DATE-TIME:20230702T121600Z
+UID:260409
+DESCRIPTION:Duration: 139 mins (2h19m)\nScreen 1\n\nAfter reuniting with G
+ wen Stacy\, Brooklyn's full-time\, friendly neighbourhood Spider-Man is ca
+ tapulted across the Multiverse\, where he encounters a team of Spider-Peop
+ le charged with protecting its very existence.\n\nDirected by Justin K. Th
+ ompson\nCast: Oscar Isaac\, Shameik Moore\, Hailee Steinfeld\n\nhttps://ww
+ w.myvue.com/book-tickets/summary/10016/289430/260409
+LOCATION:Vue Cambridge - Grafton Centre
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Spider-Man: Across The Spider-Verse
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230702T131500
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230702T155500
+DTSTAMP;VALUE=DATE-TIME:20230702T131600Z
+UID:260510
 DESCRIPTION:Duration: 139 mins (2h19m)\nScreen 4\n\nAfter reuniting with G
  wen Stacy\, Brooklyn's full-time\, friendly neighbourhood Spider-Man is ca
  tapulted across the Multiverse\, where he encounters a team of Spider-Peop
  le charged with protecting its very existence.\n\nDirected by Justin K. Th
  ompson\nCast: Oscar Isaac\, Shameik Moore\, Hailee Steinfeld\n\nhttps://ww
- w.myvue.com/book-tickets/summary/10016/289430/260498
+ w.myvue.com/book-tickets/summary/10016/289430/260510
 LOCATION:Vue Cambridge - Grafton Centre
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Spider-Man: Across The Spider-Verse
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230705T143000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230705T171000
-DTSTAMP;VALUE=DATE-TIME:20230705T143100Z
-UID:260561
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230702T143000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230702T171000
+DTSTAMP;VALUE=DATE-TIME:20230702T143100Z
+UID:260573
 DESCRIPTION:Duration: 139 mins (2h19m)\nScreen 6\n\nAfter reuniting with G
  wen Stacy\, Brooklyn's full-time\, friendly neighbourhood Spider-Man is ca
  tapulted across the Multiverse\, where he encounters a team of Spider-Peop
  le charged with protecting its very existence.\n\nDirected by Justin K. Th
  ompson\nCast: Oscar Isaac\, Shameik Moore\, Hailee Steinfeld\n\nhttps://ww
- w.myvue.com/book-tickets/summary/10016/289430/260561
+ w.myvue.com/book-tickets/summary/10016/289430/260573
 LOCATION:Vue Cambridge - Grafton Centre
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Spider-Man: Across The Spider-Verse
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230705T164500
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230705T192500
-DTSTAMP;VALUE=DATE-TIME:20230705T164600Z
-UID:260499
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230702T151500
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230702T175500
+DTSTAMP;VALUE=DATE-TIME:20230702T151600Z
+UID:260410
+DESCRIPTION:Duration: 139 mins (2h19m)\nScreen 1\n\nAfter reuniting with G
+ wen Stacy\, Brooklyn's full-time\, friendly neighbourhood Spider-Man is ca
+ tapulted across the Multiverse\, where he encounters a team of Spider-Peop
+ le charged with protecting its very existence.\n\nDirected by Justin K. Th
+ ompson\nCast: Oscar Isaac\, Shameik Moore\, Hailee Steinfeld\n\nhttps://ww
+ w.myvue.com/book-tickets/summary/10016/289430/260410
+LOCATION:Vue Cambridge - Grafton Centre
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Spider-Man: Across The Spider-Verse
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230702T161500
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230702T185500
+DTSTAMP;VALUE=DATE-TIME:20230702T161600Z
+UID:260511
 DESCRIPTION:Duration: 139 mins (2h19m)\nScreen 4\n\nAfter reuniting with G
  wen Stacy\, Brooklyn's full-time\, friendly neighbourhood Spider-Man is ca
  tapulted across the Multiverse\, where he encounters a team of Spider-Peop
  le charged with protecting its very existence.\n\nDirected by Justin K. Th
  ompson\nCast: Oscar Isaac\, Shameik Moore\, Hailee Steinfeld\n\nhttps://ww
- w.myvue.com/book-tickets/summary/10016/289430/260499
+ w.myvue.com/book-tickets/summary/10016/289430/260511
 LOCATION:Vue Cambridge - Grafton Centre
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Spider-Man: Across The Spider-Verse
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230705T185500
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230705T213500
-DTSTAMP;VALUE=DATE-TIME:20230705T185600Z
-UID:260468
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230702T184500
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230702T212500
+DTSTAMP;VALUE=DATE-TIME:20230702T184600Z
+UID:260483
 DESCRIPTION:Duration: 139 mins (2h19m)\nScreen 3\n\nAfter reuniting with G
  wen Stacy\, Brooklyn's full-time\, friendly neighbourhood Spider-Man is ca
  tapulted across the Multiverse\, where he encounters a team of Spider-Peop
  le charged with protecting its very existence.\n\nDirected by Justin K. Th
  ompson\nCast: Oscar Isaac\, Shameik Moore\, Hailee Steinfeld\n\nhttps://ww
- w.myvue.com/book-tickets/summary/10016/289430/260468
+ w.myvue.com/book-tickets/summary/10016/289430/260483
 LOCATION:Vue Cambridge - Grafton Centre
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Spider-Man: Across The Spider-Verse
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230705T214500
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230706T002500
-DTSTAMP;VALUE=DATE-TIME:20230705T214600Z
-UID:260433
-DESCRIPTION:Duration: 139 mins (2h19m)\nScreen 2\n\nAfter reuniting with G
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230702T204500
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230702T232500
+DTSTAMP;VALUE=DATE-TIME:20230702T204600Z
+UID:260412
+DESCRIPTION:Duration: 139 mins (2h19m)\nScreen 1\n\nAfter reuniting with G
  wen Stacy\, Brooklyn's full-time\, friendly neighbourhood Spider-Man is ca
  tapulted across the Multiverse\, where he encounters a team of Spider-Peop
  le charged with protecting its very existence.\n\nDirected by Justin K. Th
  ompson\nCast: Oscar Isaac\, Shameik Moore\, Hailee Steinfeld\n\nhttps://ww
- w.myvue.com/book-tickets/summary/10016/289430/260433
+ w.myvue.com/book-tickets/summary/10016/289430/260412
 LOCATION:Vue Cambridge - Grafton Centre
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Ruby Gillman\, Teenage Kraken
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230705T114500
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230705T134000
-DTSTAMP;VALUE=DATE-TIME:20230705T114600Z
-UID:260465
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230702T093000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230702T112500
+DTSTAMP;VALUE=DATE-TIME:20230702T093100Z
+UID:260480
 DESCRIPTION:Duration: 91 mins (1h31m)\nScreen 3\n\nThis year\, DreamWorks 
  Animation dives into the turbulent waters of high school with a hilarious\
  , heartfelt action comedy about a shy teenager who discovers that she's pa
  rt of a legendary royal lineage of mythical sea krakens.\n\nDirected by Ki
  rk DeMicco\nCast: Annie Murphy\, Lana Condor\, Toni Collette\n\nhttps://ww
- w.myvue.com/book-tickets/summary/10016/368134/260465
+ w.myvue.com/book-tickets/summary/10016/368134/260480
 LOCATION:Vue Cambridge - Grafton Centre
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Ruby Gillman\, Teenage Kraken
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230705T140000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230705T155500
-DTSTAMP;VALUE=DATE-TIME:20230705T140100Z
-UID:260466
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230702T123000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230702T142500
+DTSTAMP;VALUE=DATE-TIME:20230702T123100Z
+UID:260445
+DESCRIPTION:Duration: 91 mins (1h31m)\nScreen 2\n\nThis year\, DreamWorks 
+ Animation dives into the turbulent waters of high school with a hilarious\
+ , heartfelt action comedy about a shy teenager who discovers that she's pa
+ rt of a legendary royal lineage of mythical sea krakens.\n\nDirected by Ki
+ rk DeMicco\nCast: Annie Murphy\, Lana Condor\, Toni Collette\n\nhttps://ww
+ w.myvue.com/book-tickets/summary/10016/368134/260445
+LOCATION:Vue Cambridge - Grafton Centre
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ruby Gillman\, Teenage Kraken
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230702T140000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230702T155500
+DTSTAMP;VALUE=DATE-TIME:20230702T140100Z
+UID:260354
 DESCRIPTION:Duration: 91 mins (1h31m)\nScreen 3\n\nThis year\, DreamWorks 
  Animation dives into the turbulent waters of high school with a hilarious\
  , heartfelt action comedy about a shy teenager who discovers that she's pa
  rt of a legendary royal lineage of mythical sea krakens.\n\nDirected by Ki
  rk DeMicco\nCast: Annie Murphy\, Lana Condor\, Toni Collette\n\nhttps://ww
- w.myvue.com/book-tickets/summary/10016/368134/260466
+ w.myvue.com/book-tickets/summary/10016/368134/260354
 LOCATION:Vue Cambridge - Grafton Centre
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Ruby Gillman\, Teenage Kraken
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230705T163000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230705T182500
-DTSTAMP;VALUE=DATE-TIME:20230705T163100Z
-UID:260467
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230702T163000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230702T182500
+DTSTAMP;VALUE=DATE-TIME:20230702T163100Z
+UID:260482
 DESCRIPTION:Duration: 91 mins (1h31m)\nScreen 3\n\nThis year\, DreamWorks 
  Animation dives into the turbulent waters of high school with a hilarious\
  , heartfelt action comedy about a shy teenager who discovers that she's pa
  rt of a legendary royal lineage of mythical sea krakens.\n\nDirected by Ki
  rk DeMicco\nCast: Annie Murphy\, Lana Condor\, Toni Collette\n\nhttps://ww
- w.myvue.com/book-tickets/summary/10016/368134/260467
+ w.myvue.com/book-tickets/summary/10016/368134/260482
 LOCATION:Vue Cambridge - Grafton Centre
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:No Hard Feelings
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230705T124500
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230705T145000
-DTSTAMP;VALUE=DATE-TIME:20230705T124600Z
-UID:260529
-DESCRIPTION:Duration: 103 mins (1h43m)\nScreen 5\n\nJennifer Lawrence prod
- uces and stars in No Hard Feelings\, a laugh-out-loud\, edgy comedy from d
- irector Gene Stupnitsky (Good Boys) and the co-writer of Bad Teacher.\n\nD
- irected by Gene Stupnitsky\nCast: Jennifer Lawrence\, Matthew Broderick\, 
- Laura Benanti\, Andrew Barth Feldman\, Natalie Morales\n\nhttps://www.myvu
- e.com/book-tickets/summary/10016/367197/260529
-LOCATION:Vue Cambridge - Grafton Centre
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:No Hard Feelings
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230705T150000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230705T170500
-DTSTAMP;VALUE=DATE-TIME:20230705T150100Z
-UID:260396
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230702T181500
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230702T202000
+DTSTAMP;VALUE=DATE-TIME:20230702T181600Z
+UID:260411
 DESCRIPTION:Duration: 103 mins (1h43m)\nScreen 1\n\nJennifer Lawrence prod
  uces and stars in No Hard Feelings\, a laugh-out-loud\, edgy comedy from d
  irector Gene Stupnitsky (Good Boys) and the co-writer of Bad Teacher.\n\nD
  irected by Gene Stupnitsky\nCast: Jennifer Lawrence\, Matthew Broderick\, 
  Laura Benanti\, Andrew Barth Feldman\, Natalie Morales\n\nhttps://www.myvu
- e.com/book-tickets/summary/10016/367197/260396
+ e.com/book-tickets/summary/10016/367197/260411
 LOCATION:Vue Cambridge - Grafton Centre
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:No Hard Feelings
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230705T174500
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230705T195000
-DTSTAMP;VALUE=DATE-TIME:20230705T174600Z
-UID:260531
-DESCRIPTION:Duration: 103 mins (1h43m)\nScreen 5\n\nJennifer Lawrence prod
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230702T193500
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230702T214000
+DTSTAMP;VALUE=DATE-TIME:20230702T193600Z
+UID:260512
+DESCRIPTION:Duration: 103 mins (1h43m)\nScreen 4\n\nJennifer Lawrence prod
  uces and stars in No Hard Feelings\, a laugh-out-loud\, edgy comedy from d
  irector Gene Stupnitsky (Good Boys) and the co-writer of Bad Teacher.\n\nD
  irected by Gene Stupnitsky\nCast: Jennifer Lawrence\, Matthew Broderick\, 
  Laura Benanti\, Andrew Barth Feldman\, Natalie Morales\n\nhttps://www.myvu
- e.com/book-tickets/summary/10016/367197/260531
-LOCATION:Vue Cambridge - Grafton Centre
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:No Hard Feelings
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230705T201500
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230705T222000
-DTSTAMP;VALUE=DATE-TIME:20230705T201600Z
-UID:260532
-DESCRIPTION:Duration: 103 mins (1h43m)\nScreen 5\n\nJennifer Lawrence prod
- uces and stars in No Hard Feelings\, a laugh-out-loud\, edgy comedy from d
- irector Gene Stupnitsky (Good Boys) and the co-writer of Bad Teacher.\n\nD
- irected by Gene Stupnitsky\nCast: Jennifer Lawrence\, Matthew Broderick\, 
- Laura Benanti\, Andrew Barth Feldman\, Natalie Morales\n\nhttps://www.myvu
- e.com/book-tickets/summary/10016/367197/260532
-LOCATION:Vue Cambridge - Grafton Centre
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:No Hard Feelings
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230705T225000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230706T005500
-DTSTAMP;VALUE=DATE-TIME:20230705T225100Z
-UID:260533
-DESCRIPTION:Duration: 103 mins (1h43m)\nScreen 5\n\nJennifer Lawrence prod
- uces and stars in No Hard Feelings\, a laugh-out-loud\, edgy comedy from d
- irector Gene Stupnitsky (Good Boys) and the co-writer of Bad Teacher.\n\nD
- irected by Gene Stupnitsky\nCast: Jennifer Lawrence\, Matthew Broderick\, 
- Laura Benanti\, Andrew Barth Feldman\, Natalie Morales\n\nhttps://www.myvu
- e.com/book-tickets/summary/10016/367197/260533
+ e.com/book-tickets/summary/10016/367197/260512
 LOCATION:Vue Cambridge - Grafton Centre
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The Little Mermaid
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230705T120000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230705T143500
-DTSTAMP;VALUE=DATE-TIME:20230705T120100Z
-UID:260395
-DESCRIPTION:Duration: 135 mins (2h15m)\nScreen 1\n\n"The Little Mermaid" i
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230702T101500
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230702T125000
+DTSTAMP;VALUE=DATE-TIME:20230702T101600Z
+UID:260509
+DESCRIPTION:Duration: 135 mins (2h15m)\nScreen 4\n\n"The Little Mermaid" i
  s the beloved story of Ariel\, a beautiful and spirited young mermaid with
   a thirst for adventure. The youngest of King Triton's daughters\, and the
   most defiant\, Ariel longs to find out more about the world beyond the se
  a.\n\nDirected by Rob Marshall\nCast: Melissa McCarthy\, Jonah Hauer-King\
  , Halle Bailey\n\nhttps://www.myvue.com/book-tickets/summary/10016/290519/
- 260395
+ 260509
+LOCATION:Vue Cambridge - Grafton Centre
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Little Mermaid
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230702T134500
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230702T162000
+DTSTAMP;VALUE=DATE-TIME:20230702T134600Z
+UID:260543
+DESCRIPTION:Duration: 135 mins (2h15m)\nScreen 5\n\n"The Little Mermaid" i
+ s the beloved story of Ariel\, a beautiful and spirited young mermaid with
+  a thirst for adventure. The youngest of King Triton's daughters\, and the
+  most defiant\, Ariel longs to find out more about the world beyond the se
+ a.\n\nDirected by Rob Marshall\nCast: Melissa McCarthy\, Jonah Hauer-King\
+ , Halle Bailey\n\nhttps://www.myvue.com/book-tickets/summary/10016/290519/
+ 260543
 LOCATION:Vue Cambridge - Grafton Centre
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Asteroid City
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230705T111000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230705T131500
-DTSTAMP;VALUE=DATE-TIME:20230705T111100Z
-UID:260497
-DESCRIPTION:Duration: 105 mins (1h45m)\nScreen 4\n\nThe itinerary of a Jun
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230702T100000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230702T120500
+DTSTAMP;VALUE=DATE-TIME:20230702T100100Z
+UID:260444
+DESCRIPTION:Duration: 105 mins (1h45m)\nScreen 2\n\nThe itinerary of a Jun
  ior Stargazer/Space Cadet convention (organized to bring together students
   and parents from across the country for fellowship and scholarly competit
  ion) is spectacularly disrupted by world-changing events.\n\nDirected by W
  es Anderson\nCast: Tom Hanks\, Scarlett Johansson\, Jason Schwartzman\n\nh
- ttps://www.myvue.com/book-tickets/summary/10016/378728/260497
+ ttps://www.myvue.com/book-tickets/summary/10016/378728/260444
 LOCATION:Vue Cambridge - Grafton Centre
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Asteroid City
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230705T131000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230705T151500
-DTSTAMP;VALUE=DATE-TIME:20230705T131100Z
-UID:260600
-DESCRIPTION:Duration: 105 mins (1h45m)\nScreen 8\n\nThe itinerary of a Jun
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230702T144500
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230702T165000
+DTSTAMP;VALUE=DATE-TIME:20230702T144600Z
+UID:260446
+DESCRIPTION:Duration: 105 mins (1h45m)\nScreen 2\n\nThe itinerary of a Jun
  ior Stargazer/Space Cadet convention (organized to bring together students
   and parents from across the country for fellowship and scholarly competit
  ion) is spectacularly disrupted by world-changing events.\n\nDirected by W
  es Anderson\nCast: Tom Hanks\, Scarlett Johansson\, Jason Schwartzman\n\nh
- ttps://www.myvue.com/book-tickets/summary/10016/378728/260600
+ ttps://www.myvue.com/book-tickets/summary/10016/378728/260446
 LOCATION:Vue Cambridge - Grafton Centre
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Asteroid City
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230705T151500
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230705T172000
-DTSTAMP;VALUE=DATE-TIME:20230705T151600Z
-UID:260530
-DESCRIPTION:Duration: 105 mins (1h45m)\nScreen 5\n\nThe itinerary of a Jun
- ior Stargazer/Space Cadet convention (organized to bring together students
-  and parents from across the country for fellowship and scholarly competit
- ion) is spectacularly disrupted by world-changing events.\n\nDirected by W
- es Anderson\nCast: Tom Hanks\, Scarlett Johansson\, Jason Schwartzman\n\nh
- ttps://www.myvue.com/book-tickets/summary/10016/378728/260530
-LOCATION:Vue Cambridge - Grafton Centre
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Asteroid City
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230705T173000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230705T193500
-DTSTAMP;VALUE=DATE-TIME:20230705T173100Z
-UID:260562
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230702T173000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230702T193500
+DTSTAMP;VALUE=DATE-TIME:20230702T173100Z
+UID:260574
 DESCRIPTION:Duration: 105 mins (1h45m)\nScreen 6\n\nThe itinerary of a Jun
  ior Stargazer/Space Cadet convention (organized to bring together students
   and parents from across the country for fellowship and scholarly competit
  ion) is spectacularly disrupted by world-changing events.\n\nDirected by W
  es Anderson\nCast: Tom Hanks\, Scarlett Johansson\, Jason Schwartzman\n\nh
- ttps://www.myvue.com/book-tickets/summary/10016/378728/260562
+ ttps://www.myvue.com/book-tickets/summary/10016/378728/260574
 LOCATION:Vue Cambridge - Grafton Centre
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Asteroid City
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230705T194500
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230705T215000
-DTSTAMP;VALUE=DATE-TIME:20230705T194600Z
-UID:260500
-DESCRIPTION:Duration: 105 mins (1h45m)\nScreen 4\n\nThe itinerary of a Jun
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230702T195000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230702T215500
+DTSTAMP;VALUE=DATE-TIME:20230702T195100Z
+UID:260545
+DESCRIPTION:Duration: 105 mins (1h45m)\nScreen 5\n\nThe itinerary of a Jun
  ior Stargazer/Space Cadet convention (organized to bring together students
   and parents from across the country for fellowship and scholarly competit
  ion) is spectacularly disrupted by world-changing events.\n\nDirected by W
  es Anderson\nCast: Tom Hanks\, Scarlett Johansson\, Jason Schwartzman\n\nh
- ttps://www.myvue.com/book-tickets/summary/10016/378728/260500
-LOCATION:Vue Cambridge - Grafton Centre
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Asteroid City
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230705T224500
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230706T005000
-DTSTAMP;VALUE=DATE-TIME:20230705T224600Z
-UID:260603
-DESCRIPTION:Duration: 105 mins (1h45m)\nScreen 8\n\nThe itinerary of a Jun
- ior Stargazer/Space Cadet convention (organized to bring together students
-  and parents from across the country for fellowship and scholarly competit
- ion) is spectacularly disrupted by world-changing events.\n\nDirected by W
- es Anderson\nCast: Tom Hanks\, Scarlett Johansson\, Jason Schwartzman\n\nh
- ttps://www.myvue.com/book-tickets/summary/10016/378728/260603
+ ttps://www.myvue.com/book-tickets/summary/10016/378728/260545
 LOCATION:Vue Cambridge - Grafton Centre
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The Flash
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230705T174500
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230705T203000
-DTSTAMP;VALUE=DATE-TIME:20230705T174600Z
-UID:260397
-DESCRIPTION:Duration: 144 mins (2h24m)\nScreen 1\n\nWorlds collide in "The
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230702T171500
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230702T200000
+DTSTAMP;VALUE=DATE-TIME:20230702T171600Z
+UID:260447
+DESCRIPTION:Duration: 144 mins (2h24m)\nScreen 2\n\nWorlds collide in "The
   Flash" when Barry uses his superpowers to travel back in time in order to
   change the events of the past.\n\nDirected by Andy Muschietti\nCast: Ezra
   Miller\, Sasha Calle\, Ben Affleck\, Michael Keaton\, Kieresey Clemons\, 
  Saoirse-Monica Jackson\n\nhttps://www.myvue.com/book-tickets/summary/10016
- /292206/260397
+ /292206/260447
 LOCATION:Vue Cambridge - Grafton Centre
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The Flash
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230705T210500
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230705T235000
-DTSTAMP;VALUE=DATE-TIME:20230705T210600Z
-UID:260398
-DESCRIPTION:Duration: 144 mins (2h24m)\nScreen 1\n\nWorlds collide in "The
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230702T212500
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230703T001000
+DTSTAMP;VALUE=DATE-TIME:20230702T212600Z
+UID:260592
+DESCRIPTION:Duration: 144 mins (2h24m)\nScreen 7\n\nWorlds collide in "The
   Flash" when Barry uses his superpowers to travel back in time in order to
   change the events of the past.\n\nDirected by Andy Muschietti\nCast: Ezra
   Miller\, Sasha Calle\, Ben Affleck\, Michael Keaton\, Kieresey Clemons\, 
  Saoirse-Monica Jackson\n\nhttps://www.myvue.com/book-tickets/summary/10016
- /292206/260398
+ /292206/260592
 LOCATION:Vue Cambridge - Grafton Centre
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Transformers: Rise of the Beasts
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230705T212000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230705T235000
-DTSTAMP;VALUE=DATE-TIME:20230705T212100Z
-UID:260586
-DESCRIPTION:Duration: 127 mins (2h07m)\nScreen 7\n\nTransformers: Rise of 
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230702T170000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230702T193000
+DTSTAMP;VALUE=DATE-TIME:20230702T170100Z
+UID:260544
+DESCRIPTION:Duration: 127 mins (2h07m)\nScreen 5\n\nTransformers: Rise of 
  the Beasts will take audiences on a '90s globetrotting adventure with the 
  Autobots and introduce a whole new breed of Transformer - the Maximals - t
  o the existing battle on earth between Autobots and Decepticons.\n\nDirect
  ed by Steven Caple Jr.\nCast: Tobe Nwigwe\, Dominique Fishback\, Anthony R
- amos\n\nhttps://www.myvue.com/book-tickets/summary/10016/320305/260586
+ amos\n\nhttps://www.myvue.com/book-tickets/summary/10016/320305/260544
+LOCATION:Vue Cambridge - Grafton Centre
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Greatest Days
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230702T202500
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230702T224000
+DTSTAMP;VALUE=DATE-TIME:20230702T202600Z
+UID:260448
+DESCRIPTION:Duration: 112 mins (1h52m)\nScreen 2\n\n'Greatest Days' follow
+ s five best friends who have the night of their lives seeing their favouri
+ te boy band in concert. Twenty-five years later their lives have changed i
+ n many different ways as they reunite for one more epic show by their belo
+ ved band.\n\nDirected by Coky Giedroyc\nCast: Aisling Bea\, Matthew McNult
+ y\, Alice Lowe\, Jayde Adams\, Emma Amos\n\nhttps://www.myvue.com/book-tic
+ kets/summary/10016/386685/260448
 LOCATION:Vue Cambridge - Grafton Centre
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The Boogeyman
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230705T221500
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230706T001500
-DTSTAMP;VALUE=DATE-TIME:20230705T221600Z
-UID:260501
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230702T220500
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230703T000500
+DTSTAMP;VALUE=DATE-TIME:20230702T220600Z
+UID:260513
 DESCRIPTION:Duration: 99 mins (1h39m)\nScreen 4\n\nHigh school student Sad
  ie Harper and her younger sister Sawyer are reeling from the recent death 
  of their mother and aren't getting much support from their father\, Will\,
   a therapist who is dealing with his own pain.\n\nDirected by Rob Savage\n
  Cast: Vivien Lyra Blair\, Sophie Thatcher\, Chris Messina\n\nhttps://www.m
- yvue.com/book-tickets/summary/10016/381416/260501
+ yvue.com/book-tickets/summary/10016/381416/260513
+LOCATION:Vue Cambridge - Grafton Centre
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Fast X
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230702T214500
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230703T003000
+DTSTAMP;VALUE=DATE-TIME:20230702T214600Z
+UID:260484
+DESCRIPTION:Duration: 142 mins (2h22m)\nScreen 3\n\nThe end of the road be
+ gins.\n\nDirected by Louis Leterrier\nCast: Vin Diesel\, Michelle Rodrigue
+ z\, Jason Momoa\, Charlize Theron\, Brie Larson\n\nhttps://www.myvue.com/b
+ ook-tickets/summary/10016/199571/260484
 LOCATION:Vue Cambridge - Grafton Centre
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The Super Mario Bros. Movie
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230705T111000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230705T130500
-DTSTAMP;VALUE=DATE-TIME:20230705T111100Z
-UID:260429
-DESCRIPTION:Duration: 92 mins (1h32m)\nScreen 2\n\nA plumber named Mario t
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230702T094500
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230702T114000
+DTSTAMP;VALUE=DATE-TIME:20230702T094600Z
+UID:260611
+DESCRIPTION:Duration: 92 mins (1h32m)\nScreen 8\n\nA plumber named Mario t
  ravels through an underground labyrinth with his brother\, Luigi\, trying 
  to save a captured princess.\n\nDirected by Matthew Fogel\nCast: Chris Pra
  tt\, Anya Taylor-Joy\, Charlie Day\, Jack Black\, Seth Rogen\n\nhttps://ww
- w.myvue.com/book-tickets/summary/10016/223992/260429
+ w.myvue.com/book-tickets/summary/10016/223992/260611
+LOCATION:Vue Cambridge - Grafton Centre
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Super Mario Bros. Movie
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230702T114500
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230702T134000
+DTSTAMP;VALUE=DATE-TIME:20230702T114600Z
+UID:260481
+DESCRIPTION:Duration: 92 mins (1h32m)\nScreen 3\n\nA plumber named Mario t
+ ravels through an underground labyrinth with his brother\, Luigi\, trying 
+ to save a captured princess.\n\nDirected by Matthew Fogel\nCast: Chris Pra
+ tt\, Anya Taylor-Joy\, Charlie Day\, Jack Black\, Seth Rogen\n\nhttps://ww
+ w.myvue.com/book-tickets/summary/10016/223992/260481
 LOCATION:Vue Cambridge - Grafton Centre
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Hey Duggee At The Cinema! 2
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230705T112500
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230705T124500
-DTSTAMP;VALUE=DATE-TIME:20230705T112600Z
-UID:260599
-DESCRIPTION:Duration: 60 mins (1h00m)\nScreen 8\n\nJoin Duggee and his fri
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230702T093000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230702T105000
+DTSTAMP;VALUE=DATE-TIME:20230702T093100Z
+UID:260571
+DESCRIPTION:Duration: 60 mins (1h00m)\nScreen 6\n\nJoin Duggee and his fri
  ends for a 60 minute special made up of your favorite episodes.\n\nDirecte
  d by Grant Orchard\, Sander Jones\nCast: Duggee\, Norrie\, Roly\, Tag\, Be
- tty\n\nhttps://www.myvue.com/book-tickets/summary/10016/389694/260599
-LOCATION:Vue Cambridge - Grafton Centre
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:BFI Presents: Name Me Lawand
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230705T193000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230705T212500
-DTSTAMP;VALUE=DATE-TIME:20230705T193100Z
-UID:260432
-DESCRIPTION:Duration: 91 mins (1h31m)\nScreen 2\n\nEdward Lovelace’s ins
- pirational and moving documentary follows Lawand\, a young Kurdish boy who
-  is deaf since birth.\n\nDirected by Edward Lovelace\nCast: Lawand Hamad A
- min\, Rawa Hamad Amin\n\nhttps://www.myvue.com/book-tickets/summary/10016/
- 999157/260432
+ tty\n\nhttps://www.myvue.com/book-tickets/summary/10016/389694/260571
 LOCATION:Vue Cambridge - Grafton Centre
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Chevalier
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230705T165500
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230705T190500
-DTSTAMP;VALUE=DATE-TIME:20230705T165600Z
-UID:260431
-DESCRIPTION:Duration: 108 mins (1h48m)\nScreen 2\n\nThe illegitimate son o
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230702T222000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230703T003000
+DTSTAMP;VALUE=DATE-TIME:20230702T222100Z
+UID:260546
+DESCRIPTION:Duration: 108 mins (1h48m)\nScreen 5\n\nThe illegitimate son o
  f an African slave and a French plantation owner\, Bologne (Kelvin Harriso
  n Jr. in a tour de force performance) rises to improbable heights in Frenc
  h society as a celebrated violinist-composer and fencer.\n\nDirected by St
  ephen Williams\nCast: Lucy Boynton\,Kelvin Harrison Jr.\, Minnie Driver\, 
  Samara Weaving\n\nhttps://www.myvue.com/book-tickets/summary/10016/374058/
- 260431
+ 260546
+LOCATION:Vue Cambridge - Grafton Centre
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mummies
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230702T100000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230702T115000
+DTSTAMP;VALUE=DATE-TIME:20230702T100100Z
+UID:260408
+DESCRIPTION:Duration: 88 mins (1h28m)\nScreen 1\n\n'Mummies' follows the f
+ un adventures of three Egyptian mummies who live in an underground secret 
+ city\, hidden in ancient Egypt.\n\nDirected by Juan Jesús García Galocha
+ \nCast: Eleanor Tomlinson\, Sean Bean\, Joe Thomas\, Hugh Bonneville\, Cel
+ ia Imrie\n\nhttps://www.myvue.com/book-tickets/summary/10016/327519/260408
+LOCATION:Vue Cambridge - Grafton Centre
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Indiana Jones and the Dial of Destiny
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230703T114000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230703T143500
+DTSTAMP;VALUE=DATE-TIME:20230703T114100Z
+UID:260404
+DESCRIPTION:Duration: 154 mins (2h34m)\nScreen 1\n\nDaredevil archaeologis
+ t Indiana Jones races against time to retrieve a legendary dial that can c
+ hange the course of history. Accompanied by his goddaughter\, he soon find
+ s himself squaring off against Jürgen Voller\, a former Nazi who works fo
+ r NASA.\n\nDirected by James Mangold\nCast: Harrison Ford\, Mads Mikkelsen
+ \, Phoebe Waller-Bridge\, Antonio Banderas\, Shaunette Renez Wilson\n\nhtt
+ ps://www.myvue.com/book-tickets/summary/10016/202084/260404
+LOCATION:Vue Cambridge - Grafton Centre
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Indiana Jones and the Dial of Destiny
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230703T142000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230703T171500
+DTSTAMP;VALUE=DATE-TIME:20230703T142100Z
+UID:259823
+DESCRIPTION:Duration: 154 mins (2h34m)\nScreen 7\n\nDaredevil archaeologis
+ t Indiana Jones races against time to retrieve a legendary dial that can c
+ hange the course of history. Accompanied by his goddaughter\, he soon find
+ s himself squaring off against Jürgen Voller\, a former Nazi who works fo
+ r NASA.\n\nDirected by James Mangold\nCast: Harrison Ford\, Mads Mikkelsen
+ \, Phoebe Waller-Bridge\, Antonio Banderas\, Shaunette Renez Wilson\n\nhtt
+ ps://www.myvue.com/book-tickets/summary/10016/202084/259823
+LOCATION:Vue Cambridge - Grafton Centre
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Indiana Jones and the Dial of Destiny
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230703T154000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230703T183500
+DTSTAMP;VALUE=DATE-TIME:20230703T154100Z
+UID:260374
+DESCRIPTION:Duration: 154 mins (2h34m)\nScreen 8\n\nDaredevil archaeologis
+ t Indiana Jones races against time to retrieve a legendary dial that can c
+ hange the course of history. Accompanied by his goddaughter\, he soon find
+ s himself squaring off against Jürgen Voller\, a former Nazi who works fo
+ r NASA.\n\nDirected by James Mangold\nCast: Harrison Ford\, Mads Mikkelsen
+ \, Phoebe Waller-Bridge\, Antonio Banderas\, Shaunette Renez Wilson\n\nhtt
+ ps://www.myvue.com/book-tickets/summary/10016/202084/260374
+LOCATION:Vue Cambridge - Grafton Centre
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Indiana Jones and the Dial of Destiny
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230703T180000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230703T205500
+DTSTAMP;VALUE=DATE-TIME:20230703T180100Z
+UID:259824
+DESCRIPTION:Duration: 154 mins (2h34m)\nScreen 7\n\nDaredevil archaeologis
+ t Indiana Jones races against time to retrieve a legendary dial that can c
+ hange the course of history. Accompanied by his goddaughter\, he soon find
+ s himself squaring off against Jürgen Voller\, a former Nazi who works fo
+ r NASA.\n\nDirected by James Mangold\nCast: Harrison Ford\, Mads Mikkelsen
+ \, Phoebe Waller-Bridge\, Antonio Banderas\, Shaunette Renez Wilson\n\nhtt
+ ps://www.myvue.com/book-tickets/summary/10016/202084/259824
+LOCATION:Vue Cambridge - Grafton Centre
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Indiana Jones and the Dial of Destiny
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230703T192000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230703T221500
+DTSTAMP;VALUE=DATE-TIME:20230703T192100Z
+UID:260375
+DESCRIPTION:Duration: 154 mins (2h34m)\nScreen 8\n\nDaredevil archaeologis
+ t Indiana Jones races against time to retrieve a legendary dial that can c
+ hange the course of history. Accompanied by his goddaughter\, he soon find
+ s himself squaring off against Jürgen Voller\, a former Nazi who works fo
+ r NASA.\n\nDirected by James Mangold\nCast: Harrison Ford\, Mads Mikkelsen
+ \, Phoebe Waller-Bridge\, Antonio Banderas\, Shaunette Renez Wilson\n\nhtt
+ ps://www.myvue.com/book-tickets/summary/10016/202084/260375
+LOCATION:Vue Cambridge - Grafton Centre
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Indiana Jones and the Dial of Destiny
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230703T200000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230703T225500
+DTSTAMP;VALUE=DATE-TIME:20230703T200100Z
+UID:260570
+DESCRIPTION:Duration: 154 mins (2h34m)\nScreen 6\n\nDaredevil archaeologis
+ t Indiana Jones races against time to retrieve a legendary dial that can c
+ hange the course of history. Accompanied by his goddaughter\, he soon find
+ s himself squaring off against Jürgen Voller\, a former Nazi who works fo
+ r NASA.\n\nDirected by James Mangold\nCast: Harrison Ford\, Mads Mikkelsen
+ \, Phoebe Waller-Bridge\, Antonio Banderas\, Shaunette Renez Wilson\n\nhtt
+ ps://www.myvue.com/book-tickets/summary/10016/202084/260570
+LOCATION:Vue Cambridge - Grafton Centre
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Spider-Man: Across The Spider-Verse
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230703T115500
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230703T143500
+DTSTAMP;VALUE=DATE-TIME:20230703T115600Z
+UID:260567
+DESCRIPTION:Duration: 139 mins (2h19m)\nScreen 6\n\nAfter reuniting with G
+ wen Stacy\, Brooklyn's full-time\, friendly neighbourhood Spider-Man is ca
+ tapulted across the Multiverse\, where he encounters a team of Spider-Peop
+ le charged with protecting its very existence.\n\nDirected by Justin K. Th
+ ompson\nCast: Oscar Isaac\, Shameik Moore\, Hailee Steinfeld\n\nhttps://ww
+ w.myvue.com/book-tickets/summary/10016/289430/260567
+LOCATION:Vue Cambridge - Grafton Centre
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Spider-Man: Across The Spider-Verse
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230703T151500
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230703T175500
+DTSTAMP;VALUE=DATE-TIME:20230703T151600Z
+UID:260405
+DESCRIPTION:Duration: 139 mins (2h19m)\nScreen 1\n\nAfter reuniting with G
+ wen Stacy\, Brooklyn's full-time\, friendly neighbourhood Spider-Man is ca
+ tapulted across the Multiverse\, where he encounters a team of Spider-Peop
+ le charged with protecting its very existence.\n\nDirected by Justin K. Th
+ ompson\nCast: Oscar Isaac\, Shameik Moore\, Hailee Steinfeld\n\nhttps://ww
+ w.myvue.com/book-tickets/summary/10016/289430/260405
+LOCATION:Vue Cambridge - Grafton Centre
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Spider-Man: Across The Spider-Verse
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230703T171500
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230703T195500
+DTSTAMP;VALUE=DATE-TIME:20230703T171600Z
+UID:260540
+DESCRIPTION:Duration: 139 mins (2h19m)\nScreen 5\n\nAfter reuniting with G
+ wen Stacy\, Brooklyn's full-time\, friendly neighbourhood Spider-Man is ca
+ tapulted across the Multiverse\, where he encounters a team of Spider-Peop
+ le charged with protecting its very existence.\n\nDirected by Justin K. Th
+ ompson\nCast: Oscar Isaac\, Shameik Moore\, Hailee Steinfeld\n\nhttps://ww
+ w.myvue.com/book-tickets/summary/10016/289430/260540
+LOCATION:Vue Cambridge - Grafton Centre
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Spider-Man: Across The Spider-Verse
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230703T211000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230703T235000
+DTSTAMP;VALUE=DATE-TIME:20230703T211100Z
+UID:260443
+DESCRIPTION:Duration: 139 mins (2h19m)\nScreen 2\n\nAfter reuniting with G
+ wen Stacy\, Brooklyn's full-time\, friendly neighbourhood Spider-Man is ca
+ tapulted across the Multiverse\, where he encounters a team of Spider-Peop
+ le charged with protecting its very existence.\n\nDirected by Justin K. Th
+ ompson\nCast: Oscar Isaac\, Shameik Moore\, Hailee Steinfeld\n\nhttps://ww
+ w.myvue.com/book-tickets/summary/10016/289430/260443
+LOCATION:Vue Cambridge - Grafton Centre
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ruby Gillman\, Teenage Kraken
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230703T104000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230703T123500
+DTSTAMP;VALUE=DATE-TIME:20230703T104100Z
+UID:260506
+DESCRIPTION:Duration: 91 mins (1h31m)\nScreen 4\n\nThis year\, DreamWorks 
+ Animation dives into the turbulent waters of high school with a hilarious\
+ , heartfelt action comedy about a shy teenager who discovers that she's pa
+ rt of a legendary royal lineage of mythical sea krakens.\n\nDirected by Ki
+ rk DeMicco\nCast: Annie Murphy\, Lana Condor\, Toni Collette\n\nhttps://ww
+ w.myvue.com/book-tickets/summary/10016/368134/260506
+LOCATION:Vue Cambridge - Grafton Centre
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ruby Gillman\, Teenage Kraken
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230703T140000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230703T155500
+DTSTAMP;VALUE=DATE-TIME:20230703T140100Z
+UID:260476
+DESCRIPTION:Duration: 91 mins (1h31m)\nScreen 3\n\nThis year\, DreamWorks 
+ Animation dives into the turbulent waters of high school with a hilarious\
+ , heartfelt action comedy about a shy teenager who discovers that she's pa
+ rt of a legendary royal lineage of mythical sea krakens.\n\nDirected by Ki
+ rk DeMicco\nCast: Annie Murphy\, Lana Condor\, Toni Collette\n\nhttps://ww
+ w.myvue.com/book-tickets/summary/10016/368134/260476
+LOCATION:Vue Cambridge - Grafton Centre
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ruby Gillman\, Teenage Kraken
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230703T163000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230703T182500
+DTSTAMP;VALUE=DATE-TIME:20230703T163100Z
+UID:260477
+DESCRIPTION:Duration: 91 mins (1h31m)\nScreen 3\n\nThis year\, DreamWorks 
+ Animation dives into the turbulent waters of high school with a hilarious\
+ , heartfelt action comedy about a shy teenager who discovers that she's pa
+ rt of a legendary royal lineage of mythical sea krakens.\n\nDirected by Ki
+ rk DeMicco\nCast: Annie Murphy\, Lana Condor\, Toni Collette\n\nhttps://ww
+ w.myvue.com/book-tickets/summary/10016/368134/260477
+LOCATION:Vue Cambridge - Grafton Centre
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:No Hard Feelings
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230703T105500
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230703T130000
+DTSTAMP;VALUE=DATE-TIME:20230703T105600Z
+UID:260439
+DESCRIPTION:Duration: 103 mins (1h43m)\nScreen 2\n\nJennifer Lawrence prod
+ uces and stars in No Hard Feelings\, a laugh-out-loud\, edgy comedy from d
+ irector Gene Stupnitsky (Good Boys) and the co-writer of Bad Teacher.\n\nD
+ irected by Gene Stupnitsky\nCast: Jennifer Lawrence\, Matthew Broderick\, 
+ Laura Benanti\, Andrew Barth Feldman\, Natalie Morales\n\nhttps://www.myvu
+ e.com/book-tickets/summary/10016/367197/260439
+LOCATION:Vue Cambridge - Grafton Centre
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:No Hard Feelings
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230703T125500
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230703T150000
+DTSTAMP;VALUE=DATE-TIME:20230703T125600Z
+UID:260507
+DESCRIPTION:Duration: 103 mins (1h43m)\nScreen 4\n\nJennifer Lawrence prod
+ uces and stars in No Hard Feelings\, a laugh-out-loud\, edgy comedy from d
+ irector Gene Stupnitsky (Good Boys) and the co-writer of Bad Teacher.\n\nD
+ irected by Gene Stupnitsky\nCast: Jennifer Lawrence\, Matthew Broderick\, 
+ Laura Benanti\, Andrew Barth Feldman\, Natalie Morales\n\nhttps://www.myvu
+ e.com/book-tickets/summary/10016/367197/260507
+LOCATION:Vue Cambridge - Grafton Centre
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:No Hard Feelings
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230703T160000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230703T180500
+DTSTAMP;VALUE=DATE-TIME:20230703T160100Z
+UID:260441
+DESCRIPTION:Duration: 103 mins (1h43m)\nScreen 2\n\nJennifer Lawrence prod
+ uces and stars in No Hard Feelings\, a laugh-out-loud\, edgy comedy from d
+ irector Gene Stupnitsky (Good Boys) and the co-writer of Bad Teacher.\n\nD
+ irected by Gene Stupnitsky\nCast: Jennifer Lawrence\, Matthew Broderick\, 
+ Laura Benanti\, Andrew Barth Feldman\, Natalie Morales\n\nhttps://www.myvu
+ e.com/book-tickets/summary/10016/367197/260441
+LOCATION:Vue Cambridge - Grafton Centre
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:No Hard Feelings
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230703T181500
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230703T202000
+DTSTAMP;VALUE=DATE-TIME:20230703T181600Z
+UID:260406
+DESCRIPTION:Duration: 103 mins (1h43m)\nScreen 1\n\nJennifer Lawrence prod
+ uces and stars in No Hard Feelings\, a laugh-out-loud\, edgy comedy from d
+ irector Gene Stupnitsky (Good Boys) and the co-writer of Bad Teacher.\n\nD
+ irected by Gene Stupnitsky\nCast: Jennifer Lawrence\, Matthew Broderick\, 
+ Laura Benanti\, Andrew Barth Feldman\, Natalie Morales\n\nhttps://www.myvu
+ e.com/book-tickets/summary/10016/367197/260406
+LOCATION:Vue Cambridge - Grafton Centre
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:No Hard Feelings
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230703T205000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230703T225500
+DTSTAMP;VALUE=DATE-TIME:20230703T205100Z
+UID:260407
+DESCRIPTION:Duration: 103 mins (1h43m)\nScreen 1\n\nJennifer Lawrence prod
+ uces and stars in No Hard Feelings\, a laugh-out-loud\, edgy comedy from d
+ irector Gene Stupnitsky (Good Boys) and the co-writer of Bad Teacher.\n\nD
+ irected by Gene Stupnitsky\nCast: Jennifer Lawrence\, Matthew Broderick\, 
+ Laura Benanti\, Andrew Barth Feldman\, Natalie Morales\n\nhttps://www.myvu
+ e.com/book-tickets/summary/10016/367197/260407
+LOCATION:Vue Cambridge - Grafton Centre
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:No Hard Feelings
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230703T215000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230703T235500
+DTSTAMP;VALUE=DATE-TIME:20230703T215100Z
+UID:260479
+DESCRIPTION:Duration: 103 mins (1h43m)\nScreen 3\n\nJennifer Lawrence prod
+ uces and stars in No Hard Feelings\, a laugh-out-loud\, edgy comedy from d
+ irector Gene Stupnitsky (Good Boys) and the co-writer of Bad Teacher.\n\nD
+ irected by Gene Stupnitsky\nCast: Jennifer Lawrence\, Matthew Broderick\, 
+ Laura Benanti\, Andrew Barth Feldman\, Natalie Morales\n\nhttps://www.myvu
+ e.com/book-tickets/summary/10016/367197/260479
+LOCATION:Vue Cambridge - Grafton Centre
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ziggy Stardust: The Global Premiere
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230703T190000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230703T215000
+DTSTAMP;VALUE=DATE-TIME:20230703T190100Z
+UID:258528
+DESCRIPTION:Duration: 147 mins (2h27m)\nScreen 4\n\nBowie’s last perform
+ ance as Ziggy Stardust\, 50 years on! Watch the digitally restored film pl
+ us a Q&A with Richard E Grant\, Don Letts\, Danielle Perry\, Ken Scott and
+  Suggs\, and a performance by Bowie pianist Mike Garson. Live streamed fro
+ m Eventim Apollo.\n\nDirected by D.A. Pennebaker\nCast: David Bowie\, Jeff
+  Beck\, Mick Ronson\, Trevor Bolder\, Mick ‘Woody’ Woodmansey\, Geoffr
+ ey MacCormack\, Mike Garson\, Ken Fordham\, John 'Hutch' Hutchinson\, Angi
+ e Bowie\, Ringo Starr\n\nhttps://www.myvue.com/book-tickets/summary/10016/
+ 388082/258528
+LOCATION:Vue Cambridge - Grafton Centre
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Little Mermaid
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230703T110000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230703T133500
+DTSTAMP;VALUE=DATE-TIME:20230703T110100Z
+UID:260475
+DESCRIPTION:Duration: 135 mins (2h15m)\nScreen 3\n\n"The Little Mermaid" i
+ s the beloved story of Ariel\, a beautiful and spirited young mermaid with
+  a thirst for adventure. The youngest of King Triton's daughters\, and the
+  most defiant\, Ariel longs to find out more about the world beyond the se
+ a.\n\nDirected by Rob Marshall\nCast: Melissa McCarthy\, Jonah Hauer-King\
+ , Halle Bailey\n\nhttps://www.myvue.com/book-tickets/summary/10016/290519/
+ 260475
+LOCATION:Vue Cambridge - Grafton Centre
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Little Mermaid
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230703T152500
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230703T180000
+DTSTAMP;VALUE=DATE-TIME:20230703T152600Z
+UID:260508
+DESCRIPTION:Duration: 135 mins (2h15m)\nScreen 4\n\n"The Little Mermaid" i
+ s the beloved story of Ariel\, a beautiful and spirited young mermaid with
+  a thirst for adventure. The youngest of King Triton's daughters\, and the
+  most defiant\, Ariel longs to find out more about the world beyond the se
+ a.\n\nDirected by Rob Marshall\nCast: Melissa McCarthy\, Jonah Hauer-King\
+ , Halle Bailey\n\nhttps://www.myvue.com/book-tickets/summary/10016/290519/
+ 260508
+LOCATION:Vue Cambridge - Grafton Centre
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Asteroid City
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230703T104000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230703T124500
+DTSTAMP;VALUE=DATE-TIME:20230703T104100Z
+UID:260609
+DESCRIPTION:Duration: 105 mins (1h45m)\nScreen 8\n\nThe itinerary of a Jun
+ ior Stargazer/Space Cadet convention (organized to bring together students
+  and parents from across the country for fellowship and scholarly competit
+ ion) is spectacularly disrupted by world-changing events.\n\nDirected by W
+ es Anderson\nCast: Tom Hanks\, Scarlett Johansson\, Jason Schwartzman\n\nh
+ ttps://www.myvue.com/book-tickets/summary/10016/378728/260609
+LOCATION:Vue Cambridge - Grafton Centre
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Asteroid City
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230703T131000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230703T151500
+DTSTAMP;VALUE=DATE-TIME:20230703T131100Z
+UID:260610
+DESCRIPTION:Duration: 105 mins (1h45m)\nScreen 8\n\nThe itinerary of a Jun
+ ior Stargazer/Space Cadet convention (organized to bring together students
+  and parents from across the country for fellowship and scholarly competit
+ ion) is spectacularly disrupted by world-changing events.\n\nDirected by W
+ es Anderson\nCast: Tom Hanks\, Scarlett Johansson\, Jason Schwartzman\n\nh
+ ttps://www.myvue.com/book-tickets/summary/10016/378728/260610
+LOCATION:Vue Cambridge - Grafton Centre
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Asteroid City
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230703T150000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230703T170500
+DTSTAMP;VALUE=DATE-TIME:20230703T150100Z
+UID:260568
+DESCRIPTION:Duration: 105 mins (1h45m)\nScreen 6\n\nThe itinerary of a Jun
+ ior Stargazer/Space Cadet convention (organized to bring together students
+  and parents from across the country for fellowship and scholarly competit
+ ion) is spectacularly disrupted by world-changing events.\n\nDirected by W
+ es Anderson\nCast: Tom Hanks\, Scarlett Johansson\, Jason Schwartzman\n\nh
+ ttps://www.myvue.com/book-tickets/summary/10016/378728/260568
+LOCATION:Vue Cambridge - Grafton Centre
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Asteroid City
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230703T173000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230703T193500
+DTSTAMP;VALUE=DATE-TIME:20230703T173100Z
+UID:260569
+DESCRIPTION:Duration: 105 mins (1h45m)\nScreen 6\n\nThe itinerary of a Jun
+ ior Stargazer/Space Cadet convention (organized to bring together students
+  and parents from across the country for fellowship and scholarly competit
+ ion) is spectacularly disrupted by world-changing events.\n\nDirected by W
+ es Anderson\nCast: Tom Hanks\, Scarlett Johansson\, Jason Schwartzman\n\nh
+ ttps://www.myvue.com/book-tickets/summary/10016/378728/260569
+LOCATION:Vue Cambridge - Grafton Centre
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Asteroid City
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230703T183000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230703T203500
+DTSTAMP;VALUE=DATE-TIME:20230703T183100Z
+UID:260442
+DESCRIPTION:Duration: 105 mins (1h45m)\nScreen 2\n\nThe itinerary of a Jun
+ ior Stargazer/Space Cadet convention (organized to bring together students
+  and parents from across the country for fellowship and scholarly competit
+ ion) is spectacularly disrupted by world-changing events.\n\nDirected by W
+ es Anderson\nCast: Tom Hanks\, Scarlett Johansson\, Jason Schwartzman\n\nh
+ ttps://www.myvue.com/book-tickets/summary/10016/378728/260442
+LOCATION:Vue Cambridge - Grafton Centre
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Asteroid City
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230703T202000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230703T222500
+DTSTAMP;VALUE=DATE-TIME:20230703T202100Z
+UID:260541
+DESCRIPTION:Duration: 105 mins (1h45m)\nScreen 5\n\nThe itinerary of a Jun
+ ior Stargazer/Space Cadet convention (organized to bring together students
+  and parents from across the country for fellowship and scholarly competit
+ ion) is spectacularly disrupted by world-changing events.\n\nDirected by W
+ es Anderson\nCast: Tom Hanks\, Scarlett Johansson\, Jason Schwartzman\n\nh
+ ttps://www.myvue.com/book-tickets/summary/10016/378728/260541
+LOCATION:Vue Cambridge - Grafton Centre
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Flash
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230703T111000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230703T135500
+DTSTAMP;VALUE=DATE-TIME:20230703T111100Z
+UID:260590
+DESCRIPTION:Duration: 144 mins (2h24m)\nScreen 7\n\nWorlds collide in "The
+  Flash" when Barry uses his superpowers to travel back in time in order to
+  change the events of the past.\n\nDirected by Andy Muschietti\nCast: Ezra
+  Miller\, Sasha Calle\, Ben Affleck\, Michael Keaton\, Kieresey Clemons\, 
+ Saoirse-Monica Jackson\n\nhttps://www.myvue.com/book-tickets/summary/10016
+ /292206/260590
+LOCATION:Vue Cambridge - Grafton Centre
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Flash
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230703T134500
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230703T163000
+DTSTAMP;VALUE=DATE-TIME:20230703T134600Z
+UID:260539
+DESCRIPTION:Duration: 144 mins (2h24m)\nScreen 5\n\nWorlds collide in "The
+  Flash" when Barry uses his superpowers to travel back in time in order to
+  change the events of the past.\n\nDirected by Andy Muschietti\nCast: Ezra
+  Miller\, Sasha Calle\, Ben Affleck\, Michael Keaton\, Kieresey Clemons\, 
+ Saoirse-Monica Jackson\n\nhttps://www.myvue.com/book-tickets/summary/10016
+ /292206/260539
+LOCATION:Vue Cambridge - Grafton Centre
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Flash
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230703T211500
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230704T000000
+DTSTAMP;VALUE=DATE-TIME:20230703T211600Z
+UID:260591
+DESCRIPTION:Duration: 144 mins (2h24m)\nScreen 7\n\nWorlds collide in "The
+  Flash" when Barry uses his superpowers to travel back in time in order to
+  change the events of the past.\n\nDirected by Andy Muschietti\nCast: Ezra
+  Miller\, Sasha Calle\, Ben Affleck\, Michael Keaton\, Kieresey Clemons\, 
+ Saoirse-Monica Jackson\n\nhttps://www.myvue.com/book-tickets/summary/10016
+ /292206/260591
+LOCATION:Vue Cambridge - Grafton Centre
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Transformers: Rise of the Beasts
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230703T185000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230703T212000
+DTSTAMP;VALUE=DATE-TIME:20230703T185100Z
+UID:260478
+DESCRIPTION:Duration: 127 mins (2h07m)\nScreen 3\n\nTransformers: Rise of 
+ the Beasts will take audiences on a '90s globetrotting adventure with the 
+ Autobots and introduce a whole new breed of Transformer - the Maximals - t
+ o the existing battle on earth between Autobots and Decepticons.\n\nDirect
+ ed by Steven Caple Jr.\nCast: Tobe Nwigwe\, Dominique Fishback\, Anthony R
+ amos\n\nhttps://www.myvue.com/book-tickets/summary/10016/320305/260478
+LOCATION:Vue Cambridge - Grafton Centre
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Super Mario Bros. Movie
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230703T113000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230703T132500
+DTSTAMP;VALUE=DATE-TIME:20230703T113100Z
+UID:260538
+DESCRIPTION:Duration: 92 mins (1h32m)\nScreen 5\n\nA plumber named Mario t
+ ravels through an underground labyrinth with his brother\, Luigi\, trying 
+ to save a captured princess.\n\nDirected by Matthew Fogel\nCast: Chris Pra
+ tt\, Anya Taylor-Joy\, Charlie Day\, Jack Black\, Seth Rogen\n\nhttps://ww
+ w.myvue.com/book-tickets/summary/10016/223992/260538
+LOCATION:Vue Cambridge - Grafton Centre
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Super Mario Bros. Movie
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230703T133000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230703T152500
+DTSTAMP;VALUE=DATE-TIME:20230703T133100Z
+UID:260440
+DESCRIPTION:Duration: 92 mins (1h32m)\nScreen 2\n\nA plumber named Mario t
+ ravels through an underground labyrinth with his brother\, Luigi\, trying 
+ to save a captured princess.\n\nDirected by Matthew Fogel\nCast: Chris Pra
+ tt\, Anya Taylor-Joy\, Charlie Day\, Jack Black\, Seth Rogen\n\nhttps://ww
+ w.myvue.com/book-tickets/summary/10016/223992/260440
+LOCATION:Vue Cambridge - Grafton Centre
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Indiana Jones and the Dial of Destiny
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230704T114000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230704T143500
+DTSTAMP;VALUE=DATE-TIME:20230704T114100Z
+UID:260564
+DESCRIPTION:Duration: 154 mins (2h34m)\nScreen 6\n\nDaredevil archaeologis
+ t Indiana Jones races against time to retrieve a legendary dial that can c
+ hange the course of history. Accompanied by his goddaughter\, he soon find
+ s himself squaring off against Jürgen Voller\, a former Nazi who works fo
+ r NASA.\n\nDirected by James Mangold\nCast: Harrison Ford\, Mads Mikkelsen
+ \, Phoebe Waller-Bridge\, Antonio Banderas\, Shaunette Renez Wilson\n\nhtt
+ ps://www.myvue.com/book-tickets/summary/10016/202084/260564
+LOCATION:Vue Cambridge - Grafton Centre
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Indiana Jones and the Dial of Destiny
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230704T132500
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230704T162000
+DTSTAMP;VALUE=DATE-TIME:20230704T132600Z
+UID:260435
+DESCRIPTION:Duration: 154 mins (2h34m)\nScreen 2\n\nDaredevil archaeologis
+ t Indiana Jones races against time to retrieve a legendary dial that can c
+ hange the course of history. Accompanied by his goddaughter\, he soon find
+ s himself squaring off against Jürgen Voller\, a former Nazi who works fo
+ r NASA.\n\nDirected by James Mangold\nCast: Harrison Ford\, Mads Mikkelsen
+ \, Phoebe Waller-Bridge\, Antonio Banderas\, Shaunette Renez Wilson\n\nhtt
+ ps://www.myvue.com/book-tickets/summary/10016/202084/260435
+LOCATION:Vue Cambridge - Grafton Centre
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Indiana Jones and the Dial of Destiny
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230704T142000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230704T171500
+DTSTAMP;VALUE=DATE-TIME:20230704T142100Z
+UID:260588
+DESCRIPTION:Duration: 154 mins (2h34m)\nScreen 7\n\nDaredevil archaeologis
+ t Indiana Jones races against time to retrieve a legendary dial that can c
+ hange the course of history. Accompanied by his goddaughter\, he soon find
+ s himself squaring off against Jürgen Voller\, a former Nazi who works fo
+ r NASA.\n\nDirected by James Mangold\nCast: Harrison Ford\, Mads Mikkelsen
+ \, Phoebe Waller-Bridge\, Antonio Banderas\, Shaunette Renez Wilson\n\nhtt
+ ps://www.myvue.com/book-tickets/summary/10016/202084/260588
+LOCATION:Vue Cambridge - Grafton Centre
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Indiana Jones and the Dial of Destiny
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230704T154000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230704T183500
+DTSTAMP;VALUE=DATE-TIME:20230704T154100Z
+UID:260606
+DESCRIPTION:Duration: 154 mins (2h34m)\nScreen 8\n\nDaredevil archaeologis
+ t Indiana Jones races against time to retrieve a legendary dial that can c
+ hange the course of history. Accompanied by his goddaughter\, he soon find
+ s himself squaring off against Jürgen Voller\, a former Nazi who works fo
+ r NASA.\n\nDirected by James Mangold\nCast: Harrison Ford\, Mads Mikkelsen
+ \, Phoebe Waller-Bridge\, Antonio Banderas\, Shaunette Renez Wilson\n\nhtt
+ ps://www.myvue.com/book-tickets/summary/10016/202084/260606
+LOCATION:Vue Cambridge - Grafton Centre
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Indiana Jones and the Dial of Destiny
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230704T180000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230704T205500
+DTSTAMP;VALUE=DATE-TIME:20230704T180100Z
+UID:259822
+DESCRIPTION:Duration: 154 mins (2h34m)\nScreen 7\n\nDaredevil archaeologis
+ t Indiana Jones races against time to retrieve a legendary dial that can c
+ hange the course of history. Accompanied by his goddaughter\, he soon find
+ s himself squaring off against Jürgen Voller\, a former Nazi who works fo
+ r NASA.\n\nDirected by James Mangold\nCast: Harrison Ford\, Mads Mikkelsen
+ \, Phoebe Waller-Bridge\, Antonio Banderas\, Shaunette Renez Wilson\n\nhtt
+ ps://www.myvue.com/book-tickets/summary/10016/202084/259822
+LOCATION:Vue Cambridge - Grafton Centre
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Indiana Jones and the Dial of Destiny
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230704T190000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230704T215500
+DTSTAMP;VALUE=DATE-TIME:20230704T190100Z
+UID:260607
+DESCRIPTION:Duration: 154 mins (2h34m)\nScreen 8\n\nDaredevil archaeologis
+ t Indiana Jones races against time to retrieve a legendary dial that can c
+ hange the course of history. Accompanied by his goddaughter\, he soon find
+ s himself squaring off against Jürgen Voller\, a former Nazi who works fo
+ r NASA.\n\nDirected by James Mangold\nCast: Harrison Ford\, Mads Mikkelsen
+ \, Phoebe Waller-Bridge\, Antonio Banderas\, Shaunette Renez Wilson\n\nhtt
+ ps://www.myvue.com/book-tickets/summary/10016/202084/260607
+LOCATION:Vue Cambridge - Grafton Centre
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Indiana Jones and the Dial of Destiny
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230704T200000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230704T225500
+DTSTAMP;VALUE=DATE-TIME:20230704T200100Z
+UID:259841
+DESCRIPTION:Duration: 154 mins (2h34m)\nScreen 6\n\nDaredevil archaeologis
+ t Indiana Jones races against time to retrieve a legendary dial that can c
+ hange the course of history. Accompanied by his goddaughter\, he soon find
+ s himself squaring off against Jürgen Voller\, a former Nazi who works fo
+ r NASA.\n\nDirected by James Mangold\nCast: Harrison Ford\, Mads Mikkelsen
+ \, Phoebe Waller-Bridge\, Antonio Banderas\, Shaunette Renez Wilson\n\nhtt
+ ps://www.myvue.com/book-tickets/summary/10016/202084/259841
+LOCATION:Vue Cambridge - Grafton Centre
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Spider-Man: Across The Spider-Verse
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230704T112000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230704T140000
+DTSTAMP;VALUE=DATE-TIME:20230704T112100Z
+UID:260587
+DESCRIPTION:Duration: 139 mins (2h19m)\nScreen 7\n\nAfter reuniting with G
+ wen Stacy\, Brooklyn's full-time\, friendly neighbourhood Spider-Man is ca
+ tapulted across the Multiverse\, where he encounters a team of Spider-Peop
+ le charged with protecting its very existence.\n\nDirected by Justin K. Th
+ ompson\nCast: Oscar Isaac\, Shameik Moore\, Hailee Steinfeld\n\nhttps://ww
+ w.myvue.com/book-tickets/summary/10016/289430/260587
+LOCATION:Vue Cambridge - Grafton Centre
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Spider-Man: Across The Spider-Verse
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230704T134000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230704T162000
+DTSTAMP;VALUE=DATE-TIME:20230704T134100Z
+UID:260503
+DESCRIPTION:Duration: 139 mins (2h19m)\nScreen 4\n\nAfter reuniting with G
+ wen Stacy\, Brooklyn's full-time\, friendly neighbourhood Spider-Man is ca
+ tapulted across the Multiverse\, where he encounters a team of Spider-Peop
+ le charged with protecting its very existence.\n\nDirected by Justin K. Th
+ ompson\nCast: Oscar Isaac\, Shameik Moore\, Hailee Steinfeld\n\nhttps://ww
+ w.myvue.com/book-tickets/summary/10016/289430/260503
+LOCATION:Vue Cambridge - Grafton Centre
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Spider-Man: Across The Spider-Verse
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230704T152000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230704T180000
+DTSTAMP;VALUE=DATE-TIME:20230704T152100Z
+UID:260401
+DESCRIPTION:Duration: 139 mins (2h19m)\nScreen 1\n\nAfter reuniting with G
+ wen Stacy\, Brooklyn's full-time\, friendly neighbourhood Spider-Man is ca
+ tapulted across the Multiverse\, where he encounters a team of Spider-Peop
+ le charged with protecting its very existence.\n\nDirected by Justin K. Th
+ ompson\nCast: Oscar Isaac\, Shameik Moore\, Hailee Steinfeld\n\nhttps://ww
+ w.myvue.com/book-tickets/summary/10016/289430/260401
+LOCATION:Vue Cambridge - Grafton Centre
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Spider-Man: Across The Spider-Verse
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230704T172000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230704T200000
+DTSTAMP;VALUE=DATE-TIME:20230704T172100Z
+UID:260436
+DESCRIPTION:Duration: 139 mins (2h19m)\nScreen 2\n\nAfter reuniting with G
+ wen Stacy\, Brooklyn's full-time\, friendly neighbourhood Spider-Man is ca
+ tapulted across the Multiverse\, where he encounters a team of Spider-Peop
+ le charged with protecting its very existence.\n\nDirected by Justin K. Th
+ ompson\nCast: Oscar Isaac\, Shameik Moore\, Hailee Steinfeld\n\nhttps://ww
+ w.myvue.com/book-tickets/summary/10016/289430/260436
+LOCATION:Vue Cambridge - Grafton Centre
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Spider-Man: Across The Spider-Verse
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230704T200500
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230704T224500
+DTSTAMP;VALUE=DATE-TIME:20230704T200600Z
+UID:260537
+DESCRIPTION:Duration: 139 mins (2h19m)\nScreen 5\n\nAfter reuniting with G
+ wen Stacy\, Brooklyn's full-time\, friendly neighbourhood Spider-Man is ca
+ tapulted across the Multiverse\, where he encounters a team of Spider-Peop
+ le charged with protecting its very existence.\n\nDirected by Justin K. Th
+ ompson\nCast: Oscar Isaac\, Shameik Moore\, Hailee Steinfeld\n\nhttps://ww
+ w.myvue.com/book-tickets/summary/10016/289430/260537
+LOCATION:Vue Cambridge - Grafton Centre
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Spider-Man: Across The Spider-Verse
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230704T221500
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230705T005500
+DTSTAMP;VALUE=DATE-TIME:20230704T221600Z
+UID:260608
+DESCRIPTION:Duration: 139 mins (2h19m)\nScreen 8\n\nAfter reuniting with G
+ wen Stacy\, Brooklyn's full-time\, friendly neighbourhood Spider-Man is ca
+ tapulted across the Multiverse\, where he encounters a team of Spider-Peop
+ le charged with protecting its very existence.\n\nDirected by Justin K. Th
+ ompson\nCast: Oscar Isaac\, Shameik Moore\, Hailee Steinfeld\n\nhttps://ww
+ w.myvue.com/book-tickets/summary/10016/289430/260608
+LOCATION:Vue Cambridge - Grafton Centre
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ruby Gillman\, Teenage Kraken
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230704T112500
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230704T132000
+DTSTAMP;VALUE=DATE-TIME:20230704T112600Z
+UID:260502
+DESCRIPTION:Duration: 91 mins (1h31m)\nScreen 4\n\nThis year\, DreamWorks 
+ Animation dives into the turbulent waters of high school with a hilarious\
+ , heartfelt action comedy about a shy teenager who discovers that she's pa
+ rt of a legendary royal lineage of mythical sea krakens.\n\nDirected by Ki
+ rk DeMicco\nCast: Annie Murphy\, Lana Condor\, Toni Collette\n\nhttps://ww
+ w.myvue.com/book-tickets/summary/10016/368134/260502
+LOCATION:Vue Cambridge - Grafton Centre
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ruby Gillman\, Teenage Kraken
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230704T140000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230704T155500
+DTSTAMP;VALUE=DATE-TIME:20230704T140100Z
+UID:260471
+DESCRIPTION:Duration: 91 mins (1h31m)\nScreen 3\n\nThis year\, DreamWorks 
+ Animation dives into the turbulent waters of high school with a hilarious\
+ , heartfelt action comedy about a shy teenager who discovers that she's pa
+ rt of a legendary royal lineage of mythical sea krakens.\n\nDirected by Ki
+ rk DeMicco\nCast: Annie Murphy\, Lana Condor\, Toni Collette\n\nhttps://ww
+ w.myvue.com/book-tickets/summary/10016/368134/260471
+LOCATION:Vue Cambridge - Grafton Centre
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ruby Gillman\, Teenage Kraken
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230704T163000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230704T182500
+DTSTAMP;VALUE=DATE-TIME:20230704T163100Z
+UID:260472
+DESCRIPTION:Duration: 91 mins (1h31m)\nScreen 3\n\nThis year\, DreamWorks 
+ Animation dives into the turbulent waters of high school with a hilarious\
+ , heartfelt action comedy about a shy teenager who discovers that she's pa
+ rt of a legendary royal lineage of mythical sea krakens.\n\nDirected by Ki
+ rk DeMicco\nCast: Annie Murphy\, Lana Condor\, Toni Collette\n\nhttps://ww
+ w.myvue.com/book-tickets/summary/10016/368134/260472
+LOCATION:Vue Cambridge - Grafton Centre
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:No Hard Feelings
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230704T120500
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230704T141000
+DTSTAMP;VALUE=DATE-TIME:20230704T120600Z
+UID:260534
+DESCRIPTION:Duration: 103 mins (1h43m)\nScreen 5\n\nJennifer Lawrence prod
+ uces and stars in No Hard Feelings\, a laugh-out-loud\, edgy comedy from d
+ irector Gene Stupnitsky (Good Boys) and the co-writer of Bad Teacher.\n\nD
+ irected by Gene Stupnitsky\nCast: Jennifer Lawrence\, Matthew Broderick\, 
+ Laura Benanti\, Andrew Barth Feldman\, Natalie Morales\n\nhttps://www.myvu
+ e.com/book-tickets/summary/10016/367197/260534
+LOCATION:Vue Cambridge - Grafton Centre
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:No Hard Feelings
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230704T143500
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230704T164000
+DTSTAMP;VALUE=DATE-TIME:20230704T143600Z
+UID:260535
+DESCRIPTION:Duration: 103 mins (1h43m)\nScreen 5\n\nJennifer Lawrence prod
+ uces and stars in No Hard Feelings\, a laugh-out-loud\, edgy comedy from d
+ irector Gene Stupnitsky (Good Boys) and the co-writer of Bad Teacher.\n\nD
+ irected by Gene Stupnitsky\nCast: Jennifer Lawrence\, Matthew Broderick\, 
+ Laura Benanti\, Andrew Barth Feldman\, Natalie Morales\n\nhttps://www.myvu
+ e.com/book-tickets/summary/10016/367197/260535
+LOCATION:Vue Cambridge - Grafton Centre
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:No Hard Feelings
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230704T165000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230704T185500
+DTSTAMP;VALUE=DATE-TIME:20230704T165100Z
+UID:260504
+DESCRIPTION:Duration: 103 mins (1h43m)\nScreen 4\n\nJennifer Lawrence prod
+ uces and stars in No Hard Feelings\, a laugh-out-loud\, edgy comedy from d
+ irector Gene Stupnitsky (Good Boys) and the co-writer of Bad Teacher.\n\nD
+ irected by Gene Stupnitsky\nCast: Jennifer Lawrence\, Matthew Broderick\, 
+ Laura Benanti\, Andrew Barth Feldman\, Natalie Morales\n\nhttps://www.myvu
+ e.com/book-tickets/summary/10016/367197/260504
+LOCATION:Vue Cambridge - Grafton Centre
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:No Hard Feelings
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230704T202000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230704T222500
+DTSTAMP;VALUE=DATE-TIME:20230704T202100Z
+UID:260437
+DESCRIPTION:Duration: 103 mins (1h43m)\nScreen 2\n\nJennifer Lawrence prod
+ uces and stars in No Hard Feelings\, a laugh-out-loud\, edgy comedy from d
+ irector Gene Stupnitsky (Good Boys) and the co-writer of Bad Teacher.\n\nD
+ irected by Gene Stupnitsky\nCast: Jennifer Lawrence\, Matthew Broderick\, 
+ Laura Benanti\, Andrew Barth Feldman\, Natalie Morales\n\nhttps://www.myvu
+ e.com/book-tickets/summary/10016/367197/260437
+LOCATION:Vue Cambridge - Grafton Centre
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Little Mermaid
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230704T105500
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230704T133000
+DTSTAMP;VALUE=DATE-TIME:20230704T105600Z
+UID:260470
+DESCRIPTION:Duration: 135 mins (2h15m)\nScreen 3\n\n"The Little Mermaid" i
+ s the beloved story of Ariel\, a beautiful and spirited young mermaid with
+  a thirst for adventure. The youngest of King Triton's daughters\, and the
+  most defiant\, Ariel longs to find out more about the world beyond the se
+ a.\n\nDirected by Rob Marshall\nCast: Melissa McCarthy\, Jonah Hauer-King\
+ , Halle Bailey\n\nhttps://www.myvue.com/book-tickets/summary/10016/290519/
+ 260470
+LOCATION:Vue Cambridge - Grafton Centre
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Little Mermaid
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230704T170500
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230704T194000
+DTSTAMP;VALUE=DATE-TIME:20230704T170600Z
+UID:260536
+DESCRIPTION:Duration: 135 mins (2h15m)\nScreen 5\n\n"The Little Mermaid" i
+ s the beloved story of Ariel\, a beautiful and spirited young mermaid with
+  a thirst for adventure. The youngest of King Triton's daughters\, and the
+  most defiant\, Ariel longs to find out more about the world beyond the se
+ a.\n\nDirected by Rob Marshall\nCast: Melissa McCarthy\, Jonah Hauer-King\
+ , Halle Bailey\n\nhttps://www.myvue.com/book-tickets/summary/10016/290519/
+ 260536
+LOCATION:Vue Cambridge - Grafton Centre
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Asteroid City
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230704T104000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230704T124500
+DTSTAMP;VALUE=DATE-TIME:20230704T104100Z
+UID:260604
+DESCRIPTION:Duration: 105 mins (1h45m)\nScreen 8\n\nThe itinerary of a Jun
+ ior Stargazer/Space Cadet convention (organized to bring together students
+  and parents from across the country for fellowship and scholarly competit
+ ion) is spectacularly disrupted by world-changing events.\n\nDirected by W
+ es Anderson\nCast: Tom Hanks\, Scarlett Johansson\, Jason Schwartzman\n\nh
+ ttps://www.myvue.com/book-tickets/summary/10016/378728/260604
+LOCATION:Vue Cambridge - Grafton Centre
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Asteroid City
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230704T131000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230704T151500
+DTSTAMP;VALUE=DATE-TIME:20230704T131100Z
+UID:260605
+DESCRIPTION:Duration: 105 mins (1h45m)\nScreen 8\n\nThe itinerary of a Jun
+ ior Stargazer/Space Cadet convention (organized to bring together students
+  and parents from across the country for fellowship and scholarly competit
+ ion) is spectacularly disrupted by world-changing events.\n\nDirected by W
+ es Anderson\nCast: Tom Hanks\, Scarlett Johansson\, Jason Schwartzman\n\nh
+ ttps://www.myvue.com/book-tickets/summary/10016/378728/260605
+LOCATION:Vue Cambridge - Grafton Centre
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Asteroid City
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230704T150000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230704T170500
+DTSTAMP;VALUE=DATE-TIME:20230704T150100Z
+UID:260565
+DESCRIPTION:Duration: 105 mins (1h45m)\nScreen 6\n\nThe itinerary of a Jun
+ ior Stargazer/Space Cadet convention (organized to bring together students
+  and parents from across the country for fellowship and scholarly competit
+ ion) is spectacularly disrupted by world-changing events.\n\nDirected by W
+ es Anderson\nCast: Tom Hanks\, Scarlett Johansson\, Jason Schwartzman\n\nh
+ ttps://www.myvue.com/book-tickets/summary/10016/378728/260565
+LOCATION:Vue Cambridge - Grafton Centre
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Asteroid City
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230704T173000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230704T193500
+DTSTAMP;VALUE=DATE-TIME:20230704T173100Z
+UID:260566
+DESCRIPTION:Duration: 105 mins (1h45m)\nScreen 6\n\nThe itinerary of a Jun
+ ior Stargazer/Space Cadet convention (organized to bring together students
+  and parents from across the country for fellowship and scholarly competit
+ ion) is spectacularly disrupted by world-changing events.\n\nDirected by W
+ es Anderson\nCast: Tom Hanks\, Scarlett Johansson\, Jason Schwartzman\n\nh
+ ttps://www.myvue.com/book-tickets/summary/10016/378728/260566
+LOCATION:Vue Cambridge - Grafton Centre
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Asteroid City
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230704T191000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230704T211500
+DTSTAMP;VALUE=DATE-TIME:20230704T191100Z
+UID:260473
+DESCRIPTION:Duration: 105 mins (1h45m)\nScreen 3\n\nThe itinerary of a Jun
+ ior Stargazer/Space Cadet convention (organized to bring together students
+  and parents from across the country for fellowship and scholarly competit
+ ion) is spectacularly disrupted by world-changing events.\n\nDirected by W
+ es Anderson\nCast: Tom Hanks\, Scarlett Johansson\, Jason Schwartzman\n\nh
+ ttps://www.myvue.com/book-tickets/summary/10016/378728/260473
+LOCATION:Vue Cambridge - Grafton Centre
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Asteroid City
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230704T212000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230704T232500
+DTSTAMP;VALUE=DATE-TIME:20230704T212100Z
+UID:260403
+DESCRIPTION:Duration: 105 mins (1h45m)\nScreen 1\n\nThe itinerary of a Jun
+ ior Stargazer/Space Cadet convention (organized to bring together students
+  and parents from across the country for fellowship and scholarly competit
+ ion) is spectacularly disrupted by world-changing events.\n\nDirected by W
+ es Anderson\nCast: Tom Hanks\, Scarlett Johansson\, Jason Schwartzman\n\nh
+ ttps://www.myvue.com/book-tickets/summary/10016/378728/260403
+LOCATION:Vue Cambridge - Grafton Centre
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Asteroid City
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230704T225000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230705T005500
+DTSTAMP;VALUE=DATE-TIME:20230704T225100Z
+UID:260616
+DESCRIPTION:Duration: 105 mins (1h45m)\nScreen 4\n\nThe itinerary of a Jun
+ ior Stargazer/Space Cadet convention (organized to bring together students
+  and parents from across the country for fellowship and scholarly competit
+ ion) is spectacularly disrupted by world-changing events.\n\nDirected by W
+ es Anderson\nCast: Tom Hanks\, Scarlett Johansson\, Jason Schwartzman\n\nh
+ ttps://www.myvue.com/book-tickets/summary/10016/378728/260616
+LOCATION:Vue Cambridge - Grafton Centre
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Flash
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230704T193500
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230704T222000
+DTSTAMP;VALUE=DATE-TIME:20230704T193600Z
+UID:260505
+DESCRIPTION:Duration: 144 mins (2h24m)\nScreen 4\n\nWorlds collide in "The
+  Flash" when Barry uses his superpowers to travel back in time in order to
+  change the events of the past.\n\nDirected by Andy Muschietti\nCast: Ezra
+  Miller\, Sasha Calle\, Ben Affleck\, Michael Keaton\, Kieresey Clemons\, 
+ Saoirse-Monica Jackson\n\nhttps://www.myvue.com/book-tickets/summary/10016
+ /292206/260505
+LOCATION:Vue Cambridge - Grafton Centre
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Flash
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230704T212000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230705T000500
+DTSTAMP;VALUE=DATE-TIME:20230704T212100Z
+UID:260589
+DESCRIPTION:Duration: 144 mins (2h24m)\nScreen 7\n\nWorlds collide in "The
+  Flash" when Barry uses his superpowers to travel back in time in order to
+  change the events of the past.\n\nDirected by Andy Muschietti\nCast: Ezra
+  Miller\, Sasha Calle\, Ben Affleck\, Michael Keaton\, Kieresey Clemons\, 
+ Saoirse-Monica Jackson\n\nhttps://www.myvue.com/book-tickets/summary/10016
+ /292206/260589
+LOCATION:Vue Cambridge - Grafton Centre
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Transformers: Rise of the Beasts
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230704T182000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230704T205000
+DTSTAMP;VALUE=DATE-TIME:20230704T182100Z
+UID:260402
+DESCRIPTION:Duration: 127 mins (2h07m)\nScreen 1\n\nTransformers: Rise of 
+ the Beasts will take audiences on a '90s globetrotting adventure with the 
+ Autobots and introduce a whole new breed of Transformer - the Maximals - t
+ o the existing battle on earth between Autobots and Decepticons.\n\nDirect
+ ed by Steven Caple Jr.\nCast: Tobe Nwigwe\, Dominique Fishback\, Anthony R
+ amos\n\nhttps://www.myvue.com/book-tickets/summary/10016/320305/260402
+LOCATION:Vue Cambridge - Grafton Centre
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Greatest Days
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230704T124500
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230704T150000
+DTSTAMP;VALUE=DATE-TIME:20230704T124600Z
+UID:260400
+DESCRIPTION:Duration: 112 mins (1h52m)\nScreen 1\n\n'Greatest Days' follow
+ s five best friends who have the night of their lives seeing their favouri
+ te boy band in concert. Twenty-five years later their lives have changed i
+ n many different ways as they reunite for one more epic show by their belo
+ ved band.\n\nDirected by Coky Giedroyc\nCast: Aisling Bea\, Matthew McNult
+ y\, Alice Lowe\, Jayde Adams\, Emma Amos\n\nhttps://www.myvue.com/book-tic
+ kets/summary/10016/386685/260400
+LOCATION:Vue Cambridge - Grafton Centre
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Boogeyman
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230704T225000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230705T005000
+DTSTAMP;VALUE=DATE-TIME:20230704T225100Z
+UID:260438
+DESCRIPTION:Duration: 99 mins (1h39m)\nScreen 2\n\nHigh school student Sad
+ ie Harper and her younger sister Sawyer are reeling from the recent death 
+ of their mother and aren't getting much support from their father\, Will\,
+  a therapist who is dealing with his own pain.\n\nDirected by Rob Savage\n
+ Cast: Vivien Lyra Blair\, Sophie Thatcher\, Chris Messina\n\nhttps://www.m
+ yvue.com/book-tickets/summary/10016/381416/260438
+LOCATION:Vue Cambridge - Grafton Centre
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Guardians of the Galaxy Vol. 3
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230704T214500
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230705T003500
+DTSTAMP;VALUE=DATE-TIME:20230704T214600Z
+UID:260474
+DESCRIPTION:Duration: 150 mins (2h30m)\nScreen 3\n\nPeter Quill\, still re
+ eling from the loss of Gamora\, must rally his team around him to defend t
+ he universe along with protecting one of their own.\n\nDirected by James G
+ unn\nCast: Chris Pratt\, Dave Bautista\, Zoe Saldana\, Vin Diesel\, Karen 
+ Gillan\, Bradley Cooper\n\nhttps://www.myvue.com/book-tickets/summary/1001
+ 6/290530/260474
+LOCATION:Vue Cambridge - Grafton Centre
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Super Mario Bros. Movie
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230704T111000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230704T130500
+DTSTAMP;VALUE=DATE-TIME:20230704T111100Z
+UID:260434
+DESCRIPTION:Duration: 92 mins (1h32m)\nScreen 2\n\nA plumber named Mario t
+ ravels through an underground labyrinth with his brother\, Luigi\, trying 
+ to save a captured princess.\n\nDirected by Matthew Fogel\nCast: Chris Pra
+ tt\, Anya Taylor-Joy\, Charlie Day\, Jack Black\, Seth Rogen\n\nhttps://ww
+ w.myvue.com/book-tickets/summary/10016/223992/260434
+LOCATION:Vue Cambridge - Grafton Centre
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hey Duggee At The Cinema! 2
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230704T110000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230704T122000
+DTSTAMP;VALUE=DATE-TIME:20230704T110100Z
+UID:260399
+DESCRIPTION:Duration: 60 mins (1h00m)\nScreen 1\n\nJoin Duggee and his fri
+ ends for a 60 minute special made up of your favorite episodes.\n\nDirecte
+ d by Grant Orchard\, Sander Jones\nCast: Duggee\, Norrie\, Roly\, Tag\, Be
+ tty\n\nhttps://www.myvue.com/book-tickets/summary/10016/389694/260399
 LOCATION:Vue Cambridge - Grafton Centre
 END:VEVENT
 END:VCALENDAR
