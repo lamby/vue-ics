@@ -1,54 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20230925T153535Z
+LAST-MODIFIED:20230926T103141Z
 NAME:Vue Cambridge
 X-WR-CALNAME:Vue Cambridge
-BEGIN:VEVENT
-SUMMARY:Dumb Money
-DTSTART;TZID=Europe/London:20230926T144500
-DTEND;TZID=Europe/London:20230926T165000
-DTSTAMP:20230926T144600Z
-UID:265453
-DESCRIPTION:Duration: 104 mins (1h44m)\nScreen 2\n\nDumb Money is based on
-  the insane true story of the YouTuber who brought Wall Street to its knee
- s and got rich by turning the video-game retailer GameStop into the world'
- s hottest company. I\n\nDirected by Craig Gillespie\nCast: Paul Dano\, Pet
- e Davidson\, Vincent D'Onofrio\, Seth Rogan\, Clancy Brown\, Shailene Wood
- ley\, America Ferrera\n\nhttps://www.myvue.com/book-tickets/summary/10016/
- 385112/265453
-LOCATION:Vue Cambridge - Grafton Centre
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Dumb Money
-DTSTART;TZID=Europe/London:20230926T180000
-DTEND;TZID=Europe/London:20230926T200500
-DTSTAMP:20230926T180100Z
-UID:265499
-DESCRIPTION:Duration: 104 mins (1h44m)\nScreen 3\n\nDumb Money is based on
-  the insane true story of the YouTuber who brought Wall Street to its knee
- s and got rich by turning the video-game retailer GameStop into the world'
- s hottest company. I\n\nDirected by Craig Gillespie\nCast: Paul Dano\, Pet
- e Davidson\, Vincent D'Onofrio\, Seth Rogan\, Clancy Brown\, Shailene Wood
- ley\, America Ferrera\n\nhttps://www.myvue.com/book-tickets/summary/10016/
- 385112/265499
-LOCATION:Vue Cambridge - Grafton Centre
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Dumb Money
-DTSTART;TZID=Europe/London:20230926T193000
-DTEND;TZID=Europe/London:20230926T213500
-DTSTAMP:20230926T193100Z
-UID:265394
-DESCRIPTION:Duration: 104 mins (1h44m)\nScreen 8\n\nDumb Money is based on
-  the insane true story of the YouTuber who brought Wall Street to its knee
- s and got rich by turning the video-game retailer GameStop into the world'
- s hottest company. I\n\nDirected by Craig Gillespie\nCast: Paul Dano\, Pet
- e Davidson\, Vincent D'Onofrio\, Seth Rogan\, Clancy Brown\, Shailene Wood
- ley\, America Ferrera\n\nhttps://www.myvue.com/book-tickets/summary/10016/
- 385112/265394
-LOCATION:Vue Cambridge - Grafton Centre
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:A Haunting in Venice
 DTSTART;TZID=Europe/London:20230926T121500
@@ -148,20 +103,6 @@ DESCRIPTION:Duration: 110 mins (1h50m)\nScreen 3\n\n1956 - France. A pries
 LOCATION:Vue Cambridge - Grafton Centre
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:The Canterville Ghost
-DTSTART;TZID=Europe/London:20230926T123500
-DTEND;TZID=Europe/London:20230926T142500
-DTSTAMP:20230926T123600Z
-UID:265452
-DESCRIPTION:Duration: 89 mins (1h29m)\nScreen 2\n\nThe poor ghost of Sir S
- imon Canterville has been roaming his castle searching in vain for a brave
-  descendant who will release him from the Canterville curse by performing 
- a brave deed.\n\nDirected by Kim Burdon\nCast: Stephen Fry\, Imelda Staunt
- on\,Freddie Highmore\,Hugh Laurie\,Toby Jones\n\nhttps://www.myvue.com/boo
- k-tickets/summary/10016/395711/265452
-LOCATION:Vue Cambridge - Grafton Centre
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:The Equalizer 3
 DTSTART;TZID=Europe/London:20230926T122500
 DTEND;TZID=Europe/London:20230926T143500
@@ -201,6 +142,65 @@ DESCRIPTION:Duration: 109 mins (1h49m)\nScreen 5\n\nSince giving up his li
  ange solace is serving justice on behalf of the oppressed.\n\nDirected by 
  Antoine Fuqua\nCast: Denzel Washington\, Dakota Fanning\, David Denman\n\n
  https://www.myvue.com/book-tickets/summary/10016/360870/265334
+LOCATION:Vue Cambridge - Grafton Centre
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Dumb Money
+DTSTART;TZID=Europe/London:20230926T144500
+DTEND;TZID=Europe/London:20230926T165000
+DTSTAMP:20230926T144600Z
+UID:265453
+DESCRIPTION:Duration: 104 mins (1h44m)\nScreen 2\n\nDumb Money is based on
+  the insane true story of the YouTuber who brought Wall Street to its knee
+ s and got rich by turning the video-game retailer GameStop into the world'
+ s hottest company. I\n\nDirected by Craig Gillespie\nCast: Paul Dano\, Pet
+ e Davidson\, Vincent D'Onofrio\, Seth Rogan\, Clancy Brown\, Shailene Wood
+ ley\, America Ferrera\n\nhttps://www.myvue.com/book-tickets/summary/10016/
+ 385112/265453
+LOCATION:Vue Cambridge - Grafton Centre
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Dumb Money
+DTSTART;TZID=Europe/London:20230926T180000
+DTEND;TZID=Europe/London:20230926T200500
+DTSTAMP:20230926T180100Z
+UID:265499
+DESCRIPTION:Duration: 104 mins (1h44m)\nScreen 3\n\nDumb Money is based on
+  the insane true story of the YouTuber who brought Wall Street to its knee
+ s and got rich by turning the video-game retailer GameStop into the world'
+ s hottest company. I\n\nDirected by Craig Gillespie\nCast: Paul Dano\, Pet
+ e Davidson\, Vincent D'Onofrio\, Seth Rogan\, Clancy Brown\, Shailene Wood
+ ley\, America Ferrera\n\nhttps://www.myvue.com/book-tickets/summary/10016/
+ 385112/265499
+LOCATION:Vue Cambridge - Grafton Centre
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Dumb Money
+DTSTART;TZID=Europe/London:20230926T193000
+DTEND;TZID=Europe/London:20230926T213500
+DTSTAMP:20230926T193100Z
+UID:265394
+DESCRIPTION:Duration: 104 mins (1h44m)\nScreen 8\n\nDumb Money is based on
+  the insane true story of the YouTuber who brought Wall Street to its knee
+ s and got rich by turning the video-game retailer GameStop into the world'
+ s hottest company. I\n\nDirected by Craig Gillespie\nCast: Paul Dano\, Pet
+ e Davidson\, Vincent D'Onofrio\, Seth Rogan\, Clancy Brown\, Shailene Wood
+ ley\, America Ferrera\n\nhttps://www.myvue.com/book-tickets/summary/10016/
+ 385112/265394
+LOCATION:Vue Cambridge - Grafton Centre
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Canterville Ghost
+DTSTART;TZID=Europe/London:20230926T123500
+DTEND;TZID=Europe/London:20230926T142500
+DTSTAMP:20230926T123600Z
+UID:265452
+DESCRIPTION:Duration: 89 mins (1h29m)\nScreen 2\n\nThe poor ghost of Sir S
+ imon Canterville has been roaming his castle searching in vain for a brave
+  descendant who will release him from the Canterville curse by performing 
+ a brave deed.\n\nDirected by Kim Burdon\nCast: Stephen Fry\, Imelda Staunt
+ on\,Freddie Highmore\,Hugh Laurie\,Toby Jones\n\nhttps://www.myvue.com/boo
+ k-tickets/summary/10016/395711/265452
 LOCATION:Vue Cambridge - Grafton Centre
 END:VEVENT
 BEGIN:VEVENT
@@ -279,20 +279,6 @@ DESCRIPTION:Duration: 114 mins (1h54m)\nScreen 7\n\nEccentric and individu
 LOCATION:Vue Cambridge - Grafton Centre
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Oppenheimer
-DTSTART;TZID=Europe/London:20230926T204500
-DTEND;TZID=Europe/London:20230927T000500
-DTSTAMP:20230926T204600Z
-UID:265478
-DESCRIPTION:Duration: 180 mins (3h00m)\nScreen 1\n\nWritten and directed b
- y Christopher Nolan and produced by Emma Thomas\, Atlas Entertainment's Ch
- arles Roven and Nolan\, 'Oppenheimer' stars Cillian Murphy as J. Robert Op
- penheimer.\n\nDirected by Christopher Nolan\nCast: Cillian Murphy\, Emily 
- Blunt\, Robert Downey Jr.\, Florence Pugh\, Matt Damon\, Rami Malek\, Gary
-  Oldman\n\nhttps://www.myvue.com/book-tickets/summary/10016/342472/265478
-LOCATION:Vue Cambridge - Grafton Centre
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:My Big Fat Greek Wedding 3
 DTSTART;TZID=Europe/London:20230926T171500
 DTEND;TZID=Europe/London:20230926T191000
@@ -319,30 +305,17 @@ DESCRIPTION:Duration: 92 mins (1h32m)\nScreen 6\n\nJoin the Portokalos fam
 LOCATION:Vue Cambridge - Grafton Centre
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Sound of Freedom
-DTSTART;TZID=Europe/London:20230926T132000
-DTEND;TZID=Europe/London:20230926T155500
-DTSTAMP:20230926T132100Z
-UID:265475
-DESCRIPTION:Duration: 131 mins (2h11m)\nScreen 1\n\nAfter rescuing a young
-  boy from ruthless child traffickers\, a federal agent learns the boy's si
- ster is still captive and decides to embark on a dangerous mission to save
-  her.\n\nDirected by Alejandro Monteverde\nCast: Bill Camp\, Jim Caviezel\
- , Mira Sorvino\n\nhttps://www.myvue.com/book-tickets/summary/10016/385901/
- 265475
-LOCATION:Vue Cambridge - Grafton Centre
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Teenage Mutant Ninja Turtles: Mutant Mayhem
-DTSTART;TZID=Europe/London:20230926T161500
-DTEND;TZID=Europe/London:20230926T181500
-DTSTAMP:20230926T161600Z
-UID:265476
-DESCRIPTION:Duration: 99 mins (1h39m)\nScreen 1\n\nAfter years of being sh
- eltered from the human world\, the Turtle brothers set out to win the hear
- ts of New Yorkers and be accepted as normal teenagers through heroic acts.
- \n\nDirected by Kyler Spears\nCast: Shamon Brown\, Seth Rogen\, Micah Abbe
- y\n\nhttps://www.myvue.com/book-tickets/summary/10016/339789/265476
+SUMMARY:Oppenheimer
+DTSTART;TZID=Europe/London:20230926T204500
+DTEND;TZID=Europe/London:20230927T000500
+DTSTAMP:20230926T204600Z
+UID:265478
+DESCRIPTION:Duration: 180 mins (3h00m)\nScreen 1\n\nWritten and directed b
+ y Christopher Nolan and produced by Emma Thomas\, Atlas Entertainment's Ch
+ arles Roven and Nolan\, 'Oppenheimer' stars Cillian Murphy as J. Robert Op
+ penheimer.\n\nDirected by Christopher Nolan\nCast: Cillian Murphy\, Emily 
+ Blunt\, Robert Downey Jr.\, Florence Pugh\, Matt Damon\, Rami Malek\, Gary
+  Oldman\n\nhttps://www.myvue.com/book-tickets/summary/10016/342472/265478
 LOCATION:Vue Cambridge - Grafton Centre
 END:VEVENT
 BEGIN:VEVENT
@@ -414,763 +387,270 @@ DESCRIPTION:Duration: 93 mins (1h33m)\nScreen 6\n\nRacers compete in a hig
 LOCATION:Vue Cambridge - Grafton Centre
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Cobweb
-DTSTART;TZID=Europe/London:20230926T183500
-DTEND;TZID=Europe/London:20230926T202500
-DTSTAMP:20230926T183600Z
-UID:265477
-DESCRIPTION:Duration: 88 mins (1h28m)\nScreen 1\n\nEight-year-old Peter is
-  plagued by a mysterious\, constant tap\, tap from inside his bedroom wall
-  - a tapping that his parents insist is all in his imagination.\n\nDirecte
- d by Samuel Bodin\nCast: Lizzy Caplan\, Woody Norman\, Cleopatra Coleman\n
- \nhttps://www.myvue.com/book-tickets/summary/10016/330440/265477
-LOCATION:Vue Cambridge - Grafton Centre
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Theater Camp
-DTSTART;TZID=Europe/London:20230926T164000
-DTEND;TZID=Europe/London:20230926T183500
-DTSTAMP:20230926T164100Z
-UID:265333
-DESCRIPTION:Duration: 93 mins (1h33m)\nScreen 5\n\nTony Award winner Ben P
- latt and Molly Gordon star in the original comedy 'Theater Camp' as Amos a
- nd Rebecca-Diane - lifelong best friends and drama instructors at a rundow
- n camp in upstate New York.\n\nDirected by Nick Lieberman\nCast: Ben Platt
- \, Molly Gordon\, Noah Galvin\, Patti Harrison\n\nhttps://www.myvue.com/bo
- ok-tickets/summary/10016/385015/265333
-LOCATION:Vue Cambridge - Grafton Centre
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Dumb Money
-DTSTART;TZID=Europe/London:20230927T124000
-DTEND;TZID=Europe/London:20230927T144500
-DTSTAMP:20230927T124100Z
-UID:265471
-DESCRIPTION:Duration: 104 mins (1h44m)\nScreen 1\n\nDumb Money is based on
-  the insane true story of the YouTuber who brought Wall Street to its knee
- s and got rich by turning the video-game retailer GameStop into the world'
- s hottest company. I\n\nDirected by Craig Gillespie\nCast: Paul Dano\, Pet
- e Davidson\, Vincent D'Onofrio\, Seth Rogan\, Clancy Brown\, Shailene Wood
- ley\, America Ferrera\n\nhttps://www.myvue.com/book-tickets/summary/10016/
- 385112/265471
-LOCATION:Vue Cambridge - Grafton Centre
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Dumb Money
-DTSTART;TZID=Europe/London:20230927T150500
-DTEND;TZID=Europe/London:20230927T171000
-DTSTAMP:20230927T150600Z
-UID:265472
-DESCRIPTION:Duration: 104 mins (1h44m)\nScreen 1\n\nDumb Money is based on
-  the insane true story of the YouTuber who brought Wall Street to its knee
- s and got rich by turning the video-game retailer GameStop into the world'
- s hottest company. I\n\nDirected by Craig Gillespie\nCast: Paul Dano\, Pet
- e Davidson\, Vincent D'Onofrio\, Seth Rogan\, Clancy Brown\, Shailene Wood
- ley\, America Ferrera\n\nhttps://www.myvue.com/book-tickets/summary/10016/
- 385112/265472
-LOCATION:Vue Cambridge - Grafton Centre
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Dumb Money
-DTSTART;TZID=Europe/London:20230927T172000
-DTEND;TZID=Europe/London:20230927T192500
-DTSTAMP:20230927T172100Z
-UID:265390
-DESCRIPTION:Duration: 104 mins (1h44m)\nScreen 8\n\nDumb Money is based on
-  the insane true story of the YouTuber who brought Wall Street to its knee
- s and got rich by turning the video-game retailer GameStop into the world'
- s hottest company. I\n\nDirected by Craig Gillespie\nCast: Paul Dano\, Pet
- e Davidson\, Vincent D'Onofrio\, Seth Rogan\, Clancy Brown\, Shailene Wood
- ley\, America Ferrera\n\nhttps://www.myvue.com/book-tickets/summary/10016/
- 385112/265390
-LOCATION:Vue Cambridge - Grafton Centre
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Dumb Money
-DTSTART;TZID=Europe/London:20230927T200500
-DTEND;TZID=Europe/London:20230927T221000
-DTSTAMP:20230927T200600Z
-UID:265361
-DESCRIPTION:Duration: 104 mins (1h44m)\nScreen 7\n\nDumb Money is based on
-  the insane true story of the YouTuber who brought Wall Street to its knee
- s and got rich by turning the video-game retailer GameStop into the world'
- s hottest company. I\n\nDirected by Craig Gillespie\nCast: Paul Dano\, Pet
- e Davidson\, Vincent D'Onofrio\, Seth Rogan\, Clancy Brown\, Shailene Wood
- ley\, America Ferrera\n\nhttps://www.myvue.com/book-tickets/summary/10016/
- 385112/265361
-LOCATION:Vue Cambridge - Grafton Centre
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Dumb Money
-DTSTART;TZID=Europe/London:20230927T220500
-DTEND;TZID=Europe/London:20230928T001000
-DTSTAMP:20230927T220600Z
-UID:265496
-DESCRIPTION:Duration: 104 mins (1h44m)\nScreen 3\n\nDumb Money is based on
-  the insane true story of the YouTuber who brought Wall Street to its knee
- s and got rich by turning the video-game retailer GameStop into the world'
- s hottest company. I\n\nDirected by Craig Gillespie\nCast: Paul Dano\, Pet
- e Davidson\, Vincent D'Onofrio\, Seth Rogan\, Clancy Brown\, Shailene Wood
- ley\, America Ferrera\n\nhttps://www.myvue.com/book-tickets/summary/10016/
- 385112/265496
+SUMMARY:Teenage Mutant Ninja Turtles: Mutant Mayhem
+DTSTART;TZID=Europe/London:20230926T161500
+DTEND;TZID=Europe/London:20230926T181500
+DTSTAMP:20230926T161600Z
+UID:265476
+DESCRIPTION:Duration: 99 mins (1h39m)\nScreen 1\n\nAfter years of being sh
+ eltered from the human world\, the Turtle brothers set out to win the hear
+ ts of New Yorkers and be accepted as normal teenagers through heroic acts.
+ \n\nDirected by Kyler Spears\nCast: Shamon Brown\, Seth Rogen\, Micah Abbe
+ y\n\nhttps://www.myvue.com/book-tickets/summary/10016/339789/265476
 LOCATION:Vue Cambridge - Grafton Centre
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:A Haunting in Venice
-DTSTART;TZID=Europe/London:20230927T122500
-DTEND;TZID=Europe/London:20230927T143000
-DTSTAMP:20230927T122600Z
-UID:265388
+DTSTART;TZID=Europe/London:20230929T123000
+DTEND;TZID=Europe/London:20230929T143500
+DTSTAMP:20230929T123100Z
+UID:265795
 DESCRIPTION:Duration: 103 mins (1h43m)\nScreen 8\n\n"A Haunting in Venice"
   is set in eerie\, post-World War II Venice on All Hallows' Eve and is a t
  errifying mystery featuring the return of the celebrated sleuth\, Hercule 
  Poirot.\n\nDirected by Kenneth Branagh\nCast: Kenneth Branagh\, Michelle Y
  eoh\, Tina Fey\, Jamie Dornan\, Kelly Reilly\n\nhttps://www.myvue.com/book
- -tickets/summary/10016/296976/265388
+ -tickets/summary/10016/296976/265795
 LOCATION:Vue Cambridge - Grafton Centre
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:A Haunting in Venice
-DTSTART;TZID=Europe/London:20230927T144000
-DTEND;TZID=Europe/London:20230927T164500
-DTSTAMP:20230927T144100Z
-UID:265418
-DESCRIPTION:Duration: 103 mins (1h43m)\nScreen 6\n\n"A Haunting in Venice"
+DTSTART;TZID=Europe/London:20230929T145500
+DTEND;TZID=Europe/London:20230929T170000
+DTSTAMP:20230929T145600Z
+UID:265796
+DESCRIPTION:Duration: 103 mins (1h43m)\nScreen 8\n\n"A Haunting in Venice"
   is set in eerie\, post-World War II Venice on All Hallows' Eve and is a t
  errifying mystery featuring the return of the celebrated sleuth\, Hercule 
  Poirot.\n\nDirected by Kenneth Branagh\nCast: Kenneth Branagh\, Michelle Y
  eoh\, Tina Fey\, Jamie Dornan\, Kelly Reilly\n\nhttps://www.myvue.com/book
- -tickets/summary/10016/296976/265418
+ -tickets/summary/10016/296976/265796
 LOCATION:Vue Cambridge - Grafton Centre
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:A Haunting in Venice
-DTSTART;TZID=Europe/London:20230927T174000
-DTEND;TZID=Europe/London:20230927T194500
-DTSTAMP:20230927T174100Z
-UID:265360
+DTSTART;TZID=Europe/London:20230929T172000
+DTEND;TZID=Europe/London:20230929T192500
+DTSTAMP:20230929T172100Z
+UID:265797
+DESCRIPTION:Duration: 103 mins (1h43m)\nScreen 8\n\n"A Haunting in Venice"
+  is set in eerie\, post-World War II Venice on All Hallows' Eve and is a t
+ errifying mystery featuring the return of the celebrated sleuth\, Hercule 
+ Poirot.\n\nDirected by Kenneth Branagh\nCast: Kenneth Branagh\, Michelle Y
+ eoh\, Tina Fey\, Jamie Dornan\, Kelly Reilly\n\nhttps://www.myvue.com/book
+ -tickets/summary/10016/296976/265797
+LOCATION:Vue Cambridge - Grafton Centre
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:A Haunting in Venice
+DTSTART;TZID=Europe/London:20230929T182500
+DTEND;TZID=Europe/London:20230929T203000
+DTSTAMP:20230929T182600Z
+UID:265652
+DESCRIPTION:Duration: 103 mins (1h43m)\nScreen 3\n\n"A Haunting in Venice"
+  is set in eerie\, post-World War II Venice on All Hallows' Eve and is a t
+ errifying mystery featuring the return of the celebrated sleuth\, Hercule 
+ Poirot.\n\nDirected by Kenneth Branagh\nCast: Kenneth Branagh\, Michelle Y
+ eoh\, Tina Fey\, Jamie Dornan\, Kelly Reilly\n\nhttps://www.myvue.com/book
+ -tickets/summary/10016/296976/265652
+LOCATION:Vue Cambridge - Grafton Centre
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:A Haunting in Venice
+DTSTART;TZID=Europe/London:20230929T200000
+DTEND;TZID=Europe/London:20230929T220500
+DTSTAMP:20230929T200100Z
+UID:265763
 DESCRIPTION:Duration: 103 mins (1h43m)\nScreen 7\n\n"A Haunting in Venice"
   is set in eerie\, post-World War II Venice on All Hallows' Eve and is a t
  errifying mystery featuring the return of the celebrated sleuth\, Hercule 
  Poirot.\n\nDirected by Kenneth Branagh\nCast: Kenneth Branagh\, Michelle Y
  eoh\, Tina Fey\, Jamie Dornan\, Kelly Reilly\n\nhttps://www.myvue.com/book
- -tickets/summary/10016/296976/265360
+ -tickets/summary/10016/296976/265763
 LOCATION:Vue Cambridge - Grafton Centre
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:A Haunting in Venice
-DTSTART;TZID=Europe/London:20230927T194000
-DTEND;TZID=Europe/London:20230927T214500
-DTSTAMP:20230927T194100Z
-UID:265420
-DESCRIPTION:Duration: 103 mins (1h43m)\nScreen 6\n\n"A Haunting in Venice"
+DTSTART;TZID=Europe/London:20230929T222500
+DTEND;TZID=Europe/London:20230930T003000
+DTSTAMP:20230929T222600Z
+UID:265764
+DESCRIPTION:Duration: 103 mins (1h43m)\nScreen 7\n\n"A Haunting in Venice"
   is set in eerie\, post-World War II Venice on All Hallows' Eve and is a t
  errifying mystery featuring the return of the celebrated sleuth\, Hercule 
  Poirot.\n\nDirected by Kenneth Branagh\nCast: Kenneth Branagh\, Michelle Y
  eoh\, Tina Fey\, Jamie Dornan\, Kelly Reilly\n\nhttps://www.myvue.com/book
- -tickets/summary/10016/296976/265420
+ -tickets/summary/10016/296976/265764
 LOCATION:Vue Cambridge - Grafton Centre
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The Nun II
-DTSTART;TZID=Europe/London:20230927T131500
-DTEND;TZID=Europe/London:20230927T152500
-DTSTAMP:20230927T131600Z
-UID:265448
+DTSTART;TZID=Europe/London:20230929T124500
+DTEND;TZID=Europe/London:20230929T145500
+DTSTAMP:20230929T124600Z
+UID:265618
 DESCRIPTION:Duration: 110 mins (1h50m)\nScreen 2\n\n1956 - France. A pries
  t is murdered. An evil is spreading. The sequel to the worldwide smash hit
   follows Sister Irene as she once again comes face-to-face with Valak\, th
  e demon nun.\n\nDirected by Michael Chaves\nCast: Storm Reid\,Jonas Bloque
  t\,Taissa Farmiga\n\nhttps://www.myvue.com/book-tickets/summary/10016/3700
- 64/265448
+ 64/265618
 LOCATION:Vue Cambridge - Grafton Centre
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The Nun II
-DTSTART;TZID=Europe/London:20230927T163000
-DTEND;TZID=Europe/London:20230927T184000
-DTSTAMP:20230927T163100Z
-UID:265329
-DESCRIPTION:Duration: 110 mins (1h50m)\nScreen 5\n\n1956 - France. A pries
+DTSTART;TZID=Europe/London:20230929T154500
+DTEND;TZID=Europe/London:20230929T175500
+DTSTAMP:20230929T154600Z
+UID:265651
+DESCRIPTION:Duration: 110 mins (1h50m)\nScreen 3\n\n1956 - France. A pries
  t is murdered. An evil is spreading. The sequel to the worldwide smash hit
   follows Sister Irene as she once again comes face-to-face with Valak\, th
  e demon nun.\n\nDirected by Michael Chaves\nCast: Storm Reid\,Jonas Bloque
  t\,Taissa Farmiga\n\nhttps://www.myvue.com/book-tickets/summary/10016/3700
- 64/265329
+ 64/265651
 LOCATION:Vue Cambridge - Grafton Centre
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The Nun II
-DTSTART;TZID=Europe/London:20230927T220500
-DTEND;TZID=Europe/London:20230928T001500
-DTSTAMP:20230927T220600Z
-UID:265421
-DESCRIPTION:Duration: 110 mins (1h50m)\nScreen 6\n\n1956 - France. A pries
+DTSTART;TZID=Europe/London:20230929T120000
+DTEND;TZID=Europe/London:20230929T141000
+DTSTAMP:20230929T120100Z
+UID:265590
+DESCRIPTION:Duration: 110 mins (1h50m)\nScreen 1\n\n1956 - France. A pries
  t is murdered. An evil is spreading. The sequel to the worldwide smash hit
   follows Sister Irene as she once again comes face-to-face with Valak\, th
  e demon nun.\n\nDirected by Michael Chaves\nCast: Storm Reid\,Jonas Bloque
  t\,Taissa Farmiga\n\nhttps://www.myvue.com/book-tickets/summary/10016/3700
- 64/265421
-LOCATION:Vue Cambridge - Grafton Centre
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Canterville Ghost
-DTSTART;TZID=Europe/London:20230927T134500
-DTEND;TZID=Europe/London:20230927T153500
-DTSTAMP:20230927T134600Z
-UID:265328
-DESCRIPTION:Duration: 89 mins (1h29m)\nScreen 5\n\nThe poor ghost of Sir S
- imon Canterville has been roaming his castle searching in vain for a brave
-  descendant who will release him from the Canterville curse by performing 
- a brave deed.\n\nDirected by Kim Burdon\nCast: Stephen Fry\, Imelda Staunt
- on\,Freddie Highmore\,Hugh Laurie\,Toby Jones\n\nhttps://www.myvue.com/boo
- k-tickets/summary/10016/395711/265328
+ 64/265590
 LOCATION:Vue Cambridge - Grafton Centre
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The Equalizer 3
-DTSTART;TZID=Europe/London:20230927T124500
-DTEND;TZID=Europe/London:20230927T145500
-DTSTAMP:20230927T124600Z
-UID:265358
-DESCRIPTION:Duration: 109 mins (1h49m)\nScreen 7\n\nSince giving up his li
+DTSTART;TZID=Europe/London:20230929T131500
+DTEND;TZID=Europe/London:20230929T152500
+DTSTAMP:20230929T131600Z
+UID:265650
+DESCRIPTION:Duration: 109 mins (1h49m)\nScreen 3\n\nSince giving up his li
  fe as a government assassin\, Robert McCall (Denzel Washington) has strugg
  led to reconcile the horrific things he's done in the past and finds a str
  ange solace is serving justice on behalf of the oppressed.\n\nDirected by 
  Antoine Fuqua\nCast: Denzel Washington\, Dakota Fanning\, David Denman\n\n
- https://www.myvue.com/book-tickets/summary/10016/360870/265358
+ https://www.myvue.com/book-tickets/summary/10016/360870/265650
 LOCATION:Vue Cambridge - Grafton Centre
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The Equalizer 3
-DTSTART;TZID=Europe/London:20230927T145000
-DTEND;TZID=Europe/London:20230927T170000
-DTSTAMP:20230927T145100Z
-UID:265389
-DESCRIPTION:Duration: 109 mins (1h49m)\nScreen 8\n\nSince giving up his li
- fe as a government assassin\, Robert McCall (Denzel Washington) has strugg
- led to reconcile the horrific things he's done in the past and finds a str
- ange solace is serving justice on behalf of the oppressed.\n\nDirected by 
- Antoine Fuqua\nCast: Denzel Washington\, Dakota Fanning\, David Denman\n\n
- https://www.myvue.com/book-tickets/summary/10016/360870/265389
-LOCATION:Vue Cambridge - Grafton Centre
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Equalizer 3
-DTSTART;TZID=Europe/London:20230927T180000
-DTEND;TZID=Europe/London:20230927T201000
-DTSTAMP:20230927T180100Z
-UID:265450
+DTSTART;TZID=Europe/London:20230929T151500
+DTEND;TZID=Europe/London:20230929T172500
+DTSTAMP:20230929T151600Z
+UID:265619
 DESCRIPTION:Duration: 109 mins (1h49m)\nScreen 2\n\nSince giving up his li
  fe as a government assassin\, Robert McCall (Denzel Washington) has strugg
  led to reconcile the horrific things he's done in the past and finds a str
  ange solace is serving justice on behalf of the oppressed.\n\nDirected by 
  Antoine Fuqua\nCast: Denzel Washington\, Dakota Fanning\, David Denman\n\n
- https://www.myvue.com/book-tickets/summary/10016/360870/265450
+ https://www.myvue.com/book-tickets/summary/10016/360870/265619
 LOCATION:Vue Cambridge - Grafton Centre
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The Equalizer 3
-DTSTART;TZID=Europe/London:20230927T213000
-DTEND;TZID=Europe/London:20230927T234000
-DTSTAMP:20230927T213100Z
-UID:265330
-DESCRIPTION:Duration: 109 mins (1h49m)\nScreen 5\n\nSince giving up his li
+DTSTART;TZID=Europe/London:20230929T205000
+DTEND;TZID=Europe/London:20230929T230000
+DTSTAMP:20230929T205100Z
+UID:265653
+DESCRIPTION:Duration: 109 mins (1h49m)\nScreen 3\n\nSince giving up his li
  fe as a government assassin\, Robert McCall (Denzel Washington) has strugg
  led to reconcile the horrific things he's done in the past and finds a str
  ange solace is serving justice on behalf of the oppressed.\n\nDirected by 
  Antoine Fuqua\nCast: Denzel Washington\, Dakota Fanning\, David Denman\n\n
- https://www.myvue.com/book-tickets/summary/10016/360870/265330
-LOCATION:Vue Cambridge - Grafton Centre
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Barbie
-DTSTART;TZID=Europe/London:20230927T165000
-DTEND;TZID=Europe/London:20230927T190500
-DTSTAMP:20230927T165100Z
-UID:265519
-DESCRIPTION:Duration: 114 mins (1h54m)\nScreen 4\n\nEccentric and individu
- alistic\, Barbie is exiled from Barbieland because of her imperfections. W
- hen her home world is in peril\, Barbie returns with the knowledge that wh
- at makes her different also makes her stronger.\n\nDirected by Greta Gerwi
- g\nCast: Margot Robbie\, Ryan Gosling\, Emma Mackey\, America Ferrera\, Mi
- chael Cera\, Simu Liu\, John Cena\, Nicola Coughlan\n\nhttps://www.myvue.c
- om/book-tickets/summary/10016/361313/265519
-LOCATION:Vue Cambridge - Grafton Centre
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Oppenheimer
-DTSTART;TZID=Europe/London:20230927T133000
-DTEND;TZID=Europe/London:20230927T165000
-DTSTAMP:20230927T133100Z
-UID:265494
-DESCRIPTION:Duration: 180 mins (3h00m)\nScreen 3\n\nWritten and directed b
- y Christopher Nolan and produced by Emma Thomas\, Atlas Entertainment's Ch
- arles Roven and Nolan\, 'Oppenheimer' stars Cillian Murphy as J. Robert Op
- penheimer.\n\nDirected by Christopher Nolan\nCast: Cillian Murphy\, Emily 
- Blunt\, Robert Downey Jr.\, Florence Pugh\, Matt Damon\, Rami Malek\, Gary
-  Oldman\n\nhttps://www.myvue.com/book-tickets/summary/10016/342472/265494
-LOCATION:Vue Cambridge - Grafton Centre
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Oppenheimer
-DTSTART;TZID=Europe/London:20230927T203000
-DTEND;TZID=Europe/London:20230927T235000
-DTSTAMP:20230927T203100Z
-UID:265451
-DESCRIPTION:Duration: 180 mins (3h00m)\nScreen 2\n\nWritten and directed b
- y Christopher Nolan and produced by Emma Thomas\, Atlas Entertainment's Ch
- arles Roven and Nolan\, 'Oppenheimer' stars Cillian Murphy as J. Robert Op
- penheimer.\n\nDirected by Christopher Nolan\nCast: Cillian Murphy\, Emily 
- Blunt\, Robert Downey Jr.\, Florence Pugh\, Matt Damon\, Rami Malek\, Gary
-  Oldman\n\nhttps://www.myvue.com/book-tickets/summary/10016/342472/265451
-LOCATION:Vue Cambridge - Grafton Centre
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Elemental
-DTSTART;TZID=Europe/London:20230927T121000
-DTEND;TZID=Europe/London:20230927T142000
-DTSTAMP:20230927T121100Z
-UID:265417
-DESCRIPTION:Duration: 109 mins (1h49m)\nScreen 6\n\nIn a city where fire\,
-  water\, land\, and air residents live together\, a fiery young woman and 
- a go-with-the-flow guy are about to discover something elemental: How much
-  they actually have in common.\n\nDirected by Peter Sohn\nCast: Leah Lewis
- \, Catherine O'Hara\, Mamoudou Athie\, Wendi McLendon-Covey\n\nhttps://www
- .myvue.com/book-tickets/summary/10016/290542/265417
-LOCATION:Vue Cambridge - Grafton Centre
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:BFI Presents: The Old Oak
-DTSTART;TZID=Europe/London:20230927T193000
-DTEND;TZID=Europe/London:20230927T214500
-DTSTAMP:20230927T193100Z
-UID:264701
-DESCRIPTION:Duration: 113 mins (1h53m)\nScreen 3\n\n'The Old Oak' is a spe
- cial place. Not only is it the last pub standing\, but it's also the only 
- remaining public space where people can meet in a once thriving mining com
- munity that has now fallen on hard times after 30 years of decline.\n\nDir
- ected by Ken Loach\nCast: Chris Gotts\, Debbie Honeywood\, Reuben Bainbrid
- ge\n\nhttps://www.myvue.com/book-tickets/summary/10016/999147/264701
-LOCATION:Vue Cambridge - Grafton Centre
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Mystery Film (September)
-DTSTART;TZID=Europe/London:20230927T194500
-DTEND;TZID=Europe/London:20230927T222000
-DTSTAMP:20230927T194600Z
-UID:265391
-DESCRIPTION:Duration: 133 mins (2h13m)\nScreen 8\n\nJoin us for a mystery 
- film\, revealed once the movie starts\n\nDirected by ?\nCast: ?\n\nhttps:/
- /www.myvue.com/book-tickets/summary/10016/999145/265391
-LOCATION:Vue Cambridge - Grafton Centre
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Surprised by Oxford
-DTSTART;TZID=Europe/London:20230927T190000
-DTEND;TZID=Europe/London:20230927T211000
-DTSTAMP:20230927T190100Z
-UID:262812
-DESCRIPTION:Duration: 109 mins (1h49m)\nScreen 5\n\nCaro Drake arrives in 
- Oxford with the singular goal of attaining her PhD - but through a turbule
- nt friendship with a charming man awakens to the possibility of love.\n\nD
- irected by Ryan Whitaker\nCast: Rose Reid\,Mark Williams\,Ruairi O'Connor\
- n\nhttps://www.myvue.com/book-tickets/summary/10016/393859/262812
+ https://www.myvue.com/book-tickets/summary/10016/360870/265653
 LOCATION:Vue Cambridge - Grafton Centre
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Dumb Money
-DTSTART;TZID=Europe/London:20230928T125500
-DTEND;TZID=Europe/London:20230928T150000
-DTSTAMP:20230928T125600Z
-UID:265445
+DTSTART;TZID=Europe/London:20230929T175000
+DTEND;TZID=Europe/London:20230929T195500
+DTSTAMP:20230929T175100Z
+UID:265620
 DESCRIPTION:Duration: 104 mins (1h44m)\nScreen 2\n\nDumb Money is based on
   the insane true story of the YouTuber who brought Wall Street to its knee
  s and got rich by turning the video-game retailer GameStop into the world'
  s hottest company. I\n\nDirected by Craig Gillespie\nCast: Paul Dano\, Pet
  e Davidson\, Vincent D'Onofrio\, Seth Rogan\, Clancy Brown\, Shailene Wood
  ley\, America Ferrera\n\nhttps://www.myvue.com/book-tickets/summary/10016/
- 385112/265445
-LOCATION:Vue Cambridge - Grafton Centre
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Dumb Money
-DTSTART;TZID=Europe/London:20230928T173500
-DTEND;TZID=Europe/London:20230928T194000
-DTSTAMP:20230928T173600Z
-UID:265387
-DESCRIPTION:Duration: 104 mins (1h44m)\nScreen 8\n\nDumb Money is based on
-  the insane true story of the YouTuber who brought Wall Street to its knee
- s and got rich by turning the video-game retailer GameStop into the world'
- s hottest company. I\n\nDirected by Craig Gillespie\nCast: Paul Dano\, Pet
- e Davidson\, Vincent D'Onofrio\, Seth Rogan\, Clancy Brown\, Shailene Wood
- ley\, America Ferrera\n\nhttps://www.myvue.com/book-tickets/summary/10016/
- 385112/265387
-LOCATION:Vue Cambridge - Grafton Centre
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Dumb Money
-DTSTART;TZID=Europe/London:20230928T195000
-DTEND;TZID=Europe/London:20230928T215500
-DTSTAMP:20230928T195100Z
-UID:265356
-DESCRIPTION:Duration: 104 mins (1h44m)\nScreen 7\n\nDumb Money is based on
-  the insane true story of the YouTuber who brought Wall Street to its knee
- s and got rich by turning the video-game retailer GameStop into the world'
- s hottest company. I\n\nDirected by Craig Gillespie\nCast: Paul Dano\, Pet
- e Davidson\, Vincent D'Onofrio\, Seth Rogan\, Clancy Brown\, Shailene Wood
- ley\, America Ferrera\n\nhttps://www.myvue.com/book-tickets/summary/10016/
- 385112/265356
-LOCATION:Vue Cambridge - Grafton Centre
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:A Haunting in Venice
-DTSTART;TZID=Europe/London:20230928T120000
-DTEND;TZID=Europe/London:20230928T140500
-DTSTAMP:20230928T120100Z
-UID:265323
-DESCRIPTION:Duration: 103 mins (1h43m)\nScreen 5\n\n"A Haunting in Venice"
-  is set in eerie\, post-World War II Venice on All Hallows' Eve and is a t
- errifying mystery featuring the return of the celebrated sleuth\, Hercule 
- Poirot.\n\nDirected by Kenneth Branagh\nCast: Kenneth Branagh\, Michelle Y
- eoh\, Tina Fey\, Jamie Dornan\, Kelly Reilly\n\nhttps://www.myvue.com/book
- -tickets/summary/10016/296976/265323
-LOCATION:Vue Cambridge - Grafton Centre
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:A Haunting in Venice
-DTSTART;TZID=Europe/London:20230928T141500
-DTEND;TZID=Europe/London:20230928T162000
-DTSTAMP:20230928T141600Z
-UID:265354
-DESCRIPTION:Duration: 103 mins (1h43m)\nScreen 7\n\n"A Haunting in Venice"
-  is set in eerie\, post-World War II Venice on All Hallows' Eve and is a t
- errifying mystery featuring the return of the celebrated sleuth\, Hercule 
- Poirot.\n\nDirected by Kenneth Branagh\nCast: Kenneth Branagh\, Michelle Y
- eoh\, Tina Fey\, Jamie Dornan\, Kelly Reilly\n\nhttps://www.myvue.com/book
- -tickets/summary/10016/296976/265354
-LOCATION:Vue Cambridge - Grafton Centre
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:A Haunting in Venice
-DTSTART;TZID=Europe/London:20230928T175000
-DTEND;TZID=Europe/London:20230928T195500
-DTSTAMP:20230928T175100Z
-UID:265415
-DESCRIPTION:Duration: 103 mins (1h43m)\nScreen 6\n\n"A Haunting in Venice"
-  is set in eerie\, post-World War II Venice on All Hallows' Eve and is a t
- errifying mystery featuring the return of the celebrated sleuth\, Hercule 
- Poirot.\n\nDirected by Kenneth Branagh\nCast: Kenneth Branagh\, Michelle Y
- eoh\, Tina Fey\, Jamie Dornan\, Kelly Reilly\n\nhttps://www.myvue.com/book
- -tickets/summary/10016/296976/265415
-LOCATION:Vue Cambridge - Grafton Centre
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:A Haunting in Venice
-DTSTART;TZID=Europe/London:20230928T201500
-DTEND;TZID=Europe/London:20230928T222000
-DTSTAMP:20230928T201600Z
-UID:265416
-DESCRIPTION:Duration: 103 mins (1h43m)\nScreen 6\n\n"A Haunting in Venice"
-  is set in eerie\, post-World War II Venice on All Hallows' Eve and is a t
- errifying mystery featuring the return of the celebrated sleuth\, Hercule 
- Poirot.\n\nDirected by Kenneth Branagh\nCast: Kenneth Branagh\, Michelle Y
- eoh\, Tina Fey\, Jamie Dornan\, Kelly Reilly\n\nhttps://www.myvue.com/book
- -tickets/summary/10016/296976/265416
-LOCATION:Vue Cambridge - Grafton Centre
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Nun II
-DTSTART;TZID=Europe/London:20230928T142500
-DTEND;TZID=Europe/London:20230928T163500
-DTSTAMP:20230928T142600Z
-UID:265324
-DESCRIPTION:Duration: 110 mins (1h50m)\nScreen 5\n\n1956 - France. A pries
- t is murdered. An evil is spreading. The sequel to the worldwide smash hit
-  follows Sister Irene as she once again comes face-to-face with Valak\, th
- e demon nun.\n\nDirected by Michael Chaves\nCast: Storm Reid\,Jonas Bloque
- t\,Taissa Farmiga\n\nhttps://www.myvue.com/book-tickets/summary/10016/3700
- 64/265324
-LOCATION:Vue Cambridge - Grafton Centre
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Nun II
-DTSTART;TZID=Europe/London:20230928T213000
-DTEND;TZID=Europe/London:20230928T234000
-DTSTAMP:20230928T213100Z
-UID:265544
-DESCRIPTION:Duration: 110 mins (1h50m)\nScreen 1\n\n1956 - France. A pries
- t is murdered. An evil is spreading. The sequel to the worldwide smash hit
-  follows Sister Irene as she once again comes face-to-face with Valak\, th
- e demon nun.\n\nDirected by Michael Chaves\nCast: Storm Reid\,Jonas Bloque
- t\,Taissa Farmiga\n\nhttps://www.myvue.com/book-tickets/summary/10016/3700
- 64/265544
+ 385112/265620
 LOCATION:Vue Cambridge - Grafton Centre
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The Canterville Ghost
-DTSTART;TZID=Europe/London:20230928T120500
-DTEND;TZID=Europe/London:20230928T135500
-DTSTAMP:20230928T120600Z
-UID:265353
+DTSTART;TZID=Europe/London:20230929T120000
+DTEND;TZID=Europe/London:20230929T135000
+DTSTAMP:20230929T120100Z
+UID:265760
 DESCRIPTION:Duration: 89 mins (1h29m)\nScreen 7\n\nThe poor ghost of Sir S
  imon Canterville has been roaming his castle searching in vain for a brave
   descendant who will release him from the Canterville curse by performing 
  a brave deed.\n\nDirected by Kim Burdon\nCast: Stephen Fry\, Imelda Staunt
  on\,Freddie Highmore\,Hugh Laurie\,Toby Jones\n\nhttps://www.myvue.com/boo
- k-tickets/summary/10016/395711/265353
+ k-tickets/summary/10016/395711/265760
 LOCATION:Vue Cambridge - Grafton Centre
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:The Equalizer 3
-DTSTART;TZID=Europe/London:20230928T121000
-DTEND;TZID=Europe/London:20230928T142000
-DTSTAMP:20230928T121100Z
-UID:265385
-DESCRIPTION:Duration: 109 mins (1h49m)\nScreen 8\n\nSince giving up his li
- fe as a government assassin\, Robert McCall (Denzel Washington) has strugg
- led to reconcile the horrific things he's done in the past and finds a str
- ange solace is serving justice on behalf of the oppressed.\n\nDirected by 
- Antoine Fuqua\nCast: Denzel Washington\, Dakota Fanning\, David Denman\n\n
- https://www.myvue.com/book-tickets/summary/10016/360870/265385
-LOCATION:Vue Cambridge - Grafton Centre
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Equalizer 3
-DTSTART;TZID=Europe/London:20230928T214000
-DTEND;TZID=Europe/London:20230928T235000
-DTSTAMP:20230928T214100Z
-UID:265327
-DESCRIPTION:Duration: 109 mins (1h49m)\nScreen 5\n\nSince giving up his li
- fe as a government assassin\, Robert McCall (Denzel Washington) has strugg
- led to reconcile the horrific things he's done in the past and finds a str
- ange solace is serving justice on behalf of the oppressed.\n\nDirected by 
- Antoine Fuqua\nCast: Denzel Washington\, Dakota Fanning\, David Denman\n\n
- https://www.myvue.com/book-tickets/summary/10016/360870/265327
+SUMMARY:The Canterville Ghost
+DTSTART;TZID=Europe/London:20230929T143000
+DTEND;TZID=Europe/London:20230929T162000
+DTSTAMP:20230929T143100Z
+UID:265681
+DESCRIPTION:Duration: 89 mins (1h29m)\nScreen 4\n\nThe poor ghost of Sir S
+ imon Canterville has been roaming his castle searching in vain for a brave
+  descendant who will release him from the Canterville curse by performing 
+ a brave deed.\n\nDirected by Kim Burdon\nCast: Stephen Fry\, Imelda Staunt
+ on\,Freddie Highmore\,Hugh Laurie\,Toby Jones\n\nhttps://www.myvue.com/boo
+ k-tickets/summary/10016/395711/265681
 LOCATION:Vue Cambridge - Grafton Centre
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Barbie
-DTSTART;TZID=Europe/London:20230928T132000
-DTEND;TZID=Europe/London:20230928T153500
-DTSTAMP:20230928T132100Z
-UID:265492
-DESCRIPTION:Duration: 114 mins (1h54m)\nScreen 3\n\nEccentric and individu
+DTSTART;TZID=Europe/London:20230929T130000
+DTEND;TZID=Europe/London:20230929T151500
+DTSTAMP:20230929T130100Z
+UID:265586
+DESCRIPTION:Duration: 114 mins (1h54m)\nScreen 1\n\nEccentric and individu
  alistic\, Barbie is exiled from Barbieland because of her imperfections. W
  hen her home world is in peril\, Barbie returns with the knowledge that wh
  at makes her different also makes her stronger.\n\nDirected by Greta Gerwi
  g\nCast: Margot Robbie\, Ryan Gosling\, Emma Mackey\, America Ferrera\, Mi
  chael Cera\, Simu Liu\, John Cena\, Nicola Coughlan\n\nhttps://www.myvue.c
- om/book-tickets/summary/10016/361313/265492
+ om/book-tickets/summary/10016/361313/265586
 LOCATION:Vue Cambridge - Grafton Centre
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Barbie
-DTSTART;TZID=Europe/London:20230928T163000
-DTEND;TZID=Europe/London:20230928T184500
-DTSTAMP:20230928T163100Z
-UID:265516
+DTSTART;TZID=Europe/London:20230929T164500
+DTEND;TZID=Europe/London:20230929T190000
+DTSTAMP:20230929T164600Z
+UID:265682
 DESCRIPTION:Duration: 114 mins (1h54m)\nScreen 4\n\nEccentric and individu
  alistic\, Barbie is exiled from Barbieland because of her imperfections. W
  hen her home world is in peril\, Barbie returns with the knowledge that wh
  at makes her different also makes her stronger.\n\nDirected by Greta Gerwi
  g\nCast: Margot Robbie\, Ryan Gosling\, Emma Mackey\, America Ferrera\, Mi
  chael Cera\, Simu Liu\, John Cena\, Nicola Coughlan\n\nhttps://www.myvue.c
- om/book-tickets/summary/10016/361313/265516
-LOCATION:Vue Cambridge - Grafton Centre
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Barbie
-DTSTART;TZID=Europe/London:20230928T175500
-DTEND;TZID=Europe/London:20230928T201000
-DTSTAMP:20230928T175600Z
-UID:265214
-DESCRIPTION:Duration: 114 mins (1h54m)\nScreen 2\n\nEccentric and individu
- alistic\, Barbie is exiled from Barbieland because of her imperfections. W
- hen her home world is in peril\, Barbie returns with the knowledge that wh
- at makes her different also makes her stronger.\n\nDirected by Greta Gerwi
- g\nCast: Margot Robbie\, Ryan Gosling\, Emma Mackey\, America Ferrera\, Mi
- chael Cera\, Simu Liu\, John Cena\, Nicola Coughlan\n\nhttps://www.myvue.c
- om/book-tickets/summary/10016/361313/265214
-LOCATION:Vue Cambridge - Grafton Centre
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Oppenheimer
-DTSTART;TZID=Europe/London:20230928T131000
-DTEND;TZID=Europe/London:20230928T163000
-DTSTAMP:20230928T131100Z
-UID:265470
-DESCRIPTION:Duration: 180 mins (3h00m)\nScreen 1\n\nWritten and directed b
- y Christopher Nolan and produced by Emma Thomas\, Atlas Entertainment's Ch
- arles Roven and Nolan\, 'Oppenheimer' stars Cillian Murphy as J. Robert Op
- penheimer.\n\nDirected by Christopher Nolan\nCast: Cillian Murphy\, Emily 
- Blunt\, Robert Downey Jr.\, Florence Pugh\, Matt Damon\, Rami Malek\, Gary
-  Oldman\n\nhttps://www.myvue.com/book-tickets/summary/10016/342472/265470
-LOCATION:Vue Cambridge - Grafton Centre
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:My Big Fat Greek Wedding 3
-DTSTART;TZID=Europe/London:20230928T152500
-DTEND;TZID=Europe/London:20230928T172000
-DTSTAMP:20230928T152600Z
-UID:265446
-DESCRIPTION:Duration: 92 mins (1h32m)\nScreen 2\n\nJoin the Portokalos fam
- ily as they travel to a family reunion in Greece for a heartwarming and hi
- larious trip full of love\, twists and turns. Opa!\n\nDirected by Nia Vard
- alos\nCast: John Corbett\,Nia Vardalos\n\nhttps://www.myvue.com/book-ticke
- ts/summary/10016/383495/265446
-LOCATION:Vue Cambridge - Grafton Centre
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Elemental
-DTSTART;TZID=Europe/London:20230928T152000
-DTEND;TZID=Europe/London:20230928T173000
-DTSTAMP:20230928T152100Z
-UID:265414
-DESCRIPTION:Duration: 109 mins (1h49m)\nScreen 6\n\nIn a city where fire\,
-  water\, land\, and air residents live together\, a fiery young woman and 
- a go-with-the-flow guy are about to discover something elemental: How much
-  they actually have in common.\n\nDirected by Peter Sohn\nCast: Leah Lewis
- \, Catherine O'Hara\, Mamoudou Athie\, Wendi McLendon-Covey\n\nhttps://www
- .myvue.com/book-tickets/summary/10016/290542/265414
+ om/book-tickets/summary/10016/361313/265682
 LOCATION:Vue Cambridge - Grafton Centre
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Rally Road Racers
-DTSTART;TZID=Europe/London:20230928T155500
-DTEND;TZID=Europe/London:20230928T175000
-DTSTAMP:20230928T155600Z
-UID:265493
-DESCRIPTION:Duration: 93 mins (1h33m)\nScreen 3\n\nRacers compete in a hig
+DTSTART;TZID=Europe/London:20230929T121500
+DTEND;TZID=Europe/London:20230929T141000
+DTSTAMP:20230929T121600Z
+UID:265680
+DESCRIPTION:Duration: 93 mins (1h33m)\nScreen 4\n\nRacers compete in a hig
  h-stakes rally along the famous Silk Road trade route\n\nDirected by Ross 
  Venokur\nCast: John Cleese\, Catherine Tate\, J.K. Simmons\, Chloe Bennet\
  , Sharon Horgan\, Jimmy O. Yang\n\nhttps://www.myvue.com/book-tickets/summ
- ary/10016/324106/265493
-LOCATION:Vue Cambridge - Grafton Centre
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Cobweb
-DTSTART;TZID=Europe/London:20230928T120000
-DTEND;TZID=Europe/London:20230928T135000
-DTSTAMP:20230928T120100Z
-UID:265547
-DESCRIPTION:Duration: 88 mins (1h28m)\nScreen 4\n\nEight-year-old Peter is
-  plagued by a mysterious\, constant tap\, tap from inside his bedroom wall
-  - a tapping that his parents insist is all in his imagination.\n\nDirecte
- d by Samuel Bodin\nCast: Lizzy Caplan\, Woody Norman\, Cleopatra Coleman\n
- \nhttps://www.myvue.com/book-tickets/summary/10016/330440/265547
-LOCATION:Vue Cambridge - Grafton Centre
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Lord of the Rings: The Return of the King (4K Extended Edition
- )
-DTSTART;TZID=Europe/London:20231001T140000
-DTEND;TZID=Europe/London:20231001T184500
-DTSTAMP:20231001T140100Z
-UID:264353
-DESCRIPTION:Duration: 263 mins (4h23m)\nScreen 6\n\nGandalf and Aragorn le
- ad the World of Men against Sauron's army to draw his gaze from Frodo and 
- Sam as they approach Mount Doom with the One Ring.\n\nDirected by Peter Ja
- ckson\nCast: Elijah Wood\, Viggo Mortensen\, Ian McKellen\n\nhttps://www.m
- yvue.com/book-tickets/summary/10016/290870/264353
-LOCATION:Vue Cambridge - Grafton Centre
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:A Little Life
-DTSTART;TZID=Europe/London:20231001T150000
-DTEND;TZID=Europe/London:20231001T190000
-DTSTAMP:20231001T150100Z
-UID:260761
-DESCRIPTION:Duration: 220 mins (3h40m)\nScreen 5\n\nJames Norton (Happy Va
- lley\, Grantchester) stars in the 'utterly compelling' (Daily Express) the
- atrical event of 2023 as visionary director Ivo van Hove (A View from the 
- Bridge) stages the English language premiere of 'A Little Life'.\n\nDirect
- ed by Ivo van Hove\nCast: Luke Thompson\,Nathalie Armin\,James Norton\n\nh
- ttps://www.myvue.com/book-tickets/summary/10016/392868/260761
-LOCATION:Vue Cambridge - Grafton Centre
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Hocus Pocus (1993)
-DTSTART;TZID=Europe/London:20231001T153000
-DTEND;TZID=Europe/London:20231001T172500
-DTSTAMP:20231001T153100Z
-UID:265550
-DESCRIPTION:Duration: 92 mins (1h32m)\nScreen 1\n\nYou're in for a devil o
- f a time when three outlandishly wild witches - Bette Midler\, Sarah Jessi
- ca Parker and Kathy Najimy - return from 17th century Salem after they are
-  accidentally conjured up by some unsuspecting pranksters!\n\nDirected by 
- Kenny Ortega\nCast: Kathy Najimy\, Thora Birch\, Bette Midler\, Sarah Jess
- ica Parker\, Vinessa Shaw\n\nhttps://www.myvue.com/book-tickets/summary/10
- 016/384380/265550
-LOCATION:Vue Cambridge - Grafton Centre
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Paw Patrol: The Mighty Movie
-DTSTART;TZID=Europe/London:20231001T111500
-DTEND;TZID=Europe/London:20231001T131000
-DTSTAMP:20231001T111600Z
-UID:265555
-DESCRIPTION:Duration: 92 mins (1h32m)\nScreen 3\n\nWhen a magical meteor c
- rash lands in Adventure City\, it gives the PAW Patrol pups superpowers\, 
- transforming them into The MIGHTY PUPS! For Skye\, the smallest member of 
- the team\, her new powers are a dream come true.\n\nDirected by Cal Brunke
- r\nCast: Kristen Bell\,Taraji P. Henson\,Christian Convery\n\nhttps://www.
- myvue.com/book-tickets/summary/10016/349973/265555
-LOCATION:Vue Cambridge - Grafton Centre
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Paw Patrol: The Mighty Movie
-DTSTART;TZID=Europe/London:20231001T133000
-DTEND;TZID=Europe/London:20231001T152500
-DTSTAMP:20231001T133100Z
-UID:265051
-DESCRIPTION:Duration: 92 mins (1h32m)\nScreen 3\n\nWhen a magical meteor c
- rash lands in Adventure City\, it gives the PAW Patrol pups superpowers\, 
- transforming them into The MIGHTY PUPS! For Skye\, the smallest member of 
- the team\, her new powers are a dream come true.\n\nDirected by Cal Brunke
- r\nCast: Kristen Bell\,Taraji P. Henson\,Christian Convery\n\nhttps://www.
- myvue.com/book-tickets/summary/10016/349973/265051
-LOCATION:Vue Cambridge - Grafton Centre
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Paw Patrol: The Mighty Movie
-DTSTART;TZID=Europe/London:20231001T154500
-DTEND;TZID=Europe/London:20231001T174000
-DTSTAMP:20231001T154600Z
-UID:265556
-DESCRIPTION:Duration: 92 mins (1h32m)\nScreen 3\n\nWhen a magical meteor c
- rash lands in Adventure City\, it gives the PAW Patrol pups superpowers\, 
- transforming them into The MIGHTY PUPS! For Skye\, the smallest member of 
- the team\, her new powers are a dream come true.\n\nDirected by Cal Brunke
- r\nCast: Kristen Bell\,Taraji P. Henson\,Christian Convery\n\nhttps://www.
- myvue.com/book-tickets/summary/10016/349973/265556
-LOCATION:Vue Cambridge - Grafton Centre
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Creator
-DTSTART;TZID=Europe/London:20231001T190000
-DTEND;TZID=Europe/London:20231001T213500
-DTSTAMP:20231001T190100Z
-UID:265567
-DESCRIPTION:Duration: 133 mins (2h13m)\nScreen 8\n\nFrom writer/director G
- areth Edwards ("Rogue One\," "Godzilla") comes an epic sci-fi action thril
- ler set amidst a future war between the human race and the forces of artif
- icial intelligence.\n\nDirected by Gareth Edwards\nCast: John David Washin
- gton\, Gemma Cha\, Allison Janney\, Ralph Inenson\, Veronica Ngo\n\nhttps:
- //www.myvue.com/book-tickets/summary/10016/364962/265567
-LOCATION:Vue Cambridge - Grafton Centre
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Toy Story (1996)
-DTSTART;TZID=Europe/London:20231001T131500
-DTEND;TZID=Europe/London:20231001T145500
-DTSTAMP:20231001T131600Z
-UID:263216
-DESCRIPTION:Duration: 78 mins (1h18m)\nScreen 1\n\nA cowboy doll is profou
- ndly threatened and jealous when a new spaceman figure supplants him as to
- p toy in a boy's room.\n\nDirected by Tom Hanks\, Tim Allen\, Wallace Shaw
- n\, Don Rickles\nCast: John Lasseter\n\nhttps://www.myvue.com/book-tickets
- /summary/10016/6621/263216
+ ary/10016/324106/265680
 LOCATION:Vue Cambridge - Grafton Centre
 END:VEVENT
 END:VCALENDAR
